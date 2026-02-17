@@ -25,7 +25,7 @@
         <div class="chap">
           <p>{{chap}}</p>
         </div>
-        <p>BPM: {{BPM}}</p>
+        <p>Base BPM: {{BPM}}</p>
         <p>{{durationStr}}</p>
       </div>
       <div class="row">

@@ -89,7 +89,6 @@ async function songInfo(id, e) {
         const item = infoData.chart[level]
         /** @type {{start: number, length: number, theme: import("../model/getInfo.js").themeColorArray}[]} */
         const challengeTimes = []
-        const totTick = infoData.duration / 60 * infoData.BPM
         item.challengeTimes.forEach(time => {
             challengeTimes.push({
                 start: time.start / infoData.duration * 100,
