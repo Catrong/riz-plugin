@@ -1,0 +1,36 @@
+
+lain.support.js
+# 忽略数据文件
+/data/*
+
+# 忽略配置文件
+/config/config/*
+
+# 忽略备份文件
+/backup/
+
+# 忽略 node_modules 目录
+/node_modules/
+
+# 忽略资源文件
+resources/original_ill/
+
+# 忽略特定文件
+/package-lock.json
+/.hintrc
+tem.js
+lain.support.js
+
+# 忽略特定目录和文件
+tem/
+chart/
+plugin-ill/
+
+# 忽略 apps 目录中的特定文件
+plugin-ill/
+
+# 忽略临时文件
+/temp/
+
+# 忽略vscode设置
+.vscode/

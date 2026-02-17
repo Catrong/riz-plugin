@@ -1,0 +1,395 @@
+@import "../../common/common.css";
+
+body {
+  width: 1600px;
+  height: 1000px;
+  background-color: #cccccc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.background {
+  display: none;
+}
+
+.main-box {
+  width: 80%;
+  height: 700px;
+  margin-top: 50px;
+  border: solid 5px #ffffff44;
+  border-radius: var(--border-radius-size);
+  overflow: visible;
+  position: relative;
+  background-color: #ffffffdd;
+  background-clip: padding-box;
+}
+
+.ill-box {
+  --box-size: 512px;
+  --img-size: 96%;
+  width: var(--box-size);
+  height: var(--box-size);
+  border: solid 5px #c7c7c76b;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  margin: auto;
+  position: absolute;
+  top: -100px;
+  left: 20px;
+}
+
+.ill {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+}
+
+.ill img {
+  width: var(--img-size);
+  height: var(--img-size);
+  border-radius: 50%;
+  overflow: hidden;
+  object-fit: cover;
+}
+
+.song-info {
+  position: absolute;
+  top: 425px;
+  left: 25px;
+  width: 512px;
+  height: 249px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.name {
+  width: 100%;
+  height: 60px;
+  position: relative;
+}
+
+.name p {
+  text-align: center;
+  font-size: 50px;
+}
+
+.row {
+  width: 100%;
+  height: 50px;
+  position: relative;
+}
+
+.row p {
+  text-align: center;
+  font-size: 30px;
+}
+
+.row {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.chap {
+  min-width: 100px;
+  height: 30px;
+  border-radius: 25px;
+  border: 2px black solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 10px;
+}
+
+.chap p {
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: -3px;
+}
+
+.bpm p {
+  font-size: 30px;
+}
+
+.chart-info {
+  position: absolute;
+  top: 25px;
+  right: 25px;
+  bottom: 25px;
+  left: 570px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dif-box {
+  width: 100%;
+  height: 30%;
+  display: flex;
+  border: 5px solid black;
+  border-radius: 25px;
+  position: relative;
+  --theme-bg-color: #ffffffff;
+  --theme-note-color: #b9e5ffff;
+  --theme-health-color: #73a2e1ff;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dif-EZ {
+  border-color: var(--EZ);
+}
+
+.dif-EZ .difficulty {
+  background-color: var(--EZ);
+}
+
+.dif-HD {
+  border-color: var(--HD);
+}
+
+.dif-HD .difficulty {
+  background-color: var(--HD);
+}
+
+.dif-IN {
+  border-color: var(--IN);
+}
+
+.dif-IN .difficulty {
+  background-color: var(--IN);
+}
+
+.dif-AT {
+  border-color: var(--AT);
+}
+
+.dif-AT .difficulty {
+  background-color: var(--AT);
+}
+
+.difficulty {
+  position: absolute;
+  left: 11px;
+  top: 10px;
+  height: 30px;
+  width: 80px;
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+  border-radius: 15px;
+  justify-content: space-between;
+}
+
+.difficulty p {
+  font-size: 20px;
+  color: white;
+  margin-bottom: -3px;
+}
+
+.charter {
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.charter p {
+  font-size: 20px;
+  color: black;
+}
+
+.rows {
+  display: flex;
+  position: absolute;
+  top: 40px;
+  bottom: 40px;
+  left: 10px;
+  right: 10px;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
+
+.hit-row {
+  display: flex;
+  width: 100%;
+  height: 30px;
+  justify-content: space-between;
+  align-items: center;
+  --stroke-color: var(--theme-health-color);
+  --stroke-width: 2px;
+}
+
+.hit-box {
+  display: flex;
+  align-items: center; /* width: 130px; */
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.hit {
+  background-color: var(--theme-note-color);
+  padding: 0 10px;
+  border-radius: 15px;
+  height: 30px;
+  margin-right: 20px;
+  display: flex;
+}
+
+.hit p {
+  font-size: 25px;
+  color: white;
+  margin-top: 2px;
+  font-weight: 800;
+}
+
+.hit-num {
+}
+
+.hit-num p {
+  font-size: 30px;
+  color: black;
+}
+
+.score-box {
+  display: flex;
+  width: 250px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: var(--theme-note-color);
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 0 10px;
+}
+
+.score {
+  display: flex;
+}
+
+.score p {
+  color: white;
+  font-size: 25px;
+  font-weight: 800;
+}
+
+.score-num {
+  position: relative;
+}
+
+.score-num p {
+  font-size: 43px;
+  font-weight: 1000;
+  color: #ffffff;
+  margin-bottom: -4px;
+}
+
+.score-num p:nth-child(1) {
+  -webkit-text-stroke: var(--theme-note-color) 3px;
+}
+
+.score-num p:nth-child(2) {
+  position: absolute;
+  bottom: 0;
+}
+
+.perfect-row {
+  display: flex;
+  /* width: 96%; */
+  height: 30px;
+  justify-content: space-between;
+  align-items: center;
+  --stroke-color: var(--theme-health-color);
+  --stroke-width: 2px;
+  --theme-bg-color: #ffffffff;
+  --theme-note-color: #ffd40b;
+  --theme-health-color: #b19d3c;
+}
+
+.rizTime-box {
+  position: absolute;
+  left: 25px;
+  right: 25px;
+  bottom: 10px;
+}
+
+.timeBar-box {
+  width: 100%;
+}
+
+.timeBar {
+  position: absolute;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 0;
+}
+
+.timeBar-outer,
+.timeBar-inner,
+.timeBar-front {
+  position: absolute;
+}
+
+.timeBar-outer {
+  left: -15px;
+  right: -15px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: var(--theme-bg-color);
+}
+
+.timeBar-inner {
+  left: -11px;
+  right: -11px;
+  height: 22px;
+  border-radius: 11px;
+  background-color: var(--theme-health-color);
+}
+
+.timeBar-front {
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  border: 4px solid black;
+  background-color: var(--theme-note-color);
+  background-clip: padding-box;
+  box-sizing: border-box;
+  left: -15px;
+}
+
+.baseBar {
+  position: relative;
+  width: 100%;
+  /* margin-left: 15px; */
+  filter: drop-shadow(0px 0px 2px black);
+  /* margin: 0; */
+}
+
+.createdbox {
+  position: absolute;
+}
+
+.riz-plugin p {
+  font-size: 40px;
+}
+
+.ver p {
+  font-size: 20px;
+}

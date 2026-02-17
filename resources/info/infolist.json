@@ -1,0 +1,7384 @@
+[
+  {
+    "id": "PastelLines.RekuMochizuki.0",
+    "chap": "Disc 1",
+    "name": "Pastel Lines",
+    "composer": "Reku Mochizuki",
+    "pst": 51.79999923706055,
+    "pet": 71.80000305175781,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 1,
+        "charter": "NerSAN",
+        "theme": ["#ffffffff", "#b9e5ffff", "#73a2e1ff"],
+        "hitCount": 100,
+        "rizHitCount": 29,
+        "challengeTimes": [
+          {
+            "start": 131,
+            "end": 195,
+            "theme": ["#d4edfeff", "#73a2e1ff", "#8e88cbff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "Barbarianerman",
+        "theme": ["#ffffffff", "#b9e5ffff", "#73a2e1ff"],
+        "hitCount": 380,
+        "rizHitCount": 103,
+        "challengeTimes": [
+          {
+            "start": 131,
+            "end": 195,
+            "theme": ["#d4edfeff", "#73a2e1ff", "#8e88cbff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 11.399999618530273,
+        "charter": "百九十八",
+        "theme": ["#ffffffff", "#b9e5ffff", "#73a2e1ff"],
+        "hitCount": 537,
+        "rizHitCount": 163,
+        "challengeTimes": [
+          {
+            "start": 131,
+            "end": 195,
+            "theme": ["#d4edfeff", "#73a2e1ff", "#8e88cbff"]
+          }
+        ]
+      }
+    },
+    "duration": 110.387664,
+    "BPM": 150,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Gleam.Uske.0",
+    "chap": "Disc 1",
+    "name": "Gleam feat. ふわまろ",
+    "composer": "U-ske",
+    "pst": 50.38399887084961,
+    "pet": 70.38400268554688,
+    "illustrator": "きゃらあい",
+    "chart": {
+      "EZ": {
+        "diff": 1.5,
+        "charter": "Pro Barbarianerman",
+        "theme": ["#f1eaedff", "#f58f8fff", "#9d92b7ff"],
+        "hitCount": 178,
+        "rizHitCount": 35,
+        "challengeTimes": [
+          {
+            "start": 167,
+            "end": 231,
+            "theme": ["#d1cce1ff", "#eac57dff", "#80a2ceff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 6,
+        "charter": "Pcat",
+        "theme": ["#f1eaedff", "#f58f8fff", "#9d92b7ff"],
+        "hitCount": 442,
+        "rizHitCount": 89,
+        "challengeTimes": [
+          {
+            "start": 167,
+            "end": 231,
+            "theme": ["#d1cce1ff", "#eac57dff", "#80a2ceff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.600000381469727,
+        "charter": "Proxima",
+        "theme": ["#f1eaedff", "#f58f8fff", "#9d92b7ff"],
+        "hitCount": 810,
+        "rizHitCount": 124,
+        "challengeTimes": [
+          {
+            "start": 167,
+            "end": 231,
+            "theme": ["#d1cce1ff", "#eac57dff", "#80a2ceff"]
+          }
+        ]
+      }
+    },
+    "duration": 121.192313,
+    "BPM": 195,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "PowerAttack.EBIMAYO.0",
+    "chap": "Disc 1",
+    "name": "Power Attack",
+    "composer": "EBIMAYO",
+    "pst": 87,
+    "pet": 107,
+    "illustrator": "美工刀",
+    "chart": {
+      "EZ": {
+        "diff": 2,
+        "charter": "Power Shine",
+        "theme": ["#e1e1e6ff", "#fccc80ff", "#c5327bff"],
+        "hitCount": 331,
+        "rizHitCount": 45,
+        "challengeTimes": [
+          {
+            "start": 264,
+            "end": 328,
+            "theme": ["#e4cadcff", "#ff4195ff", "#6f7f8eff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8,
+        "charter": "Power cat",
+        "theme": ["#e1e1e6ff", "#fccc80ff", "#c5327bff"],
+        "hitCount": 689,
+        "rizHitCount": 115,
+        "challengeTimes": [
+          {
+            "start": 264,
+            "end": 328,
+            "theme": ["#e4cadcff", "#ff4195ff", "#6f7f8eff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.399999618530273,
+        "charter": "Barbarianerman",
+        "theme": ["#e1e1e6ff", "#fccc80ff", "#c5327bff"],
+        "hitCount": 931,
+        "rizHitCount": 223,
+        "challengeTimes": [
+          {
+            "start": 264,
+            "end": 328,
+            "theme": ["#e4cadcff", "#ff4195ff", "#6f7f8eff"]
+          }
+        ]
+      }
+    },
+    "duration": 133.395351,
+    "BPM": 180,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Skyscape.Plum.0",
+    "chap": "Disc 1",
+    "name": "Skyscape",
+    "composer": "Plum",
+    "pst": 72.98400115966797,
+    "pet": 92.98400115966797,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 1,
+        "charter": "Skyshine",
+        "theme": ["#ffffffff", "#c6e7f7ff", "#aac5e7ff"],
+        "hitCount": 139,
+        "rizHitCount": 32,
+        "challengeTimes": [
+          {
+            "start": 164,
+            "end": 228,
+            "theme": ["#e4f8fdff", "#7fbeeeff", "#889bbbff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 6.5,
+        "charter": "Skystar",
+        "theme": ["#ffffffff", "#c6e7f7ff", "#aac5e7ff"],
+        "hitCount": 475,
+        "rizHitCount": 122,
+        "challengeTimes": [
+          {
+            "start": 164,
+            "end": 228,
+            "theme": ["#e4f8fdff", "#7fbeeeff", "#889bbbff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 11.100000381469727,
+        "charter": "阿爽",
+        "theme": ["#ffffffff", "#c6e7f7ff", "#aac5e7ff"],
+        "hitCount": 644,
+        "rizHitCount": 160,
+        "challengeTimes": [
+          {
+            "start": 164,
+            "end": 228,
+            "theme": ["#e4f8fdff", "#7fbeeeff", "#889bbbff"]
+          }
+        ]
+      }
+    },
+    "duration": 144.360907,
+    "BPM": 133,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "OnAndOn.ETIA.0",
+    "chap": "Disc 1",
+    "name": "On And On!!",
+    "composer": "ETIA.",
+    "pst": 90.76399993896484,
+    "pet": 110.76399993896484,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 4,
+        "charter": "满天星",
+        "theme": ["#f3e0d7ff", "#e7a964ff", "#d46556ff"],
+        "hitCount": 289,
+        "rizHitCount": 65,
+        "challengeTimes": [
+          {
+            "start": 196,
+            "end": 258,
+            "theme": ["#eeb698ff", "#e75649ff", "#cf8651ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7.5,
+        "charter": "阿爽",
+        "theme": ["#f3e0d7ff", "#e7a964ff", "#d46556ff"],
+        "hitCount": 403,
+        "rizHitCount": 104,
+        "challengeTimes": [
+          {
+            "start": 196,
+            "end": 258,
+            "theme": ["#eeb698ff", "#e75649ff", "#cf8651ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.100000381469727,
+        "charter": "NerSAN & 阿爽",
+        "theme": ["#f3e0d7ff", "#e7a964ff", "#d46556ff"],
+        "hitCount": 896,
+        "rizHitCount": 191,
+        "challengeTimes": [
+          {
+            "start": 196,
+            "end": 258,
+            "theme": ["#eeb698ff", "#e75649ff", "#cf8651ff"]
+          }
+        ]
+      }
+    },
+    "duration": 121.387483,
+    "BPM": 170,
+    "bpmShifts": []
+  },
+  {
+    "id": "Polygons.Riya.0",
+    "chap": "Disc 1",
+    "name": "Polygons",
+    "composer": "Riya",
+    "pst": 74.69200134277344,
+    "pet": 94.69200134277344,
+    "illustrator": "拖延",
+    "chart": {
+      "EZ": {
+        "diff": 1,
+        "charter": "Barbarianerman",
+        "theme": ["#666a84ff", "#93b1deff", "#24345bff"],
+        "hitCount": 165,
+        "rizHitCount": 65,
+        "challengeTimes": [
+          {
+            "start": 164,
+            "end": 228,
+            "theme": ["#93b1deff", "#eacc9bff", "#666a84ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 5,
+        "charter": "Uvernight",
+        "theme": ["#666a84ff", "#93b1deff", "#24345bff"],
+        "hitCount": 417,
+        "rizHitCount": 104,
+        "challengeTimes": [
+          {
+            "start": 164,
+            "end": 228,
+            "theme": ["#93b1deff", "#eacc9bff", "#666a84ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 9.5,
+        "charter": "Barbarianerman & Uvernight",
+        "theme": ["#666a84ff", "#93b1deff", "#24345bff"],
+        "hitCount": 583,
+        "rizHitCount": 149,
+        "challengeTimes": [
+          {
+            "start": 164,
+            "end": 228,
+            "theme": ["#93b1deff", "#eacc9bff", "#666a84ff"]
+          }
+        ]
+      }
+    },
+    "duration": 124.830476,
+    "BPM": 130,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Abgrund.ElousFZ.0",
+    "chap": "Disc 1",
+    "name": "Abgrund",
+    "composer": "ElousΛ.-FZ",
+    "pst": 82.33300018310547,
+    "pet": 102.33300018310547,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 3.5,
+        "charter": "Proxi.-MA",
+        "theme": ["#bbe4f4ff", "#6c8892ff", "#92c0dfff"],
+        "hitCount": 280,
+        "rizHitCount": 76,
+        "challengeTimes": [
+          {
+            "start": 136,
+            "end": 200,
+            "theme": ["#7995a3ff", "#b0ecf7ff", "#51797cff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 6,
+        "charter": "Uvernight",
+        "theme": ["#bbe4f4ff", "#6c8892ff", "#92c0dfff"],
+        "hitCount": 409,
+        "rizHitCount": 131,
+        "challengeTimes": [
+          {
+            "start": 136,
+            "end": 200,
+            "theme": ["#7995a3ff", "#b0ecf7ff", "#51797cff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.300000190734863,
+        "charter": "阿爽",
+        "theme": ["#bbe4f4ff", "#6c8892ff", "#92c0dfff"],
+        "hitCount": 546,
+        "rizHitCount": 154,
+        "challengeTimes": [
+          {
+            "start": 136,
+            "end": 200,
+            "theme": ["#7995a3ff", "#b0ecf7ff", "#51797cff"]
+          }
+        ]
+      }
+    },
+    "duration": 131.601066,
+    "BPM": 144,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "JourneyToTheRainbows.Ardolf.0",
+    "chap": "Disc 1",
+    "name": "Journey To The Rainbows",
+    "composer": "Ardolf",
+    "pst": 23,
+    "pet": 43,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "TangScend",
+        "theme": ["#ffffffff", "#c9ff85ff", "#fee94fff"],
+        "hitCount": 254,
+        "rizHitCount": 50,
+        "challengeTimes": [
+          {
+            "start": 195,
+            "end": 259,
+            "theme": ["#fffbd5ff", "#c0e9edff", "#efb4f6ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "TangScend",
+        "theme": ["#ffffffff", "#c9ff85ff", "#fee94fff"],
+        "hitCount": 632,
+        "rizHitCount": 133,
+        "challengeTimes": [
+          {
+            "start": 195,
+            "end": 259,
+            "theme": ["#fffbd5ff", "#c0e9edff", "#efb4f6ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.899999618530273,
+        "charter": "TangScend",
+        "theme": ["#ffffffff", "#c9ff85ff", "#fee94fff"],
+        "hitCount": 857,
+        "rizHitCount": 168,
+        "challengeTimes": [
+          {
+            "start": 195,
+            "end": 259,
+            "theme": ["#fffbd5ff", "#c0e9edff", "#efb4f6ff"]
+          }
+        ]
+      }
+    },
+    "duration": 141.569342,
+    "BPM": 170,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "MidnightFlux.ProjectG.0",
+    "chap": "Disc 1",
+    "name": "Midnight Flux",
+    "composer": "Project G",
+    "pst": 45.26499938964844,
+    "pet": 65.26499938964844,
+    "illustrator": "Doodoo",
+    "chart": {
+      "EZ": {
+        "diff": 3.5,
+        "charter": "CN_115",
+        "theme": ["#cdd2d4ff", "#91acb9ff", "#827f74ff"],
+        "hitCount": 414,
+        "rizHitCount": 54,
+        "challengeTimes": [
+          {
+            "start": 252,
+            "end": 320,
+            "theme": ["#9e9c9cff", "#a8ad9dff", "#b2c1c6ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 6.5,
+        "charter": "小鹏",
+        "theme": ["#cdd2d4ff", "#91acb9ff", "#827f74ff"],
+        "hitCount": 682,
+        "rizHitCount": 218,
+        "challengeTimes": [
+          {
+            "start": 252,
+            "end": 320,
+            "theme": ["#9e9c9cff", "#a8ad9dff", "#b2c1c6ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.5,
+        "charter": "Gausbon",
+        "theme": ["#cdd2d4ff", "#91acb9ff", "#827f74ff"],
+        "hitCount": 740,
+        "rizHitCount": 251,
+        "challengeTimes": [
+          {
+            "start": 252,
+            "end": 320,
+            "theme": ["#9e9c9cff", "#a8ad9dff", "#b2c1c6ff"]
+          }
+        ]
+      }
+    },
+    "duration": 122.801333,
+    "BPM": 166,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "NOONEYESMAN.MYUKKE.0",
+    "chap": "Disc 1",
+    "name": "NO ONE YES MAN",
+    "composer": "MYUKKE.",
+    "pst": 17.351999282836914,
+    "pet": 37.35200119018555,
+    "illustrator": "青鸟",
+    "chart": {
+      "EZ": {
+        "diff": 5,
+        "charter": "RIGILKENT",
+        "theme": ["#ffffffff", "#c9d5e8ff", "#f772beff"],
+        "hitCount": 367,
+        "rizHitCount": 118,
+        "challengeTimes": [
+          {
+            "start": 243,
+            "end": 308,
+            "theme": ["#d4c8dbff", "#f772beff", "#63587aff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "Barbarianerman",
+        "theme": ["#ffffffff", "#c9d5e8ff", "#f772beff"],
+        "hitCount": 561,
+        "rizHitCount": 130,
+        "challengeTimes": [
+          {
+            "start": 243,
+            "end": 308,
+            "theme": ["#d4c8dbff", "#f772beff", "#63587aff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.399999618530273,
+        "charter": "Gausbon",
+        "theme": ["#ffffffff", "#c9d5e8ff", "#f772beff"],
+        "hitCount": 929,
+        "rizHitCount": 212,
+        "challengeTimes": [
+          {
+            "start": 243,
+            "end": 308,
+            "theme": ["#d4c8dbff", "#f772beff", "#63587aff"]
+          }
+        ]
+      }
+    },
+    "duration": 123.53034,
+    "BPM": 170,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "ClockParadox.WyvernP.0",
+    "chap": "Disc 1",
+    "name": "Clock Paradox",
+    "composer": "WyvernP",
+    "pst": 112.13999938964844,
+    "pet": 132.13999938964844,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "Rikko",
+        "theme": ["#d2cdddff", "#a2bfd8ff", "#a29bcdff"],
+        "hitCount": 199,
+        "rizHitCount": 66,
+        "challengeTimes": [
+          {
+            "start": 262,
+            "end": 332,
+            "theme": ["#adb9d4ff", "#9f84b7ff", "#6574abff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 6.5,
+        "charter": "Barbarianerman with Harakuma",
+        "theme": ["#d2cdddff", "#a2bfd8ff", "#a29bcdff"],
+        "hitCount": 463,
+        "rizHitCount": 150,
+        "challengeTimes": [
+          {
+            "start": 262,
+            "end": 332,
+            "theme": ["#adb9d4ff", "#9f84b7ff", "#6574abff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.5,
+        "charter": "CN_115 & Gausbon",
+        "theme": ["#d2cdddff", "#a2bfd8ff", "#a29bcdff"],
+        "hitCount": 794,
+        "rizHitCount": 280,
+        "challengeTimes": [
+          {
+            "start": 262,
+            "end": 332,
+            "theme": ["#adb9d4ff", "#9f84b7ff", "#6574abff"]
+          }
+        ]
+      }
+    },
+    "duration": 149.137778,
+    "BPM": 140,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "FRIEND.DAAN.0",
+    "chap": "Disc 1",
+    "name": "F℟IEND",
+    "composer": "D_AAN",
+    "pst": 69.80000305175781,
+    "pet": 89.80000305175781,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "Barbarianerman",
+        "theme": ["#dee8e9ff", "#928a84ff", "#7ba0b5ff"],
+        "hitCount": 243,
+        "rizHitCount": 82,
+        "challengeTimes": [
+          {
+            "start": 236,
+            "end": 332,
+            "theme": ["#b4b0afff", "#aeece9ff", "#806c77ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "TangScend",
+        "theme": ["#dee8e9ff", "#928a84ff", "#7ba0b5ff"],
+        "hitCount": 529,
+        "rizHitCount": 150,
+        "challengeTimes": [
+          {
+            "start": 236,
+            "end": 332,
+            "theme": ["#b4b0afff", "#aeece9ff", "#806c77ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.199999809265137,
+        "charter": "阿爽",
+        "theme": ["#dee8e9ff", "#928a84ff", "#7ba0b5ff"],
+        "hitCount": 737,
+        "rizHitCount": 232,
+        "challengeTimes": [
+          {
+            "start": 236,
+            "end": 332,
+            "theme": ["#b4b0afff", "#aeece9ff", "#806c77ff"]
+          }
+        ]
+      }
+    },
+    "duration": 112.720317,
+    "BPM": 200,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Shattered.ARForest.0",
+    "chap": "Disc 1",
+    "name": "Shattered",
+    "composer": "ARForest",
+    "pst": 110.08499908447266,
+    "pet": 130.0850067138672,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "Barbarianerman",
+        "theme": ["#937a6aff", "#6f7c64ff", "#563028ff"],
+        "hitCount": 315,
+        "rizHitCount": 73,
+        "challengeTimes": [
+          {
+            "start": 324,
+            "end": 388,
+            "theme": ["#949886ff", "#ac4041ff", "#4f6257ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7.5,
+        "charter": "Barbarianerman",
+        "theme": ["#937a6aff", "#6f7c64ff", "#563028ff"],
+        "hitCount": 524,
+        "rizHitCount": 129,
+        "challengeTimes": [
+          {
+            "start": 324,
+            "end": 62332,
+            "theme": ["#949886ff", "#ac4041ff", "#4f6257ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.399999618530273,
+        "charter": "南門贰",
+        "theme": ["#937a6aff", "#6f7c64ff", "#563028ff"],
+        "hitCount": 966,
+        "rizHitCount": 254,
+        "challengeTimes": [
+          {
+            "start": 324,
+            "end": 388,
+            "theme": ["#949886ff", "#ac4041ff", "#4f6257ff"]
+          }
+        ]
+      }
+    },
+    "duration": 145.371429,
+    "BPM": 175,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "SwingSweetTweeDance.Uske.0",
+    "chap": "Disc 1",
+    "name": "Swing Sweet Twee Dance feat. ななきなな",
+    "composer": "U-ske",
+    "pst": 42.034000396728516,
+    "pet": 62.034000396728516,
+    "illustrator": "hard",
+    "chart": {
+      "EZ": {
+        "diff": 2.5,
+        "charter": "Barbarianerman",
+        "theme": ["#f9e5ceff", "#e77d83ff", "#534673ff"],
+        "hitCount": 280,
+        "rizHitCount": 82,
+        "challengeTimes": [
+          {
+            "start": 103,
+            "end": 166,
+            "theme": ["#ceb1d4ff", "#f3c996ff", "#6e8d80ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8.5,
+        "charter": "Proxima",
+        "theme": ["#f9e5ceff", "#e77d83ff", "#534673ff"],
+        "hitCount": 636,
+        "rizHitCount": 134,
+        "challengeTimes": [
+          {
+            "start": 103,
+            "end": 166,
+            "theme": ["#ceb1d4ff", "#f3c996ff", "#6e8d80ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.300000190734863,
+        "charter": "Sky Star Twee Dance",
+        "theme": ["#f9e5ceff", "#e77d83ff", "#534673ff"],
+        "hitCount": 927,
+        "rizHitCount": 208,
+        "challengeTimes": [
+          {
+            "start": 103,
+            "end": 166,
+            "theme": ["#ceb1d4ff", "#f3c996ff", "#6e8d80ff"]
+          }
+        ]
+      }
+    },
+    "duration": 127.436644,
+    "BPM": 145,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Vrtuaresort.seatrus.0",
+    "chap": "Disc 1",
+    "name": "V!rtuaresort",
+    "composer": "seatrus",
+    "pst": 89,
+    "pet": 109,
+    "illustrator": "绀屋",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "Barbarianerman",
+        "theme": ["#ebebe6ff", "#f0cf9aff", "#79afb5ff"],
+        "hitCount": 237,
+        "rizHitCount": 68,
+        "challengeTimes": [
+          {
+            "start": 239,
+            "end": 304,
+            "theme": ["#c2d5d4ff", "#45b3d2ff", "#eccb97ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 9,
+        "charter": "Snorkel & StupiGGy",
+        "theme": ["#ebebe6ff", "#f0cf9aff", "#79afb5ff"],
+        "hitCount": 675,
+        "rizHitCount": 154,
+        "challengeTimes": [
+          {
+            "start": 239,
+            "end": 304,
+            "theme": ["#c2d5d4ff", "#45b3d2ff", "#eccb97ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.800000190734863,
+        "charter": "TangScend",
+        "theme": ["#ebebe6ff", "#f0cf9aff", "#79afb5ff"],
+        "hitCount": 960,
+        "rizHitCount": 216,
+        "challengeTimes": [
+          {
+            "start": 239,
+            "end": 304,
+            "theme": ["#c2d5d4ff", "#45b3d2ff", "#eccb97ff"]
+          }
+        ]
+      }
+    },
+    "duration": 128.989456,
+    "BPM": 160,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Dice20.Daily.0",
+    "chap": "Disc 1",
+    "name": "Dice 20",
+    "composer": "Daily天利",
+    "pst": 84.89399719238281,
+    "pet": 104.89399719238281,
+    "illustrator": "美工刀",
+    "chart": {
+      "EZ": {
+        "diff": 2,
+        "charter": "百九十八",
+        "theme": ["#f1f6f1ff", "#62858aff", "#b0c5b2ff"],
+        "hitCount": 197,
+        "rizHitCount": 33,
+        "challengeTimes": [
+          {
+            "start": 334,
+            "end": 400,
+            "theme": ["#c3d8c5ff", "#8ab5abff", "#62858aff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 6,
+        "charter": "Pro 198",
+        "theme": ["#f1f6f1ff", "#62858aff", "#b0c5b2ff"],
+        "hitCount": 406,
+        "rizHitCount": 69,
+        "challengeTimes": [
+          {
+            "start": 334,
+            "end": 400,
+            "theme": ["#c3d8c5ff", "#8ab5abff", "#62858aff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.199999809265137,
+        "charter": "百九十八",
+        "theme": ["#f1f6f1ff", "#62858aff", "#b0c5b2ff"],
+        "hitCount": 829,
+        "rizHitCount": 110,
+        "challengeTimes": [
+          {
+            "start": 334,
+            "end": 400,
+            "theme": ["#c3d8c5ff", "#8ab5abff", "#62858aff"]
+          }
+        ]
+      }
+    },
+    "duration": 152.832132,
+    "BPM": 190,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "macrowav.dandeless.0",
+    "chap": "Disc 1",
+    "name": "macro.wav",
+    "composer": "dandeless",
+    "pst": 50.62699890136719,
+    "pet": 70.62699890136719,
+    "illustrator": "绀屋",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "Barbarianerman.txt",
+        "theme": ["#bdc7ceff", "#6e7997ff", "#30416cff"],
+        "hitCount": 333,
+        "rizHitCount": 62,
+        "challengeTimes": [
+          {
+            "start": 148,
+            "end": 212,
+            "theme": ["#6e7997ff", "#a4c3daff", "#b77d8aff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 6,
+        "charter": "dawn.txt",
+        "theme": ["#bdc7ceff", "#6e7997ff", "#30416cff"],
+        "hitCount": 409,
+        "rizHitCount": 102,
+        "challengeTimes": [
+          {
+            "start": 148,
+            "end": 212,
+            "theme": ["#6e7997ff", "#a4c3daff", "#b77d8aff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.699999809265137,
+        "charter": "198.txt",
+        "theme": ["#bdc7ceff", "#6e7997ff", "#30416cff"],
+        "hitCount": 799,
+        "rizHitCount": 158,
+        "challengeTimes": [
+          {
+            "start": 148,
+            "end": 212,
+            "theme": ["#6e7997ff", "#a4c3daff", "#b77d8aff"]
+          }
+        ]
+      }
+    },
+    "duration": 133.920794,
+    "BPM": 172,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "TheNextArcady.SEPHID.0",
+    "chap": "Disc 1",
+    "name": "The Next Arcady",
+    "composer": "SEPHID",
+    "pst": 77.46099853515625,
+    "pet": 97.46099853515625,
+    "illustrator": "青鸟",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "Pro Barbarianerman",
+        "theme": ["#faf6e0ff", "#dfdc7eff", "#b7c066ff"],
+        "hitCount": 211,
+        "rizHitCount": 107,
+        "challengeTimes": [
+          {
+            "start": 169,
+            "end": 234,
+            "theme": ["#e7e49bff", "#8cbc40ff", "#b7592cff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8,
+        "charter": "满天星",
+        "theme": ["#faf6e0ff", "#dfdc7eff", "#b7c066ff"],
+        "hitCount": 529,
+        "rizHitCount": 201,
+        "challengeTimes": [
+          {
+            "start": 169,
+            "end": 234,
+            "theme": ["#e7e49bff", "#8cbc40ff", "#b7592cff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.899999618530273,
+        "charter": "TangScend",
+        "theme": ["#faf6e0ff", "#dfdc7eff", "#b7c066ff"],
+        "hitCount": 766,
+        "rizHitCount": 256,
+        "challengeTimes": [
+          {
+            "start": 169,
+            "end": 234,
+            "theme": ["#e7e49bff", "#8cbc40ff", "#b7592cff"]
+          }
+        ]
+      }
+    },
+    "duration": 123.677891,
+    "BPM": 130,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "SakuraFubuki.Street.0",
+    "chap": "Disc 1",
+    "name": "Sakura Fubuki",
+    "composer": "Street",
+    "pst": 68.94200134277344,
+    "pet": 88.94200134277344,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 2.5,
+        "charter": "Ctymax",
+        "theme": ["#88798aff", "#e6d3daff", "#cea8b5ff"],
+        "hitCount": 149,
+        "rizHitCount": 44,
+        "challengeTimes": [
+          {
+            "start": 204,
+            "end": 268,
+            "theme": ["#e6d3daff", "#d889a2ff", "#896671ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 9,
+        "charter": "TangScend",
+        "theme": ["#88798aff", "#e6d3daff", "#cea8b5ff"],
+        "hitCount": 527,
+        "rizHitCount": 112,
+        "challengeTimes": [
+          {
+            "start": 204,
+            "end": 268,
+            "theme": ["#e6d3daff", "#d889a2ff", "#896671ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.899999618530273,
+        "charter": "百九十八",
+        "theme": ["#88798aff", "#e6d3daff", "#cea8b5ff"],
+        "hitCount": 702,
+        "rizHitCount": 182,
+        "challengeTimes": [
+          {
+            "start": 204,
+            "end": 268,
+            "theme": ["#e6d3daff", "#d889a2ff", "#896671ff"]
+          }
+        ]
+      }
+    },
+    "duration": 119.275714,
+    "BPM": 175,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Tempest.Plum.0",
+    "chap": "Disc 1",
+    "name": "Tempest",
+    "composer": "Plum",
+    "pst": 27.28499984741211,
+    "pet": 47.28499984741211,
+    "illustrator": "绀屋",
+    "chart": {
+      "EZ": {
+        "diff": 6,
+        "charter": "满天星",
+        "theme": ["#c7d2edff", "#97afe2ff", "#475481ff"],
+        "hitCount": 411,
+        "rizHitCount": 110,
+        "challengeTimes": [
+          {
+            "start": 339,
+            "end": 435,
+            "theme": ["#8890b1ff", "#697bceff", "#97afe2ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 10,
+        "charter": "南門贰",
+        "theme": ["#c7d2edff", "#97afe2ff", "#475481ff"],
+        "hitCount": 841,
+        "rizHitCount": 235,
+        "challengeTimes": [
+          {
+            "start": 339,
+            "end": 435,
+            "theme": ["#8890b1ff", "#697bceff", "#97afe2ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.800000190734863,
+        "charter": "百九十八",
+        "theme": ["#c7d2edff", "#97afe2ff", "#475481ff"],
+        "hitCount": 1089,
+        "rizHitCount": 325,
+        "challengeTimes": [
+          {
+            "start": 339,
+            "end": 435,
+            "theme": ["#8890b1ff", "#697bceff", "#97afe2ff"]
+          }
+        ]
+      }
+    },
+    "duration": 140.571429,
+    "BPM": 210,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "AuthenticGamever.Rukadesunowheretogo.0",
+    "chap": "Disc 1",
+    "name": "Authentic (Game ver.)",
+    "composer": "Rukadesu & nowhere.to_go",
+    "pst": 100.64700317382812,
+    "pet": 120.64700317382812,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 3.5,
+        "charter": "南門贰",
+        "theme": ["#b1a5b8ff", "#b4c6dfff", "#8e5c8dff"],
+        "hitCount": 340,
+        "rizHitCount": 72,
+        "challengeTimes": [
+          {
+            "start": 288,
+            "end": 352,
+            "theme": ["#b4c6dfff", "#8e5c8dff", "#6a7394ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7.5,
+        "charter": "满天星",
+        "theme": ["#b1a5b8ff", "#b4c6dfff", "#8e5c8dff"],
+        "hitCount": 503,
+        "rizHitCount": 137,
+        "challengeTimes": [
+          {
+            "start": 288,
+            "end": 352,
+            "theme": ["#b4c6dfff", "#8e5c8dff", "#6a7394ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.199999809265137,
+        "charter": "Barbarianerman & 198",
+        "theme": ["#b1a5b8ff", "#b4c6dfff", "#8e5c8dff"],
+        "hitCount": 896,
+        "rizHitCount": 201,
+        "challengeTimes": [
+          {
+            "start": 288,
+            "end": 352,
+            "theme": ["#b4c6dfff", "#8e5c8dff", "#6a7394ff"]
+          }
+        ]
+      }
+    },
+    "duration": 148.235283,
+    "BPM": 170,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "MilK.morimoriatsushi.0",
+    "chap": "Disc 1",
+    "name": "MilK",
+    "composer": "モリモリあつし",
+    "pst": 26.200000762939453,
+    "pet": 46.20000076293945,
+    "illustrator": "出前",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "StupiGGy",
+        "theme": ["#ffffffff", "#fed4d4ff", "#d9d9d9ff"],
+        "hitCount": 284,
+        "rizHitCount": 78,
+        "challengeTimes": [
+          {
+            "start": 163,
+            "end": 227,
+            "theme": ["#bfbfbfff", "#ffffffff", "#fed4d4ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "ShinE",
+        "theme": ["#ffffffff", "#fed4d4ff", "#d9d9d9ff"],
+        "hitCount": 415,
+        "rizHitCount": 128,
+        "challengeTimes": [
+          {
+            "start": 163,
+            "end": 227,
+            "theme": ["#bfbfbfff", "#ffffffff", "#fed4d4ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.399999618530273,
+        "charter": "StupiGGy",
+        "theme": ["#ffffffff", "#fed4d4ff", "#d9d9d9ff"],
+        "hitCount": 752,
+        "rizHitCount": 202,
+        "challengeTimes": [
+          {
+            "start": 163,
+            "end": 227,
+            "theme": ["#bfbfbfff", "#ffffffff", "#fed4d4ff"]
+          }
+        ]
+      }
+    },
+    "duration": 118.377506,
+    "BPM": 150,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "ILLEGALLEGACY.seatrus.0",
+    "chap": "Disc 1",
+    "name": "ILLEGAL LEGACY",
+    "composer": "seatrus",
+    "pst": 96.33300018310547,
+    "pet": 116.33300018310547,
+    "illustrator": "美工刀",
+    "chart": {
+      "EZ": {
+        "diff": 5.5,
+        "charter": "Rikko",
+        "theme": ["#d8d3ddff", "#7891c0ff", "#7981a0ff"],
+        "hitCount": 332,
+        "rizHitCount": 89,
+        "challengeTimes": [
+          {
+            "start": 292,
+            "end": 355,
+            "theme": ["#898a9cff", "#c29a6fff", "#9ebfc3ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 10.5,
+        "charter": "TangScend",
+        "theme": ["#d8d3ddff", "#7891c0ff", "#7981a0ff"],
+        "hitCount": 749,
+        "rizHitCount": 159,
+        "challengeTimes": [
+          {
+            "start": 292,
+            "end": 355,
+            "theme": ["#898a9cff", "#c29a6fff", "#9ebfc3ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.800000190734863,
+        "charter": "Gausbon & 百九十八",
+        "theme": ["#d8d3ddff", "#7891c0ff", "#7981a0ff"],
+        "hitCount": 1030,
+        "rizHitCount": 164,
+        "challengeTimes": [
+          {
+            "start": 292,
+            "end": 355,
+            "theme": ["#898a9cff", "#c29a6fff", "#9ebfc3ff"]
+          }
+        ]
+      }
+    },
+    "duration": 141.333333,
+    "BPM": 180,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Bamboo.rissyuu.0",
+    "chap": "Disc 1",
+    "name": "竹",
+    "composer": "立秋",
+    "pst": 55.15399932861328,
+    "pet": 75.15399932861328,
+    "illustrator": "石王マサト",
+    "chart": {
+      "EZ": {
+        "diff": 4,
+        "charter": "晨",
+        "theme": ["#e7ece9ff", "#baf872ff", "#36d43bff"],
+        "hitCount": 299,
+        "rizHitCount": 32,
+        "challengeTimes": [
+          {
+            "start": 45076.01929051329,
+            "end": 45103.06847020683,
+            "theme": ["#d5aa77ff", "#e5b52eff", "#d56362ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8,
+        "charter": "晨",
+        "theme": ["#e7ece9ff", "#baf872ff", "#36d43bff"],
+        "hitCount": 431,
+        "rizHitCount": 36,
+        "challengeTimes": [
+          {
+            "start": 45076.01929051329,
+            "end": 45103.06847020683,
+            "theme": ["#d5aa77ff", "#e5b52eff", "#d56362ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.199999809265137,
+        "charter": "StupiGGy",
+        "theme": ["#e7ece9ff", "#baf872ff", "#36d43bff"],
+        "hitCount": 1166,
+        "rizHitCount": 120,
+        "challengeTimes": [
+          {
+            "start": 45066.02034611155,
+            "end": 45093.06952580509,
+            "theme": ["#d5aa77ff", "#e5b52eff", "#d56362ff"]
+          }
+        ]
+      }
+    },
+    "duration": 141.507234,
+    "BPM": 150,
+    "bpmShifts": [
+      { "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 },
+      {
+        "time": 33,
+        "value": 1.4600000381469729,
+        "easeType": 0,
+        "floorPosition": 13.199999809265137
+      },
+      {
+        "time": 73,
+        "value": 1.200000047683716,
+        "easeType": 0,
+        "floorPosition": 24.158903121948246
+      },
+      {
+        "time": 88,
+        "value": 0.8666669726371765,
+        "easeType": 0,
+        "floorPosition": 29.158903121948246
+      },
+      {
+        "time": 98,
+        "value": 0.9466670155525208,
+        "easeType": 0,
+        "floorPosition": 33.77428436279297
+      },
+      {
+        "time": 107,
+        "value": 1.0333329439163208,
+        "easeType": 0,
+        "floorPosition": 37.57709884643555
+      },
+      {
+        "time": 116,
+        "value": 1.100000023841858,
+        "easeType": 0,
+        "floorPosition": 41.06097030639649
+      },
+      {
+        "time": 120,
+        "value": 1.1666669845581057,
+        "easeType": 0,
+        "floorPosition": 42.5155143737793
+      },
+      {
+        "time": 125,
+        "value": 1.2200000286102295,
+        "easeType": 0,
+        "floorPosition": 44.22980117797852
+      },
+      {
+        "time": 133,
+        "value": 1.2999999523162842,
+        "easeType": 0,
+        "floorPosition": 46.85275268554688
+      },
+      {
+        "time": 141,
+        "value": 1.3333330154418945,
+        "easeType": 0,
+        "floorPosition": 49.31429290771485
+      },
+      {
+        "time": 145,
+        "value": 1.3666670322418213,
+        "easeType": 0,
+        "floorPosition": 50.5142936706543
+      },
+      {
+        "time": 149,
+        "value": 1.4333330392837524,
+        "easeType": 0,
+        "floorPosition": 51.68502426147461
+      },
+      {
+        "time": 153,
+        "value": 1.4600000381469729,
+        "easeType": 0,
+        "floorPosition": 52.80130386352539
+      },
+      {
+        "time": 157,
+        "value": 1.2999999523162842,
+        "easeType": 0,
+        "floorPosition": 53.897193908691406
+      },
+      {
+        "time": 163,
+        "value": 1.4600000381469729,
+        "easeType": 0,
+        "floorPosition": 55.74334716796875
+      },
+      {
+        "time": 229,
+        "value": 1.446666955947876,
+        "easeType": 0,
+        "floorPosition": 73.8255386352539
+      },
+      {
+        "time": 230,
+        "value": 1.3666670322418213,
+        "easeType": 0,
+        "floorPosition": 74.10203552246094
+      },
+      {
+        "time": 231,
+        "value": 1.2999999523162842,
+        "easeType": 0,
+        "floorPosition": 74.39472198486328
+      },
+      {
+        "time": 232,
+        "value": 1.2200000286102295,
+        "easeType": 0,
+        "floorPosition": 74.7024154663086
+      },
+      {
+        "time": 357,
+        "value": 0.7666670083999634,
+        "easeType": 0,
+        "floorPosition": 115.68601989746094
+      },
+      {
+        "time": 359,
+        "value": 1.0666669607162476,
+        "easeType": 0,
+        "floorPosition": 116.72949981689452
+      },
+      {
+        "time": 361,
+        "value": 1.2999999523162842,
+        "easeType": 0,
+        "floorPosition": 117.47949981689452
+      },
+      {
+        "time": 363,
+        "value": 1.4666670560836792,
+        "easeType": 0,
+        "floorPosition": 118.09488677978516
+      },
+      {
+        "time": 365,
+        "value": 1.5666669607162476,
+        "easeType": 0,
+        "floorPosition": 118.64034271240236
+      },
+      {
+        "time": 367,
+        "value": 1.700000047683716,
+        "easeType": 0,
+        "floorPosition": 119.1509780883789
+      },
+      {
+        "time": 368.5,
+        "value": 1.8333330154418943,
+        "easeType": 0,
+        "floorPosition": 119.50392150878906
+      },
+      {
+        "time": 397,
+        "value": 2,
+        "easeType": 0,
+        "floorPosition": 125.72210693359376
+      },
+      {
+        "time": 401,
+        "value": 2.0999999046325684,
+        "easeType": 0,
+        "floorPosition": 126.52210998535156
+      },
+      {
+        "time": 431,
+        "value": 1.8333330154418943,
+        "easeType": 0,
+        "floorPosition": 132.23638916015625
+      },
+      {
+        "time": 432,
+        "value": 1.3333330154418945,
+        "easeType": 0,
+        "floorPosition": 132.45457458496097
+      },
+      {
+        "time": 432.5,
+        "value": 0.8666669726371765,
+        "easeType": 0,
+        "floorPosition": 132.6045684814453
+      },
+      {
+        "time": 433,
+        "value": 1.2333329916000368,
+        "easeType": 0,
+        "floorPosition": 132.83534240722656
+      },
+      {
+        "time": 435,
+        "value": 1.4333330392837524,
+        "easeType": 0,
+        "floorPosition": 133.48399353027344
+      },
+      {
+        "time": 437,
+        "value": 1.5333329439163208,
+        "easeType": 0,
+        "floorPosition": 134.04212951660156
+      },
+      {
+        "time": 439,
+        "value": 1.6666669845581057,
+        "easeType": 0,
+        "floorPosition": 134.56387329101565
+      },
+      {
+        "time": 441,
+        "value": 1.7999999523162842,
+        "easeType": 0,
+        "floorPosition": 135.0438690185547
+      },
+      {
+        "time": 443,
+        "value": 1.899999976158142,
+        "easeType": 0,
+        "floorPosition": 135.48831176757812
+      },
+      {
+        "time": 445,
+        "value": 2,
+        "easeType": 0,
+        "floorPosition": 135.90936279296875
+      },
+      {
+        "time": 447,
+        "value": 2.0999999046325684,
+        "easeType": 0,
+        "floorPosition": 136.30935668945312
+      },
+      {
+        "time": 448.75,
+        "value": 0.03333299979567528,
+        "easeType": 0,
+        "floorPosition": 136.64268493652344
+      },
+      {
+        "time": 449,
+        "value": 1.4600000381469729,
+        "easeType": 0,
+        "floorPosition": 139.64271545410156
+      }
+    ]
+  },
+  {
+    "id": "RIP.eicateve.0",
+    "chap": "Disc 1",
+    "name": "R.I.P.",
+    "composer": "eicateve",
+    "pst": 120.25,
+    "pet": 140.25,
+    "illustrator": "hrchem & TOHRU MiTSUHASHi",
+    "chart": {
+      "EZ": {
+        "diff": 3.5,
+        "charter": "百九十八",
+        "theme": ["#585858ff", "#ff0000ff", "#888785ff"],
+        "hitCount": 287,
+        "rizHitCount": 100,
+        "challengeTimes": [
+          {
+            "start": 324,
+            "end": 452,
+            "theme": ["#ffffffff", "#bfeaeeff", "#8cb4f0ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 9.5,
+        "charter": "good 猫ning",
+        "theme": ["#585858ff", "#ff0000ff", "#888785ff"],
+        "hitCount": 654,
+        "rizHitCount": 219,
+        "challengeTimes": [
+          {
+            "start": 324,
+            "end": 452,
+            "theme": ["#ffffffff", "#bfeaeeff", "#8cb4f0ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14,
+        "charter": "good Night, good moRning",
+        "theme": ["#585858ff", "#ff0000ff", "#888785ff"],
+        "hitCount": 1052,
+        "rizHitCount": 440,
+        "challengeTimes": [
+          {
+            "start": 324,
+            "end": 452,
+            "theme": ["#ffffffff", "#bfeaeeff", "#8cb4f0ff"]
+          }
+        ]
+      }
+    },
+    "duration": 146.211905,
+    "BPM": 192,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Empire.416.0",
+    "chap": "Disc 1",
+    "name": "Empire",
+    "composer": "4_16",
+    "pst": 96.63600158691406,
+    "pet": 116.63600158691406,
+    "illustrator": "不目寒",
+    "chart": {
+      "EZ": {
+        "diff": 3.5,
+        "charter": "Shin_e",
+        "theme": ["#cbc6c3ff", "#527d6fff", "#785b4eff"],
+        "hitCount": 215,
+        "rizHitCount": 48,
+        "challengeTimes": [
+          {
+            "start": 268.5,
+            "end": 332.5,
+            "theme": ["#a69791ff", "#be8a3fff", "#426056ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 6.5,
+        "charter": "Pro_xima",
+        "theme": ["#cbc6c3ff", "#527d6fff", "#785b4eff"],
+        "hitCount": 621,
+        "rizHitCount": 97,
+        "challengeTimes": [
+          {
+            "start": 268.5,
+            "end": 332.5,
+            "theme": ["#a69791ff", "#be8a3fff", "#426056ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13,
+        "charter": "百九十八 & Pcat",
+        "theme": ["#cbc6c3ff", "#527d6fff", "#785b4eff"],
+        "hitCount": 918,
+        "rizHitCount": 201,
+        "challengeTimes": [
+          {
+            "start": 268.5,
+            "end": 332.5,
+            "theme": ["#a69791ff", "#be8a3fff", "#426056ff"]
+          }
+        ]
+      }
+    },
+    "duration": 159.545465,
+    "BPM": 165,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "DropDown.Cosmograph.0",
+    "chap": "Disc 1",
+    "name": "DropDown",
+    "composer": "Cosmograph",
+    "pst": 61.5,
+    "pet": 81.5,
+    "illustrator": "汉堡",
+    "chart": {
+      "EZ": {
+        "diff": 4,
+        "charter": "Barbarianerman",
+        "theme": ["#e1e1e2ff", "#88a6e5ff", "#5e43a1ff"],
+        "hitCount": 292,
+        "rizHitCount": 134,
+        "challengeTimes": [
+          {
+            "start": 296,
+            "end": 424,
+            "theme": ["#bbbacbff", "#ab6ec8ff", "#5387e1ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8.5,
+        "charter": "Pro Pcat",
+        "theme": ["#e1e1e2ff", "#88a6e5ff", "#5e43a1ff"],
+        "hitCount": 633,
+        "rizHitCount": 244,
+        "challengeTimes": [
+          {
+            "start": 296,
+            "end": 424,
+            "theme": ["#bbbacbff", "#ab6ec8ff", "#5387e1ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14,
+        "charter": "Gausbon feat.汉堡",
+        "theme": ["#e1e1e2ff", "#88a6e5ff", "#5e43a1ff"],
+        "hitCount": 1108,
+        "rizHitCount": 395,
+        "challengeTimes": [
+          {
+            "start": 296,
+            "end": 424,
+            "theme": ["#bbbacbff", "#ab6ec8ff", "#5387e1ff"]
+          }
+        ]
+      }
+    },
+    "duration": 137.5,
+    "BPM": 192,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Contact.NeutralMoonMK.0",
+    "chap": "Disc 1",
+    "name": "Contact",
+    "composer": "Neutral Moon & MK",
+    "pst": 54.5099983215332,
+    "pet": 74.51000213623047,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 2.5,
+        "charter": "NerSAN",
+        "theme": ["#dee7ecff", "#e2c7aeff", "#c6b8c5ff"],
+        "hitCount": 181,
+        "rizHitCount": 32,
+        "challengeTimes": [
+          {
+            "start": 263,
+            "end": 328,
+            "theme": ["#e7ddcfff", "#c3a8baff", "#de9171ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8,
+        "charter": "阿爽",
+        "theme": ["#dee7ecff", "#e2c7aeff", "#c6b8c5ff"],
+        "hitCount": 491,
+        "rizHitCount": 85,
+        "challengeTimes": [
+          {
+            "start": 263,
+            "end": 328,
+            "theme": ["#e7ddcfff", "#c3a8baff", "#de9171ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.399999618530273,
+        "charter": "NerSAN",
+        "theme": ["#dee7ecff", "#e2c7aeff", "#c6b8c5ff"],
+        "hitCount": 859,
+        "rizHitCount": 205,
+        "challengeTimes": [
+          {
+            "start": 263,
+            "end": 328,
+            "theme": ["#e7ddcfff", "#c3a8baff", "#de9171ff"]
+          }
+        ]
+      }
+    },
+    "duration": 151.836735,
+    "BPM": 147,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "CANDYLAND.Seo.0",
+    "chap": "Disc 1",
+    "name": "CANDYLAND",
+    "composer": "Seo",
+    "pst": 46.42499923706055,
+    "pet": 66.42500305175781,
+    "illustrator": "破晓buff-夜刃•Ex",
+    "chart": {
+      "EZ": {
+        "diff": 5.5,
+        "charter": "百九十八",
+        "theme": ["#ffffffff", "#8395b6ff", "#d48d8cff"],
+        "hitCount": 450,
+        "rizHitCount": 65,
+        "challengeTimes": [
+          {
+            "start": 228,
+            "end": 292,
+            "theme": ["#ffe4e3ff", "#bd3b47ff", "#436bb3ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 10,
+        "charter": "NerSAN",
+        "theme": ["#ffffffff", "#8395b6ff", "#d48d8cff"],
+        "hitCount": 972,
+        "rizHitCount": 169,
+        "challengeTimes": [
+          {
+            "start": 228,
+            "end": 292,
+            "theme": ["#ffe4e3ff", "#bd3b47ff", "#436bb3ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.5,
+        "charter": "Gausbon",
+        "theme": ["#ffffffff", "#8395b6ff", "#d48d8cff"],
+        "hitCount": 1293,
+        "rizHitCount": 214,
+        "challengeTimes": [
+          {
+            "start": 228,
+            "end": 292,
+            "theme": ["#ffe4e3ff", "#bd3b47ff", "#436bb3ff"]
+          }
+        ]
+      }
+    },
+    "duration": 142.964104,
+    "BPM": 167.07000732421875,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "ArcadeViruZ.AspidCat.0",
+    "chap": "Disc 1",
+    "name": "Arcade ViruZ",
+    "composer": "Aspid Cat",
+    "pst": 93.54499816894531,
+    "pet": 113.54499816894531,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "ShinE",
+        "theme": ["#8a8fa6ff", "#7098e5ff", "#f08acaff"],
+        "hitCount": 251,
+        "rizHitCount": 54,
+        "challengeTimes": [
+          {
+            "start": 259,
+            "end": 324,
+            "theme": ["#f2d3efff", "#f08acaff", "#3c70b3ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 9,
+        "charter": "Proxima",
+        "theme": ["#8a8fa6ff", "#7098e5ff", "#f08acaff"],
+        "hitCount": 441,
+        "rizHitCount": 90,
+        "challengeTimes": [
+          {
+            "start": 259,
+            "end": 324,
+            "theme": ["#f2d3efff", "#f08acaff", "#3c70b3ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14,
+        "charter": "NerSAN",
+        "theme": ["#8a8fa6ff", "#7098e5ff", "#f08acaff"],
+        "hitCount": 947,
+        "rizHitCount": 295,
+        "challengeTimes": [
+          {
+            "start": 259,
+            "end": 324,
+            "theme": ["#f2d3efff", "#f08acaff", "#3c70b3ff"]
+          }
+        ]
+      }
+    },
+    "duration": 135.272721,
+    "BPM": 165,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "LINKLINS.Halv.0",
+    "chap": "Disc 1",
+    "name": "LINK x LIN#S",
+    "composer": "Halv",
+    "pst": 73.54499816894531,
+    "pet": 93.54499816894531,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 2,
+        "charter": "RIGIL x K#NT",
+        "theme": ["#ffffffff", "#e2cac7ff", "#bcc4a9ff"],
+        "hitCount": 204,
+        "rizHitCount": 60,
+        "challengeTimes": [
+          {
+            "start": 163,
+            "end": 228,
+            "theme": ["#d3d9cbff", "#a3ac8aff", "#dabab4ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "Barbarianerman",
+        "theme": ["#ffffffff", "#e2cac7ff", "#bcc4a9ff"],
+        "hitCount": 431,
+        "rizHitCount": 131,
+        "challengeTimes": [
+          {
+            "start": 163,
+            "end": 228,
+            "theme": ["#d3d9cbff", "#a3ac8aff", "#dabab4ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 11.300000190734863,
+        "charter": "NerSAN x Pcat",
+        "theme": ["#ffffffff", "#e2cac7ff", "#bcc4a9ff"],
+        "hitCount": 708,
+        "rizHitCount": 186,
+        "challengeTimes": [
+          {
+            "start": 163,
+            "end": 228,
+            "theme": ["#d3d9cbff", "#a3ac8aff", "#dabab4ff"]
+          }
+        ]
+      }
+    },
+    "duration": 140,
+    "BPM": 132,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "LEONIDS.SaMZIngTitanChaos.0",
+    "chap": "Disc 1",
+    "name": "LEONIDS",
+    "composer": "SaMZIng / Titan Chaos",
+    "pst": 83.87799835205078,
+    "pet": 103.87799835205078,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "✦满天星✦",
+        "theme": ["#ced7e5ff", "#8ea2d3ff", "#6677b9ff"],
+        "hitCount": 237,
+        "rizHitCount": 47,
+        "challengeTimes": [
+          {
+            "start": 292,
+            "end": 356,
+            "theme": ["#8891baff", "#ccd7edff", "#b4bad2ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7.5,
+        "charter": "✦ShinE✦",
+        "theme": ["#ced7e5ff", "#8ea2d3ff", "#6677b9ff"],
+        "hitCount": 584,
+        "rizHitCount": 105,
+        "challengeTimes": [
+          {
+            "start": 292,
+            "end": 356,
+            "theme": ["#8891baff", "#ccd7edff", "#b4bad2ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.899999618530273,
+        "charter": "✦百九十八✦",
+        "theme": ["#ced7e5ff", "#8ea2d3ff", "#6677b9ff"],
+        "hitCount": 745,
+        "rizHitCount": 125,
+        "challengeTimes": [
+          {
+            "start": 292,
+            "end": 356,
+            "theme": ["#8891baff", "#ccd7edff", "#b4bad2ff"]
+          }
+        ]
+      }
+    },
+    "duration": 186.004467,
+    "BPM": 164,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "FORTALiCE.ZxNX.0",
+    "chap": "Disc 1",
+    "name": "FORTALiCE",
+    "composer": "ZxNX",
+    "pst": 108.33300018310547,
+    "pet": 128.33299255371094,
+    "illustrator": "Karen & Vvn",
+    "chart": {
+      "EZ": {
+        "diff": 5,
+        "charter": "StupiGGy",
+        "theme": ["#b6b9bfff", "#ac9df2ff", "#9285ccff"],
+        "hitCount": 537,
+        "rizHitCount": 82,
+        "challengeTimes": [
+          {
+            "start": 328,
+            "end": 388,
+            "theme": ["#f0faffff", "#f230a2ff", "#f285c5ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8,
+        "charter": "百九十八",
+        "theme": ["#b6b9bfff", "#ac9df2ff", "#9285ccff"],
+        "hitCount": 634,
+        "rizHitCount": 120,
+        "challengeTimes": [
+          {
+            "start": 328,
+            "end": 388,
+            "theme": ["#f0faffff", "#f230a2ff", "#f285c5ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.800000190734863,
+        "charter": "PROXiMA",
+        "theme": ["#b6b9bfff", "#ac9df2ff", "#9285ccff"],
+        "hitCount": 987,
+        "rizHitCount": 183,
+        "challengeTimes": [
+          {
+            "start": 328,
+            "end": 388,
+            "theme": ["#f0faffff", "#f230a2ff", "#f285c5ff"]
+          }
+        ]
+      }
+    },
+    "duration": 152.666667,
+    "BPM": 180,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "TurningPOINT.Junk.0",
+    "chap": "Disc EX",
+    "name": "Turning POINT",
+    "composer": "Junk",
+    "pst": 86.06800079345703,
+    "pet": 106.06800079345703,
+    "illustrator": "鄂季",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "ProXIMA",
+        "theme": ["#ffffffff", "#bee4c0ff", "#edd58bff"],
+        "hitCount": 288,
+        "rizHitCount": 74,
+        "challengeTimes": [
+          {
+            "start": 192,
+            "end": 248,
+            "theme": ["#f2eca9ff", "#e9ad44ff", "#bfd388ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7.5,
+        "charter": "HaraKUMA",
+        "theme": ["#ffffffff", "#bee4c0ff", "#edd58bff"],
+        "hitCount": 568,
+        "rizHitCount": 125,
+        "challengeTimes": [
+          {
+            "start": 192,
+            "end": 248,
+            "theme": ["#f2eca9ff", "#e9ad44ff", "#bfd388ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.100000381469727,
+        "charter": "百九十八",
+        "theme": ["#ffffffff", "#bee4c0ff", "#edd58bff"],
+        "hitCount": 826,
+        "rizHitCount": 181,
+        "challengeTimes": [
+          {
+            "start": 192,
+            "end": 248,
+            "theme": ["#f2eca9ff", "#e9ad44ff", "#bfd388ff"]
+          }
+        ]
+      }
+    },
+    "duration": 131.719932,
+    "BPM": 133,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "ReversedZenith.Synzak.0",
+    "chap": "Disc EX",
+    "name": "Reversed Zenith",
+    "composer": "硝酸生菜",
+    "pst": 29.768999099731445,
+    "pet": 49.76900100708008,
+    "illustrator": "巷子",
+    "chart": {
+      "EZ": {
+        "diff": 5,
+        "charter": "满天星",
+        "theme": ["#cedae4ff", "#638699ff", "#89d4ecff"],
+        "hitCount": 467,
+        "rizHitCount": 86,
+        "challengeTimes": [
+          {
+            "start": 356,
+            "end": 420,
+            "theme": ["#98b3cbff", "#a3e7f4ff", "#4ca0bfff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8,
+        "charter": "百九十八",
+        "theme": ["#cedae4ff", "#638699ff", "#89d4ecff"],
+        "hitCount": 592,
+        "rizHitCount": 118,
+        "challengeTimes": [
+          {
+            "start": 356,
+            "end": 420,
+            "theme": ["#98b3cbff", "#a3e7f4ff", "#4ca0bfff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.899999618530273,
+        "charter": "ReversedArah",
+        "theme": ["#cedae4ff", "#638699ff", "#89d4ecff"],
+        "hitCount": 969,
+        "rizHitCount": 151,
+        "challengeTimes": [
+          {
+            "start": 356,
+            "end": 420,
+            "theme": ["#98b3cbff", "#a3e7f4ff", "#4ca0bfff"]
+          }
+        ]
+      }
+    },
+    "duration": 155.056712,
+    "BPM": 195,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "ParadialResonator.RekuMochizuki.0",
+    "chap": "Disc 1",
+    "name": "Paradial Resonator",
+    "composer": "Reku Mochizuki",
+    "pst": 75.9229965209961,
+    "pet": 95.9229965209961,
+    "illustrator": "2Al4wU4",
+    "chart": {
+      "EZ": {
+        "diff": 3.5,
+        "charter": "满天星",
+        "theme": ["#d9d6d4ff", "#ddcf59ff", "#90887bff"],
+        "hitCount": 375,
+        "rizHitCount": 66,
+        "challengeTimes": [
+          {
+            "start": 199,
+            "end": 263,
+            "theme": ["#b2aba0ff", "#99d2d1ff", "#5c6167ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 9,
+        "charter": "HaraKuma",
+        "theme": ["#d9d6d4ff", "#ddcf59ff", "#90887bff"],
+        "hitCount": 639,
+        "rizHitCount": 152,
+        "challengeTimes": [
+          {
+            "start": 199,
+            "end": 263,
+            "theme": ["#b2aba0ff", "#99d2d1ff", "#5c6167ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.199999809265137,
+        "charter": "Proton Xollider",
+        "theme": ["#d9d6d4ff", "#ddcf59ff", "#90887bff"],
+        "hitCount": 840,
+        "rizHitCount": 224,
+        "challengeTimes": [
+          {
+            "start": 199,
+            "end": 263,
+            "theme": ["#b2aba0ff", "#99d2d1ff", "#5c6167ff"]
+          }
+        ]
+      }
+    },
+    "duration": 132.572109,
+    "BPM": 156,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "RestrictedAccess.Knighthood.0",
+    "chap": "Disc EX",
+    "name": "Restricted Access",
+    "composer": "Knighthood",
+    "pst": 42.1349983215332,
+    "pet": 62.1349983215332,
+    "illustrator": "苦苦",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "百九十八",
+        "theme": ["#b7b7ccff", "#959eadff", "#555e7fff"],
+        "hitCount": 338,
+        "rizHitCount": 71,
+        "challengeTimes": [
+          {
+            "start": 325,
+            "end": 389,
+            "theme": ["#c3dde5ff", "#7759b2ff", "#4b65bbff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 10,
+        "charter": "南門贰",
+        "theme": ["#b7b7ccff", "#959eadff", "#555e7fff"],
+        "hitCount": 798,
+        "rizHitCount": 196,
+        "challengeTimes": [
+          {
+            "start": 325,
+            "end": 389,
+            "theme": ["#c3dde5ff", "#7759b2ff", "#4b65bbff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.5,
+        "charter": "地爆天星",
+        "theme": ["#b7b7ccff", "#959eadff", "#555e7fff"],
+        "hitCount": 1260,
+        "rizHitCount": 299,
+        "challengeTimes": [
+          {
+            "start": 325,
+            "end": 389,
+            "theme": ["#c3dde5ff", "#7759b2ff", "#4b65bbff"]
+          }
+        ]
+      }
+    },
+    "duration": 153.070952,
+    "BPM": 185,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "TheLastPage.ARForest.0",
+    "chap": "Disc EX",
+    "name": "The Last Page",
+    "composer": "ARForest",
+    "pst": 67.30699920654297,
+    "pet": 87.30699920654297,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 2,
+        "charter": "ShinE",
+        "theme": ["#e1e5c3ff", "#a0b3aeff", "#a0e194ff"],
+        "hitCount": 220,
+        "rizHitCount": 86,
+        "challengeTimes": [
+          {
+            "start": 327,
+            "end": 426,
+            "theme": ["#989eaeff", "#a0e194ff", "#e1e5c3ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "HaraKuma",
+        "theme": ["#e1e5c3ff", "#a0b3aeff", "#a0e194ff"],
+        "hitCount": 425,
+        "rizHitCount": 180,
+        "challengeTimes": [
+          {
+            "start": 327,
+            "end": 426,
+            "theme": ["#989eaeff", "#a0e194ff", "#e1e5c3ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.600000381469727,
+        "charter": "阿爽 & 百九十八",
+        "theme": ["#e1e5c3ff", "#a0b3aeff", "#a0e194ff"],
+        "hitCount": 809,
+        "rizHitCount": 260,
+        "challengeTimes": [
+          {
+            "start": 327,
+            "end": 426,
+            "theme": ["#989eaeff", "#a0e194ff", "#e1e5c3ff"]
+          }
+        ]
+      }
+    },
+    "duration": 142.153855,
+    "BPM": 195,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "SuperUniverseKnighthoodRemix.Knighthood.0",
+    "chap": "Disc EX",
+    "name": "Super Universe (Knighthood Remix)",
+    "composer": "Knighthood",
+    "pst": 92.06199645996094,
+    "pet": 112.06199645996094,
+    "illustrator": "绀屋",
+    "chart": {
+      "EZ": {
+        "diff": 6.5,
+        "charter": "百九十八",
+        "theme": ["#b9c3d9ff", "#7472a3ff", "#36406bff"],
+        "hitCount": 540,
+        "rizHitCount": 105,
+        "challengeTimes": [
+          {
+            "start": 303,
+            "end": 368,
+            "theme": ["#b7adcbff", "#add8efff", "#7472a3ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 10,
+        "charter": "南門贰",
+        "theme": ["#b9c3d9ff", "#7472a3ff", "#36406bff"],
+        "hitCount": 726,
+        "rizHitCount": 134,
+        "challengeTimes": [
+          {
+            "start": 303,
+            "end": 368,
+            "theme": ["#b7adcbff", "#add8efff", "#7472a3ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.800000190734863,
+        "charter": "满天星",
+        "theme": ["#b9c3d9ff", "#7472a3ff", "#36406bff"],
+        "hitCount": 1477,
+        "rizHitCount": 312,
+        "challengeTimes": [
+          {
+            "start": 303,
+            "end": 368,
+            "theme": ["#b7adcbff", "#add8efff", "#7472a3ff"]
+          }
+        ]
+      }
+    },
+    "duration": 151.836735,
+    "BPM": 196,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "LavenderLeaffeatLexi.VauBoy.0",
+    "chap": "Disc 1",
+    "name": "Lavender Leaf (feat. Lexi)",
+    "composer": "Vau Boy",
+    "pst": 28.64699935913086,
+    "pet": 48.64699935913086,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 2.5,
+        "charter": "Gypsophila",
+        "theme": ["#d6ebf7ff", "#c6b7e5ff", "#cfbeb8ff"],
+        "hitCount": 465,
+        "rizHitCount": 95,
+        "challengeTimes": [
+          {
+            "start": 274,
+            "end": 340,
+            "theme": ["#d7cfe6ff", "#98bcddff", "#8d7cb2ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "HaraKuma",
+        "theme": ["#d6ebf7ff", "#c6b7e5ff", "#cfbeb8ff"],
+        "hitCount": 634,
+        "rizHitCount": 81,
+        "challengeTimes": [
+          {
+            "start": 274,
+            "end": 340,
+            "theme": ["#d7cfe6ff", "#98bcddff", "#8d7cb2ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.699999809265137,
+        "charter": "百九十八",
+        "theme": ["#d6ebf7ff", "#c6b7e5ff", "#cfbeb8ff"],
+        "hitCount": 1225,
+        "rizHitCount": 178,
+        "challengeTimes": [
+          {
+            "start": 274,
+            "end": 340,
+            "theme": ["#d7cfe6ff", "#98bcddff", "#8d7cb2ff"]
+          }
+        ]
+      }
+    },
+    "duration": 225.871338,
+    "BPM": 170,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Enneaquest.SEPHID.0",
+    "chap": "Disc EX",
+    "name": "Enneaquest",
+    "composer": "SEPHID",
+    "pst": 78.13500213623047,
+    "pet": 98.13500213623047,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 3.5,
+        "charter": "满天星",
+        "theme": ["#ecf2e8ff", "#bdd49eff", "#839e71ff"],
+        "hitCount": 308,
+        "rizHitCount": 86,
+        "challengeTimes": [
+          {
+            "start": 244,
+            "end": 309,
+            "theme": ["#ebfbceff", "#8eaf9aff", "#558462ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8.5,
+        "charter": "南門贰",
+        "theme": ["#ecf2e8ff", "#bdd49eff", "#839e71ff"],
+        "hitCount": 523,
+        "rizHitCount": 131,
+        "challengeTimes": [
+          {
+            "start": 244,
+            "end": 309,
+            "theme": ["#ebfbceff", "#8eaf9aff", "#558462ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.800000190734863,
+        "charter": "HaraKuma",
+        "theme": ["#ecf2e8ff", "#bdd49eff", "#839e71ff"],
+        "hitCount": 818,
+        "rizHitCount": 194,
+        "challengeTimes": [
+          {
+            "start": 244,
+            "end": 309,
+            "theme": ["#ebfbceff", "#8eaf9aff", "#558462ff"]
+          }
+        ]
+      }
+    },
+    "duration": 111.557438,
+    "BPM": 185,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "ColorfulFlavor.Cansol.0",
+    "chap": "Disc EX",
+    "name": "Colorful Flavor",
+    "composer": "Cansol",
+    "pst": 29.891000747680664,
+    "pet": 49.89099884033203,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 6,
+        "charter": "Colorful Star",
+        "theme": ["#f6f7f6ff", "#e4c5afff", "#8eaac1ff"],
+        "hitCount": 454,
+        "rizHitCount": 81,
+        "challengeTimes": [
+          {
+            "start": 335,
+            "end": 380,
+            "theme": ["#f7edd5ff", "#8ccdceff", "#d9ad94ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 9.5,
+        "charter": "百九十八",
+        "theme": ["#f6f7f6ff", "#e4c5afff", "#8eaac1ff"],
+        "hitCount": 750,
+        "rizHitCount": 93,
+        "challengeTimes": [
+          {
+            "start": 335,
+            "end": 380,
+            "theme": ["#f7edd5ff", "#8ccdceff", "#d9ad94ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.800000190734863,
+        "charter": "Nightful ShinE",
+        "theme": ["#f6f7f6ff", "#e4c5afff", "#8eaac1ff"],
+        "hitCount": 1336,
+        "rizHitCount": 126,
+        "challengeTimes": [
+          {
+            "start": 335,
+            "end": 380,
+            "theme": ["#f7edd5ff", "#8ccdceff", "#d9ad94ff"]
+          }
+        ]
+      }
+    },
+    "duration": 154.440159,
+    "BPM": 202.02000427246097,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Abiogenesis.Juggernaut.0",
+    "chap": "Disc EX",
+    "name": "Abiogenesis",
+    "composer": "Juggernaut.",
+    "pst": 37.84199905395508,
+    "pet": 57.84199905395508,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 2,
+        "charter": "满天星",
+        "theme": ["#989ca3ff", "#9eb7dcff", "#c7cfcfff"],
+        "hitCount": 159,
+        "rizHitCount": 49,
+        "challengeTimes": [
+          {
+            "start": 303,
+            "end": 399,
+            "theme": ["#eaece8ff", "#f2dc74ff", "#868ed2ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 5,
+        "charter": "南門贰",
+        "theme": ["#989ca3ff", "#9eb7dcff", "#c7cfcfff"],
+        "hitCount": 493,
+        "rizHitCount": 167,
+        "challengeTimes": [
+          {
+            "start": 303,
+            "end": 399,
+            "theme": ["#eaece8ff", "#f2dc74ff", "#868ed2ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 11.899999618530273,
+        "charter": "HaraKuma",
+        "theme": ["#989ca3ff", "#9eb7dcff", "#c7cfcfff"],
+        "hitCount": 671,
+        "rizHitCount": 223,
+        "challengeTimes": [
+          {
+            "start": 303,
+            "end": 399,
+            "theme": ["#eaece8ff", "#f2dc74ff", "#868ed2ff"]
+          }
+        ]
+      }
+    },
+    "duration": 131.329637,
+    "BPM": 190,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Revenant.Juggernaut.0",
+    "chap": "Disc EX",
+    "name": "Revenant",
+    "composer": "Juggernaut.",
+    "pst": 45.856998443603516,
+    "pet": 65.85700225830078,
+    "illustrator": "ゲソきんぐ",
+    "chart": {
+      "EZ": {
+        "diff": 5.5,
+        "charter": "HaraKuma",
+        "theme": ["#bbb2b5ff", "#686266ff", "#6b2c31ff"],
+        "hitCount": 548,
+        "rizHitCount": 114,
+        "challengeTimes": [
+          {
+            "start": 451.5,
+            "end": 516,
+            "theme": ["#9a6568ff", "#dd3b25ff", "#110607ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 10.5,
+        "charter": "满天星",
+        "theme": ["#bbb2b5ff", "#686266ff", "#6b2c31ff"],
+        "hitCount": 868,
+        "rizHitCount": 155,
+        "challengeTimes": [
+          {
+            "start": 451.5,
+            "end": 516,
+            "theme": ["#9a6568ff", "#dd3b25ff", "#110607ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.300000190734863,
+        "charter": "百九十八",
+        "theme": ["#bbb2b5ff", "#686266ff", "#6b2c31ff"],
+        "hitCount": 1175,
+        "rizHitCount": 172,
+        "challengeTimes": [
+          {
+            "start": 451.5,
+            "end": 516,
+            "theme": ["#9a6568ff", "#dd3b25ff", "#110607ff"]
+          }
+        ]
+      }
+    },
+    "duration": 164.542857,
+    "BPM": 210,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Antler.Juggernaut.0",
+    "chap": "Disc EX",
+    "name": "Antler",
+    "composer": "Juggernaut.",
+    "pst": 44.33300018310547,
+    "pet": 64.33300018310547,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 2.5,
+        "charter": "满天星",
+        "theme": ["#eeedf0ff", "#5b9df3ff", "#4c66cfff"],
+        "hitCount": 311,
+        "rizHitCount": 112,
+        "challengeTimes": [
+          {
+            "start": 438,
+            "end": 568,
+            "theme": ["#99a4c0ff", "#a6ebf7ff", "#0a27daff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7.5,
+        "charter": "南門贰",
+        "theme": ["#eeedf0ff", "#5b9df3ff", "#4c66cfff"],
+        "hitCount": 780,
+        "rizHitCount": 226,
+        "challengeTimes": [
+          {
+            "start": 438,
+            "end": 568,
+            "theme": ["#99a4c0ff", "#a6ebf7ff", "#0a27daff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.399999618530273,
+        "charter": "百九十八",
+        "theme": ["#eeedf0ff", "#5b9df3ff", "#4c66cfff"],
+        "hitCount": 1605,
+        "rizHitCount": 410,
+        "challengeTimes": [
+          {
+            "start": 438,
+            "end": 568,
+            "theme": ["#99a4c0ff", "#a6ebf7ff", "#0a27daff"]
+          }
+        ]
+      }
+    },
+    "duration": 220.003469,
+    "BPM": 180,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "PuppetShow.MeatyRabbit.0",
+    "chap": "Disc 1",
+    "name": "Puppet Show",
+    "composer": "MeatyRabbit",
+    "pst": 48.354000091552734,
+    "pet": 68.35399627685547,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 1,
+        "charter": "Puppet Shine",
+        "theme": ["#cbc2d8ff", "#8a93b9ff", "#7d2f39ff"],
+        "hitCount": 174,
+        "rizHitCount": 50,
+        "challengeTimes": [
+          {
+            "start": 102,
+            "end": 166,
+            "theme": ["#8a93b9ff", "#c42225ff", "#373c6aff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 5.5,
+        "charter": "Puppet Kuma",
+        "theme": ["#cbc2d8ff", "#8a93b9ff", "#7d2f39ff"],
+        "hitCount": 274,
+        "rizHitCount": 55,
+        "challengeTimes": [
+          {
+            "start": 102,
+            "end": 166,
+            "theme": ["#8a93b9ff", "#c42225ff", "#373c6aff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 10,
+        "charter": "Puppet cat",
+        "theme": ["#cbc2d8ff", "#8a93b9ff", "#7d2f39ff"],
+        "hitCount": 402,
+        "rizHitCount": 94,
+        "challengeTimes": [
+          {
+            "start": 102,
+            "end": 166,
+            "theme": ["#8a93b9ff", "#c42225ff", "#373c6aff"]
+          }
+        ]
+      }
+    },
+    "duration": 145.161293,
+    "BPM": 124,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Contortion.PTB10.0",
+    "chap": "Disc EX",
+    "name": "Contortion",
+    "composer": "PTB10",
+    "pst": 23,
+    "pet": 43,
+    "illustrator": "破晓buff-夜刃•Ex",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "百九十八",
+        "theme": ["#c8cde9ff", "#605bb1ff", "#9a98c3ff"],
+        "hitCount": 308,
+        "rizHitCount": 53,
+        "challengeTimes": [
+          {
+            "start": 267,
+            "end": 332,
+            "theme": ["#98a5ccff", "#4e5ff7ff", "#9cc2f1ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "南門贰",
+        "theme": ["#c8cde9ff", "#605bb1ff", "#9a98c3ff"],
+        "hitCount": 538,
+        "rizHitCount": 98,
+        "challengeTimes": [
+          {
+            "start": 267,
+            "end": 332,
+            "theme": ["#98a5ccff", "#4e5ff7ff", "#9cc2f1ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.800000190734863,
+        "charter": "Harakuma",
+        "theme": ["#c8cde9ff", "#605bb1ff", "#9a98c3ff"],
+        "hitCount": 677,
+        "rizHitCount": 146,
+        "challengeTimes": [
+          {
+            "start": 267,
+            "end": 332,
+            "theme": ["#98a5ccff", "#4e5ff7ff", "#9cc2f1ff"]
+          }
+        ]
+      }
+    },
+    "duration": 146.47059,
+    "BPM": 170,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "BringMeBack.Zekk.0",
+    "chap": "Disc EX",
+    "name": "Bring Me Back",
+    "composer": "Zekk",
+    "pst": 47.97200012207031,
+    "pet": 67.97200012207031,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 2.5,
+        "charter": "百九十八",
+        "theme": ["#d4cedcff", "#9cafcdff", "#4b6176ff"],
+        "hitCount": 423,
+        "rizHitCount": 57,
+        "challengeTimes": [
+          {
+            "start": 422,
+            "end": 483,
+            "theme": ["#778fa9ff", "#be2635ff", "#3f5a55ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8,
+        "charter": "HaraKuma",
+        "theme": ["#d4cedcff", "#9cafcdff", "#4b6176ff"],
+        "hitCount": 580,
+        "rizHitCount": 91,
+        "challengeTimes": [
+          {
+            "start": 422,
+            "end": 483,
+            "theme": ["#778fa9ff", "#be2635ff", "#3f5a55ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.300000190734863,
+        "charter": "Bring You Dawn",
+        "theme": ["#d4cedcff", "#9cafcdff", "#4b6176ff"],
+        "hitCount": 1301,
+        "rizHitCount": 181,
+        "challengeTimes": [
+          {
+            "start": 422,
+            "end": 483,
+            "theme": ["#778fa9ff", "#be2635ff", "#3f5a55ff"]
+          }
+        ]
+      }
+    },
+    "duration": 190.702698,
+    "BPM": 185,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Hullbreaker.Maozon.0",
+    "chap": "Disc EX",
+    "name": "Hullbreaker",
+    "composer": "Maozon",
+    "pst": 22.31399917602539,
+    "pet": 42.31399917602539,
+    "illustrator": "汉堡",
+    "chart": {
+      "EZ": {
+        "diff": 4,
+        "charter": "超坏星",
+        "theme": ["#d2d2d0ff", "#837f7cff", "#7bbac1ff"],
+        "hitCount": 446,
+        "rizHitCount": 103,
+        "challengeTimes": [
+          {
+            "start": 332,
+            "end": 420,
+            "theme": ["#a6a19dff", "#7bbac1ff", "#589ab2ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7.5,
+        "charter": "破坏熊",
+        "theme": ["#d2d2d0ff", "#837f7cff", "#7bbac1ff"],
+        "hitCount": 654,
+        "rizHitCount": 156,
+        "challengeTimes": [
+          {
+            "start": 332,
+            "end": 420,
+            "theme": ["#a6a19dff", "#7bbac1ff", "#589ab2ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.800000190734863,
+        "charter": "破浪者",
+        "theme": ["#d2d2d0ff", "#837f7cff", "#7bbac1ff"],
+        "hitCount": 1075,
+        "rizHitCount": 232,
+        "challengeTimes": [
+          {
+            "start": 332,
+            "end": 420,
+            "theme": ["#a6a19dff", "#7bbac1ff", "#589ab2ff"]
+          }
+        ]
+      }
+    },
+    "duration": 171.428571,
+    "BPM": 175,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "DBirth.Sakuzyo.0",
+    "chap": "Disc EX",
+    "name": "D-Birth",
+    "composer": "Sakuzyo (Violin: Katali)",
+    "pst": 91.40599822998047,
+    "pet": 111.40599822998047,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 3.5,
+        "charter": "H-Kuma",
+        "theme": ["#f2f4f3ff", "#b4c1d1ff", "#708eaaff"],
+        "hitCount": 318,
+        "rizHitCount": 77,
+        "challengeTimes": [
+          {
+            "start": 414,
+            "end": 526,
+            "theme": ["#7298bbff", "#b1e3f3ff", "#b4c1d1ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 9,
+        "charter": "E-Shin",
+        "theme": ["#f2f4f3ff", "#b4c1d1ff", "#708eaaff"],
+        "hitCount": 769,
+        "rizHitCount": 263,
+        "challengeTimes": [
+          {
+            "start": 414,
+            "end": 526,
+            "theme": ["#7298bbff", "#b1e3f3ff", "#b4c1d1ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.100000381469727,
+        "charter": "S-满天星",
+        "theme": ["#f2f4f3ff", "#b4c1d1ff", "#708eaaff"],
+        "hitCount": 1052,
+        "rizHitCount": 322,
+        "challengeTimes": [
+          {
+            "start": 414,
+            "end": 526,
+            "theme": ["#7298bbff", "#b1e3f3ff", "#b4c1d1ff"]
+          }
+        ]
+      }
+    },
+    "duration": 201.497324,
+    "BPM": 187,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "NightTheater.wakadori.0",
+    "chap": "Disc EX",
+    "name": "NightTheater",
+    "composer": "わかどり",
+    "pst": 89.59600067138672,
+    "pet": 109.59600067138672,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 3.5,
+        "charter": "MidnightTheater",
+        "theme": ["#8f9ba7ff", "#bbe2f3ff", "#5d7494ff"],
+        "hitCount": 223,
+        "rizHitCount": 75,
+        "challengeTimes": [
+          {
+            "start": 227,
+            "end": 300,
+            "theme": ["#dcebf2ff", "#84a1c3ff", "#a5c5daff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "ObscurityTheater",
+        "theme": ["#8f9ba7ff", "#bbe2f3ff", "#5d7494ff"],
+        "hitCount": 652,
+        "rizHitCount": 195,
+        "challengeTimes": [
+          {
+            "start": 227,
+            "end": 300,
+            "theme": ["#dcebf2ff", "#84a1c3ff", "#a5c5daff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.5,
+        "charter": "LuminousTheater",
+        "theme": ["#8f9ba7ff", "#bbe2f3ff", "#5d7494ff"],
+        "hitCount": 1056,
+        "rizHitCount": 329,
+        "challengeTimes": [
+          {
+            "start": 227,
+            "end": 300,
+            "theme": ["#dcebf2ff", "#84a1c3ff", "#a5c5daff"]
+          }
+        ]
+      }
+    },
+    "duration": 129.933764,
+    "BPM": 151,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Grimheart.Puru.0",
+    "chap": "Disc EX",
+    "name": "Grimheart",
+    "composer": "Puru",
+    "pst": 44.52899932861328,
+    "pet": 64.52899932861328,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 1.5,
+        "charter": "♥ShinE♥",
+        "theme": ["#f7f8f7ff", "#bed9e1ff", "#c6c7bfff"],
+        "hitCount": 221,
+        "rizHitCount": 87,
+        "challengeTimes": [
+          {
+            "start": 295,
+            "end": 393,
+            "theme": ["#c1ced3ff", "#b2ada3ff", "#92bcd6ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 6.5,
+        "charter": "♥冻原♥",
+        "theme": ["#f7f8f7ff", "#bed9e1ff", "#c6c7bfff"],
+        "hitCount": 311,
+        "rizHitCount": 97,
+        "challengeTimes": [
+          {
+            "start": 295,
+            "end": 393,
+            "theme": ["#c1ced3ff", "#b2ada3ff", "#92bcd6ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 11.600000381469727,
+        "charter": "♥百九十八♥",
+        "theme": ["#f7f8f7ff", "#bed9e1ff", "#c6c7bfff"],
+        "hitCount": 671,
+        "rizHitCount": 218,
+        "challengeTimes": [
+          {
+            "start": 295,
+            "end": 393,
+            "theme": ["#c1ced3ff", "#b2ada3ff", "#92bcd6ff"]
+          }
+        ]
+      }
+    },
+    "duration": 152.47059,
+    "BPM": 170,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Encrux.Sobrem.0",
+    "chap": "Disc EX",
+    "name": "Encrux",
+    "composer": "Sobrem",
+    "pst": 43.444000244140625,
+    "pet": 63.444000244140625,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "百九十八",
+        "theme": ["#dadfdeff", "#bba49fff", "#f4d8a5ff"],
+        "hitCount": 277,
+        "rizHitCount": 82,
+        "challengeTimes": [
+          {
+            "start": 254,
+            "end": 357,
+            "theme": ["#f2e1cbff", "#f1c48cff", "#b29487ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7.5,
+        "charter": "南門贰",
+        "theme": ["#dadfdeff", "#bba49fff", "#f4d8a5ff"],
+        "hitCount": 632,
+        "rizHitCount": 240,
+        "challengeTimes": [
+          {
+            "start": 254,
+            "end": 357,
+            "theme": ["#f2e1cbff", "#f1c48cff", "#b29487ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.699999809265137,
+        "charter": "猫熊",
+        "theme": ["#dadfdeff", "#bba49fff", "#f4d8a5ff"],
+        "hitCount": 741,
+        "rizHitCount": 214,
+        "challengeTimes": [
+          {
+            "start": 254,
+            "end": 357,
+            "theme": ["#f2e1cbff", "#f1c48cff", "#b29487ff"]
+          }
+        ]
+      }
+    },
+    "duration": 137.767166,
+    "BPM": 162,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "slichertz.Sobrem.0",
+    "chap": "Disc EX",
+    "name": "slic.hertz",
+    "composer": "Sobrem",
+    "pst": 93.34400177001953,
+    "pet": 113.31099700927734,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 4.5,
+        "charter": "猫熊",
+        "theme": ["#ffffffff", "#cdcdcdff", "#9ecefcff"],
+        "hitCount": 429,
+        "rizHitCount": 102,
+        "challengeTimes": [
+          {
+            "start": 164,
+            "end": 228,
+            "theme": ["#cdcdcdff", "#ffe567ff", "#75e2fcff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8.5,
+        "charter": "南門贰",
+        "theme": ["#ffffffff", "#cdcdcdff", "#9ecefcff"],
+        "hitCount": 636,
+        "rizHitCount": 148,
+        "challengeTimes": [
+          {
+            "start": 164,
+            "end": 228,
+            "theme": ["#cdcdcdff", "#ffe567ff", "#75e2fcff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13,
+        "charter": "满天星",
+        "theme": ["#ffffffff", "#cdcdcdff", "#9ecefcff"],
+        "hitCount": 978,
+        "rizHitCount": 246,
+        "challengeTimes": [
+          {
+            "start": 164,
+            "end": 228,
+            "theme": ["#cdcdcdff", "#ffe567ff", "#75e2fcff"]
+          }
+        ]
+      }
+    },
+    "duration": 126.380295,
+    "BPM": 145,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Giselle.Sobrem.0",
+    "chap": "Disc EX",
+    "name": "Giselle",
+    "composer": "Sobrem a.k.a. Widowmaker",
+    "pst": 5.315000057220459,
+    "pet": 25.315000534057617,
+    "illustrator": "青鸟",
+    "chart": {
+      "EZ": {
+        "diff": 4,
+        "charter": "\"NerSAN,\"",
+        "theme": ["#ede8eaff", "#c6b9a9ff", "#819393ff"],
+        "hitCount": 311,
+        "rizHitCount": 82,
+        "challengeTimes": [
+          {
+            "start": 13501.84219902242,
+            "end": 13545.263252198862,
+            "theme": ["#b8bdbeff", "#5d7072ff", "#a7a5a4ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 9.5,
+        "charter": "\"ShinE,\"",
+        "theme": ["#ede8eaff", "#c6b9a9ff", "#819393ff"],
+        "hitCount": 996,
+        "rizHitCount": 220,
+        "challengeTimes": [
+          {
+            "start": 13501.84219902242,
+            "end": 13545.263252198862,
+            "theme": ["#b8bdbeff", "#5d7072ff", "#a7a5a4ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.5,
+        "charter": "\"百九十八,\"",
+        "theme": ["#ede8eaff", "#c6b9a9ff", "#819393ff"],
+        "hitCount": 1088,
+        "rizHitCount": 200,
+        "challengeTimes": [
+          {
+            "start": 13501.84219902242,
+            "end": 13545.263252198862,
+            "theme": ["#b8bdbeff", "#5d7072ff", "#a7a5a4ff"]
+          }
+        ]
+      }
+    },
+    "duration": 139.179274,
+    "BPM": 100,
+    "bpmShifts": [
+      {
+        "time": 0,
+        "value": 1.5199999809265137,
+        "easeType": 0,
+        "floorPosition": 0
+      },
+      {
+        "time": 48,
+        "value": 1.4800000190734863,
+        "easeType": 0,
+        "floorPosition": 18.947368621826172
+      },
+      {
+        "time": 52,
+        "value": 1.440000057220459,
+        "easeType": 0,
+        "floorPosition": 20.56899070739746
+      },
+      {
+        "time": 54,
+        "value": 1.399999976158142,
+        "easeType": 0,
+        "floorPosition": 21.402324676513672
+      },
+      {
+        "time": 55,
+        "value": 1.2799999713897705,
+        "easeType": 0,
+        "floorPosition": 21.83089637756348
+      },
+      {
+        "time": 56,
+        "value": 1.3600000143051147,
+        "easeType": 0,
+        "floorPosition": 22.29964637756348
+      },
+      {
+        "time": 72,
+        "value": 1.399999976158142,
+        "easeType": 0,
+        "floorPosition": 29.358469009399418
+      },
+      {
+        "time": 80,
+        "value": 1.440000057220459,
+        "easeType": 0,
+        "floorPosition": 32.78704071044922
+      },
+      {
+        "time": 92,
+        "value": 1.5199999809265137,
+        "easeType": 0,
+        "floorPosition": 37.78704071044922
+      }
+    ]
+  },
+  {
+    "id": "ViciousMockery.Kryexe.0",
+    "chap": "Disc 1",
+    "name": "Vicious Mockery",
+    "composer": "Kry.exe",
+    "pst": 16.361000061035156,
+    "pet": 36.361000061035156,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 6.5,
+        "charter": "Dawn.exe",
+        "theme": ["#d7d3d9ff", "#adafb9ff", "#86c9dcff"],
+        "hitCount": 764,
+        "rizHitCount": 94,
+        "challengeTimes": [
+          {
+            "start": 450,
+            "end": 508,
+            "theme": ["#b8d4d7ff", "#61d5e9ff", "#8f93a5ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 10.5,
+        "charter": "Kuma.exe",
+        "theme": ["#d7d3d9ff", "#adafb9ff", "#86c9dcff"],
+        "hitCount": 1286,
+        "rizHitCount": 210,
+        "challengeTimes": [
+          {
+            "start": 450,
+            "end": 508,
+            "theme": ["#b8d4d7ff", "#61d5e9ff", "#8f93a5ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.800000190734863,
+        "charter": "198.exe",
+        "theme": ["#d7d3d9ff", "#adafb9ff", "#86c9dcff"],
+        "hitCount": 1826,
+        "rizHitCount": 263,
+        "challengeTimes": [
+          {
+            "start": 450,
+            "end": 508,
+            "theme": ["#b8d4d7ff", "#61d5e9ff", "#8f93a5ff"]
+          }
+        ]
+      }
+    },
+    "duration": 151.146712,
+    "BPM": 235,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "BRAVEROAD.umavsMorimoriAtsushi.0",
+    "chap": "Disc 1",
+    "name": "BRAVE：ROAD",
+    "composer": "uma vs. モリモリあつし",
+    "pst": 72,
+    "pet": 92,
+    "illustrator": "山山奇 feat. V17AMax",
+    "chart": {
+      "HD": {
+        "diff": 9.5,
+        "charter": "咏歌",
+        "theme": ["#c7c8d1ff", "#7a95bbff", "#9a8dbaff"],
+        "hitCount": 996,
+        "rizHitCount": 284,
+        "challengeTimes": [
+          {
+            "start": 292,
+            "end": 353.5,
+            "theme": ["#c8e8f6ff", "#e8bfd1ff", "#6b82a585"]
+          },
+          {
+            "start": 513,
+            "end": 516,
+            "theme": ["#c8e8f6ff", "#e8bfd1ff", "#6b82a585"]
+          },
+          {
+            "start": 514,
+            "end": 516,
+            "theme": ["#c7c8d1ff", "#7a95bbff", "#9a8dbaff"]
+          },
+          {
+            "start": 515,
+            "end": 587.5,
+            "theme": ["#f4e3e9ff", "#addceeff", "#9b637285"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.199999809265137,
+        "charter": "普灵",
+        "theme": ["#c7c8d1ff", "#7a95bbff", "#9a8dbaff"],
+        "hitCount": 1213,
+        "rizHitCount": 389,
+        "challengeTimes": [
+          {
+            "start": 292,
+            "end": 353.5,
+            "theme": ["#c8e8f6ff", "#e8bfd1ff", "#6b82a585"]
+          },
+          {
+            "start": 513,
+            "end": 516,
+            "theme": ["#c8e8f6ff", "#e8bfd1ff", "#6b82a585"]
+          },
+          {
+            "start": 514,
+            "end": 516,
+            "theme": ["#c7c8d1ff", "#7a95bbff", "#9a8dbaff"]
+          },
+          {
+            "start": 515,
+            "end": 587.5,
+            "theme": ["#f4e3e9ff", "#addceeff", "#9b637285"]
+          }
+        ]
+      },
+      "AT": {
+        "diff": 15.100000381469727,
+        "charter": "咏歌 vs. 普灵",
+        "theme": ["#c7c8d1ff", "#7a95bbff", "#9a8dbaff"],
+        "hitCount": 1692,
+        "rizHitCount": 558,
+        "challengeTimes": [
+          {
+            "start": 292,
+            "end": 353.5,
+            "theme": ["#c8e8f6ff", "#e8bfd1ff", "#6b82a585"]
+          },
+          {
+            "start": 513,
+            "end": 516,
+            "theme": ["#c8e8f6ff", "#e8bfd1ff", "#6b82a585"]
+          },
+          {
+            "start": 514,
+            "end": 516,
+            "theme": ["#c7c8d1ff", "#7a95bbff", "#9a8dbaff"]
+          },
+          {
+            "start": 515,
+            "end": 587.5,
+            "theme": ["#f4e3e9ff", "#addceeff", "#9b637285"]
+          }
+        ]
+      }
+    },
+    "duration": 156.140635,
+    "BPM": 240,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Afterdark.Sta.0",
+    "chap": "Disc EX",
+    "name": "Afterdark",
+    "composer": "Sta",
+    "pst": 24.714000701904297,
+    "pet": 44.7140007019043,
+    "illustrator": "拖延",
+    "chart": {
+      "EZ": {
+        "diff": 2.5,
+        "charter": "NerSAN",
+        "theme": ["#f3d5d8ff", "#d14d64ff", "#e77789ff"],
+        "hitCount": 320,
+        "rizHitCount": 77,
+        "challengeTimes": [
+          {
+            "start": 251,
+            "end": 315,
+            "theme": ["#a47a8cff", "#e795a9ff", "#d14d64ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "Junesnow",
+        "theme": ["#f3d5d8ff", "#d14d64ff", "#e77789ff"],
+        "hitCount": 518,
+        "rizHitCount": 126,
+        "challengeTimes": [
+          {
+            "start": 251,
+            "end": 315,
+            "theme": ["#a47a8cff", "#e795a9ff", "#d14d64ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12,
+        "charter": "猫熊",
+        "theme": ["#f3d5d8ff", "#d14d64ff", "#e77789ff"],
+        "hitCount": 748,
+        "rizHitCount": 184,
+        "challengeTimes": [
+          {
+            "start": 251,
+            "end": 315,
+            "theme": ["#a47a8cff", "#e795a9ff", "#d14d64ff"]
+          }
+        ]
+      }
+    },
+    "duration": 166.373039,
+    "BPM": 140,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "SoutenStasKeyKaimix.MeineMeinung.0",
+    "chap": "Disc EX",
+    "name": "蒼天 (Sta's Key-Kai mix)",
+    "composer": "Meine Meinung",
+    "pst": 42.18600082397461,
+    "pet": 62.18600082397461,
+    "illustrator": "青鸟",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "HaraKuma",
+        "theme": ["#efe6d6ff", "#f0d9a3ff", "#cda77aff"],
+        "hitCount": 301,
+        "rizHitCount": 147,
+        "challengeTimes": [
+          {
+            "start": 128.5,
+            "end": 256,
+            "theme": ["#91919fff", "#9c694fff", "#5a6784ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "NerSAN",
+        "theme": ["#efe6d6ff", "#f0d9a3ff", "#cda77aff"],
+        "hitCount": 566,
+        "rizHitCount": 240,
+        "challengeTimes": [
+          {
+            "start": 128.5,
+            "end": 256,
+            "theme": ["#91919fff", "#9c694fff", "#5a6784ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.600000381469727,
+        "charter": "晨",
+        "theme": ["#efe6d6ff", "#f0d9a3ff", "#cda77aff"],
+        "hitCount": 848,
+        "rizHitCount": 393,
+        "challengeTimes": [
+          {
+            "start": 128.5,
+            "end": 256,
+            "theme": ["#91919fff", "#9c694fff", "#5a6784ff"]
+          }
+        ]
+      }
+    },
+    "duration": 125.155941,
+    "BPM": 182,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "ConwaysChild.Sta.0",
+    "chap": "Disc EX",
+    "name": "Conway's Child",
+    "composer": "Sta",
+    "pst": 46.71900177001953,
+    "pet": 66.71900177001953,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 5,
+        "charter": "■南問贰■",
+        "theme": ["#ffffffff", "#c3f3f7ff", "#cde88cff"],
+        "hitCount": 491,
+        "rizHitCount": 84,
+        "challengeTimes": [
+          {
+            "start": 328,
+            "end": 392,
+            "theme": ["#d7f9fbff", "#cde88cff", "#e9adc6ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 10,
+        "charter": "■Ner□SAN■",
+        "theme": ["#ffffffff", "#c3f3f7ff", "#cde88cff"],
+        "hitCount": 1005,
+        "rizHitCount": 221,
+        "challengeTimes": [
+          {
+            "start": 328,
+            "end": 392,
+            "theme": ["#d7f9fbff", "#cde88cff", "#e9adc6ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.300000190734863,
+        "charter": "百■九□十■八",
+        "theme": ["#ffffffff", "#c3f3f7ff", "#cde88cff"],
+        "hitCount": 1260,
+        "rizHitCount": 241,
+        "challengeTimes": [
+          {
+            "start": 328,
+            "end": 392,
+            "theme": ["#d7f9fbff", "#cde88cff", "#e9adc6ff"]
+          }
+        ]
+      }
+    },
+    "duration": 165.98288,
+    "BPM": 171,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Crimsonate.BlackYfeatRisaYuzuki.0",
+    "chap": "Disc EX",
+    "name": "Crimsonate",
+    "composer": "BlackY feat. Risa Yuzuki",
+    "pst": 65.04000091552734,
+    "pet": 85.04000091552734,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 2,
+        "charter": "Junesnow",
+        "theme": ["#dcdcdcff", "#a6342eff", "#787878ff"],
+        "hitCount": 181,
+        "rizHitCount": 54,
+        "challengeTimes": [
+          {
+            "start": 164,
+            "end": 232,
+            "theme": ["#969696ff", "#b0c8d2ff", "#a6342eff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 6,
+        "charter": "Proxima",
+        "theme": ["#dcdcdcff", "#a6342eff", "#787878ff"],
+        "hitCount": 525,
+        "rizHitCount": 123,
+        "challengeTimes": [
+          {
+            "start": 164,
+            "end": 232,
+            "theme": ["#969696ff", "#b0c8d2ff", "#a6342eff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.100000381469727,
+        "charter": "红豆倪",
+        "theme": ["#dcdcdcff", "#a6342eff", "#787878ff"],
+        "hitCount": 868,
+        "rizHitCount": 262,
+        "challengeTimes": [
+          {
+            "start": 164,
+            "end": 232,
+            "theme": ["#969696ff", "#b0c8d2ff", "#a6342eff"]
+          }
+        ]
+      }
+    },
+    "duration": 116.02678,
+    "BPM": 149,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Sthenno.BlackY.0",
+    "chap": "Disc EX",
+    "name": "Sthenno",
+    "composer": "BlackY",
+    "pst": 89.80999755859375,
+    "pet": 109.80999755859375,
+    "illustrator": "美工刀",
+    "chart": {
+      "EZ": {
+        "diff": 6,
+        "charter": "NersaN",
+        "theme": ["#e7e7e3ff", "#e8d992ff", "#71a7cdff"],
+        "hitCount": 521,
+        "rizHitCount": 193,
+        "challengeTimes": [
+          {
+            "start": 278,
+            "end": 409,
+            "theme": ["#cbdaeaff", "#4071c9ff", "#fefac7ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 10,
+        "charter": "α Centauri A",
+        "theme": ["#e7e7e3ff", "#e8d992ff", "#71a7cdff"],
+        "hitCount": 921,
+        "rizHitCount": 339,
+        "challengeTimes": [
+          {
+            "start": 278,
+            "end": 409,
+            "theme": ["#cbdaeaff", "#4071c9ff", "#fefac7ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.199999809265137,
+        "charter": "金丝熊",
+        "theme": ["#e7e7e3ff", "#e8d992ff", "#71a7cdff"],
+        "hitCount": 1283,
+        "rizHitCount": 483,
+        "challengeTimes": [
+          {
+            "start": 278,
+            "end": 409,
+            "theme": ["#cbdaeaff", "#4071c9ff", "#fefac7ff"]
+          }
+        ]
+      }
+    },
+    "duration": 140.79712,
+    "BPM": 185,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Kaguya.BlackY.0",
+    "chap": "Disc EX",
+    "name": "Kaguya",
+    "composer": "BlackY",
+    "pst": 27.570999145507812,
+    "pet": 47.57099914550781,
+    "illustrator": "神居冰绘",
+    "chart": {
+      "EZ": {
+        "diff": 5,
+        "charter": "α Centauri B",
+        "theme": ["#acadbeff", "#999176ff", "#6f83abff"],
+        "hitCount": 459,
+        "rizHitCount": 122,
+        "challengeTimes": [
+          {
+            "start": 288,
+            "end": 352,
+            "theme": ["#e7e7e7ff", "#bac2cfff", "#999176ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8.5,
+        "charter": "Junesnow",
+        "theme": ["#acadbeff", "#999176ff", "#6f83abff"],
+        "hitCount": 742,
+        "rizHitCount": 114,
+        "challengeTimes": [
+          {
+            "start": 288,
+            "end": 352,
+            "theme": ["#e7e7e7ff", "#bac2cfff", "#999176ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.699999809265137,
+        "charter": "竹九八",
+        "theme": ["#acadbeff", "#999176ff", "#6f83abff"],
+        "hitCount": 1385,
+        "rizHitCount": 246,
+        "challengeTimes": [
+          {
+            "start": 288,
+            "end": 352,
+            "theme": ["#e7e7e7ff", "#bac2cfff", "#999176ff"]
+          }
+        ]
+      }
+    },
+    "duration": 155.495533,
+    "BPM": 168,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "DotLinefeatななひら.A39沙包Pななひら.0",
+    "chap": "Disc 2",
+    "name": "Dot-Line (feat. ななひら)",
+    "composer": "A-39 / 沙包P / ななひら",
+    "pst": 45.62799835205078,
+    "pet": 65.62799835205078,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 3.5,
+        "charter": "D-31",
+        "theme": ["#e6f0fdff", "#8ee6f4ff", "#a4c3ebff"],
+        "hitCount": 393,
+        "rizHitCount": 141,
+        "challengeTimes": [
+          {
+            "start": 231,
+            "end": 292,
+            "theme": ["#cdf6feff", "#e8ee80ff", "#84a1e7ff"]
+          },
+          {
+            "start": 475,
+            "end": 539,
+            "theme": ["#cdf6feff", "#e8ee80ff", "#84a1e7ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "N-23",
+        "theme": ["#e6f0fdff", "#8ee6f4ff", "#a4c3ebff"],
+        "hitCount": 783,
+        "rizHitCount": 231,
+        "challengeTimes": [
+          {
+            "start": 231,
+            "end": 292,
+            "theme": ["#cdf6feff", "#e8ee80ff", "#84a1e7ff"]
+          },
+          {
+            "start": 475,
+            "end": 539,
+            "theme": ["#cdf6feff", "#e8ee80ff", "#84a1e7ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.5,
+        "charter": "Kiwi",
+        "theme": ["#e6f0fdff", "#8ee6f4ff", "#a4c3ebff"],
+        "hitCount": 1093,
+        "rizHitCount": 420,
+        "challengeTimes": [
+          {
+            "start": 231,
+            "end": 292,
+            "theme": ["#cdf6feff", "#e8ee80ff", "#84a1e7ff"]
+          },
+          {
+            "start": 475,
+            "end": 539,
+            "theme": ["#cdf6feff", "#e8ee80ff", "#84a1e7ff"]
+          }
+        ]
+      }
+    },
+    "duration": 200.191633,
+    "BPM": 175,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "光阿卡姆巫师Remix.姜米條Remixedby阿卡姆巫师.0",
+    "chap": "Disc 2",
+    "name": "光 (阿卡姆巫师 Remix)",
+    "composer": "姜米條 Remixed by 阿卡姆巫师",
+    "pst": 85.66600036621094,
+    "pet": 105.66600036621094,
+    "illustrator": "青鸟",
+    "chart": {
+      "EZ": {
+        "diff": 1,
+        "charter": "ShinE",
+        "theme": ["#bc9d7eff", "#f4efc4ff", "#e0b271ff"],
+        "hitCount": 176,
+        "rizHitCount": 94,
+        "challengeTimes": [
+          {
+            "start": 196,
+            "end": 324,
+            "theme": ["#fefac9ff", "#e0b271ff", "#aac180ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 5,
+        "charter": "百九十八",
+        "theme": ["#bc9d7eff", "#f4efc4ff", "#e0b271ff"],
+        "hitCount": 357,
+        "rizHitCount": 141,
+        "challengeTimes": [
+          {
+            "start": 196,
+            "end": 324,
+            "theme": ["#fefac9ff", "#e0b271ff", "#aac180ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 11,
+        "charter": "HiKari",
+        "theme": ["#bc9d7eff", "#f4efc4ff", "#e0b271ff"],
+        "hitCount": 496,
+        "rizHitCount": 245,
+        "challengeTimes": [
+          {
+            "start": 196,
+            "end": 324,
+            "theme": ["#fefac9ff", "#e0b271ff", "#aac180ff"]
+          }
+        ]
+      }
+    },
+    "duration": 134.637211,
+    "BPM": 180,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "LostFuture.AspidCat.0",
+    "chap": "Disc 2",
+    "name": "Lost Future",
+    "composer": "Aspid Cat",
+    "pst": 52.77000045776367,
+    "pet": 72.7699966430664,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 6,
+        "charter": "百九十八",
+        "theme": ["#eceaf2ff", "#f8f7a5ff", "#eaaaf0ff"],
+        "hitCount": 412,
+        "rizHitCount": 102,
+        "challengeTimes": [
+          {
+            "start": 164,
+            "end": 252,
+            "theme": ["#e1f9d3ff", "#e66ab5ff", "#80f2bfff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7.5,
+        "charter": "猫熊",
+        "theme": ["#eceaf2ff", "#f8f7a5ff", "#eaaaf0ff"],
+        "hitCount": 592,
+        "rizHitCount": 174,
+        "challengeTimes": [
+          {
+            "start": 164,
+            "end": 252,
+            "theme": ["#e1f9d3ff", "#e66ab5ff", "#80f2bfff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.600000381469727,
+        "charter": "Ner infected by \"Arcade ViruZ\"",
+        "theme": ["#eceaf2ff", "#f8f7a5ff", "#eaaaf0ff"],
+        "hitCount": 1157,
+        "rizHitCount": 272,
+        "challengeTimes": [
+          {
+            "start": 164,
+            "end": 252,
+            "theme": ["#e1f9d3ff", "#e66ab5ff", "#80f2bfff"]
+          }
+        ]
+      }
+    },
+    "duration": 150.163946,
+    "BPM": 183,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Relieve.响星幂ElroyJanKortanidze.0",
+    "chap": "Disc EX",
+    "name": "Relieve",
+    "composer": "响 & 星幂Elroy & Jan Kortanidze",
+    "pst": 149.9770050048828,
+    "pet": 169.9770050048828,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 2,
+        "charter": "Junesnow feat.百九十八",
+        "theme": ["#a5a7b5ff", "#b34571ff", "#937880ff"],
+        "hitCount": 265,
+        "rizHitCount": 57,
+        "challengeTimes": [
+          {
+            "start": 18608.6586680756,
+            "end": 18660.69118759394,
+            "theme": ["#c6d2e6ff", "#e7e158ff", "#7f9ac7ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 5.5,
+        "charter": "Junesnow feat.百九十八",
+        "theme": ["#a5a7b5ff", "#b34571ff", "#937880ff"],
+        "hitCount": 522,
+        "rizHitCount": 93,
+        "challengeTimes": [
+          {
+            "start": 18608.6586680756,
+            "end": 18660.69118759394,
+            "theme": ["#c6d2e6ff", "#e7e158ff", "#7f9ac7ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 9,
+        "charter": "Uvernight with 百九十八",
+        "theme": ["#a5a7b5ff", "#b34571ff", "#937880ff"],
+        "hitCount": 776,
+        "rizHitCount": 124,
+        "challengeTimes": [
+          {
+            "start": 18608.6586680756,
+            "end": 18660.69118759394,
+            "theme": ["#c6d2e6ff", "#e7e158ff", "#7f9ac7ff"]
+          }
+        ]
+      }
+    },
+    "duration": 212.300544,
+    "BPM": 100,
+    "bpmShifts": [
+      {
+        "time": 0,
+        "value": 1.0399999618530273,
+        "easeType": 0,
+        "floorPosition": 0
+      },
+      {
+        "time": 191,
+        "value": 0.9300000071525574,
+        "easeType": 0,
+        "floorPosition": 110.19231414794922
+      },
+      {
+        "time": 192,
+        "value": 0.8799999952316284,
+        "easeType": 0,
+        "floorPosition": 110.83747863769533
+      },
+      {
+        "time": 193,
+        "value": 0.7099999785423279,
+        "easeType": 0,
+        "floorPosition": 111.51929473876952
+      },
+      {
+        "time": 194,
+        "value": 0.6299999952316284,
+        "easeType": 0,
+        "floorPosition": 112.36436462402344
+      },
+      {
+        "time": 195,
+        "value": 0.5299999713897705,
+        "easeType": 0,
+        "floorPosition": 113.31674194335938
+      },
+      {
+        "time": 196,
+        "value": 0.6200000047683716,
+        "easeType": 0,
+        "floorPosition": 114.44881439208984
+      },
+      {
+        "time": 197,
+        "value": 0.7900000214576721,
+        "easeType": 0,
+        "floorPosition": 115.41655731201172
+      },
+      {
+        "time": 199,
+        "value": 0.6499999761581421,
+        "easeType": 0,
+        "floorPosition": 116.935546875
+      },
+      {
+        "time": 201,
+        "value": 1.2300000190734863,
+        "easeType": 0,
+        "floorPosition": 118.78170013427736
+      }
+    ]
+  },
+  {
+    "id": "Alexandrite.onoken.0",
+    "chap": "Disc EX",
+    "name": "Alexandrite",
+    "composer": "onoken",
+    "pst": 65.85700225830078,
+    "pet": 85.85700225830078,
+    "illustrator": "©2024 Rayark Inc. CYTUS II®",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "猫熊",
+        "theme": ["#9a949dff", "#f3626fff", "#c2badbff"],
+        "hitCount": 410,
+        "rizHitCount": 99,
+        "challengeTimes": [
+          {
+            "start": 377.5,
+            "end": 441.5,
+            "theme": ["#f3eedcff", "#abd99bff", "#f2d49dff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8,
+        "charter": "猫熊",
+        "theme": ["#9a949dff", "#f3626fff", "#c2badbff"],
+        "hitCount": 722,
+        "rizHitCount": 156,
+        "challengeTimes": [
+          {
+            "start": 377.5,
+            "end": 441.5,
+            "theme": ["#f3eedcff", "#abd99bff", "#f2d49dff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.300000190734863,
+        "charter": "Emerald after Dawn",
+        "theme": ["#9a949dff", "#f3626fff", "#c2badbff"],
+        "hitCount": 1026,
+        "rizHitCount": 254,
+        "challengeTimes": [
+          {
+            "start": 377.5,
+            "end": 441.5,
+            "theme": ["#f3eedcff", "#abd99bff", "#f2d49dff"]
+          }
+        ]
+      }
+    },
+    "duration": 167.315397,
+    "BPM": 175,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Hydra.JamesLandinoXAkiraComplex.0",
+    "chap": "Disc EX",
+    "name": "Hydra",
+    "composer": "James Landino X Akira Complex",
+    "pst": 96.5,
+    "pet": 116.5,
+    "illustrator": "©2024 Rayark Inc. CYTUS II®",
+    "chart": {
+      "EZ": {
+        "diff": 5,
+        "charter": "百九十八",
+        "theme": ["#a3a9b9ff", "#acf5fcff", "#4f5471ff"],
+        "hitCount": 433,
+        "rizHitCount": 85,
+        "challengeTimes": [
+          {
+            "start": 260,
+            "end": 324,
+            "theme": ["#69718cff", "#fdd2feff", "#acf5fcff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 10.5,
+        "charter": "临时工",
+        "theme": ["#a3a9b9ff", "#acf5fcff", "#4f5471ff"],
+        "hitCount": 899,
+        "rizHitCount": 199,
+        "challengeTimes": [
+          {
+            "start": 260,
+            "end": 324,
+            "theme": ["#69718cff", "#fdd2feff", "#acf5fcff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.600000381469727,
+        "charter": "Nine-Headed",
+        "theme": ["#a3a9b9ff", "#acf5fcff", "#4f5471ff"],
+        "hitCount": 1317,
+        "rizHitCount": 279,
+        "challengeTimes": [
+          {
+            "start": 260,
+            "end": 324,
+            "theme": ["#69718cff", "#fdd2feff", "#acf5fcff"]
+          }
+        ]
+      }
+    },
+    "duration": 151.5,
+    "BPM": 160,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "漂流.THESxPLAYKIVΛ.0",
+    "chap": "Disc EX",
+    "name": "漂流",
+    "composer": "THE SxPLAY & KIVΛ",
+    "pst": 70.1719970703125,
+    "pet": 90.1719970703125,
+    "illustrator": "©2024 Rayark Inc. CYTUS II®",
+    "chart": {
+      "EZ": {
+        "diff": 3.5,
+        "charter": "潜水猫",
+        "theme": ["#d6e3b3ff", "#abdbe5ff", "#b0c077ff"],
+        "hitCount": 288,
+        "rizHitCount": 115,
+        "challengeTimes": [
+          {
+            "start": 266,
+            "end": 380,
+            "theme": ["#caedfbff", "#cad360ff", "#9ad7c3ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "溺水猫",
+        "theme": ["#d6e3b3ff", "#abdbe5ff", "#b0c077ff"],
+        "hitCount": 509,
+        "rizHitCount": 216,
+        "challengeTimes": [
+          {
+            "start": 266,
+            "end": 380,
+            "theme": ["#caedfbff", "#cad360ff", "#9ad7c3ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.199999809265137,
+        "charter": "扁舟",
+        "theme": ["#d6e3b3ff", "#abdbe5ff", "#b0c077ff"],
+        "hitCount": 829,
+        "rizHitCount": 306,
+        "challengeTimes": [
+          {
+            "start": 266,
+            "end": 380,
+            "theme": ["#caedfbff", "#cad360ff", "#9ad7c3ff"]
+          }
+        ]
+      }
+    },
+    "duration": 167.172404,
+    "BPM": 145,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "CometCoaster.DJNorikenaran.0",
+    "chap": "Disc EX",
+    "name": "Comet Coaster",
+    "composer": "DJ Noriken & aran",
+    "pst": 29.666000366210938,
+    "pet": 49.66600036621094,
+    "illustrator": "©peropero",
+    "chart": {
+      "EZ": {
+        "diff": 4,
+        "charter": "CometHara",
+        "theme": ["#79adf1ff", "#8ee5faff", "#3f56b9ff"],
+        "hitCount": 304,
+        "rizHitCount": 51,
+        "challengeTimes": [
+          {
+            "start": 346,
+            "end": 408,
+            "theme": ["#b4dcf7ff", "#64a1f1ff", "#7466f8ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8,
+        "charter": "KumaCoaster",
+        "theme": ["#79adf1ff", "#8ee5faff", "#3f56b9ff"],
+        "hitCount": 666,
+        "rizHitCount": 129,
+        "challengeTimes": [
+          {
+            "start": 346,
+            "end": 408,
+            "theme": ["#b4dcf7ff", "#64a1f1ff", "#7466f8ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.699999809265137,
+        "charter": "Proton Xollider",
+        "theme": ["#79adf1ff", "#8ee5faff", "#3f56b9ff"],
+        "hitCount": 1177,
+        "rizHitCount": 227,
+        "challengeTimes": [
+          {
+            "start": 346,
+            "end": 408,
+            "theme": ["#b4dcf7ff", "#64a1f1ff", "#7466f8ff"]
+          }
+        ]
+      }
+    },
+    "duration": 150.66517,
+    "BPM": 180,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "DOMINATOR.NOMA.0",
+    "chap": "Disc EX",
+    "name": "DOMINATOR",
+    "composer": "NOMA",
+    "pst": 83.9229965209961,
+    "pet": 103.9229965209961,
+    "illustrator": "©peropero",
+    "chart": {
+      "EZ": {
+        "diff": 5.5,
+        "charter": "Junesnow",
+        "theme": ["#666666ff", "#bc00faff", "#baff35ff"],
+        "hitCount": 428,
+        "rizHitCount": 54,
+        "challengeTimes": [
+          {
+            "start": 276,
+            "end": 340,
+            "theme": ["#c0a2cbff", "#baff35ff", "#bc00faff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8.5,
+        "charter": "Junesnow",
+        "theme": ["#666666ff", "#bc00faff", "#baff35ff"],
+        "hitCount": 704,
+        "rizHitCount": 107,
+        "challengeTimes": [
+          {
+            "start": 276,
+            "end": 340,
+            "theme": ["#c0a2cbff", "#baff35ff", "#bc00faff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.600000381469727,
+        "charter": "NersanX",
+        "theme": ["#666666ff", "#bc00faff", "#baff35ff"],
+        "hitCount": 1431,
+        "rizHitCount": 252,
+        "challengeTimes": [
+          {
+            "start": 276,
+            "end": 340,
+            "theme": ["#c0a2cbff", "#baff35ff", "#bc00faff"]
+          }
+        ]
+      }
+    },
+    "duration": 140,
+    "BPM": 195,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "天灵灵地灵灵.iKzfeat小可学妹.0",
+    "chap": "Disc EX",
+    "name": "天灵灵地灵灵",
+    "composer": "iKz feat.小可学妹",
+    "pst": 79.51599884033203,
+    "pet": 99.51599884033203,
+    "illustrator": "©peropero",
+    "chart": {
+      "EZ": {
+        "diff": 4,
+        "charter": "道士Pro",
+        "theme": ["#ffedccff", "#fab142ff", "#f84b7bff"],
+        "hitCount": 392,
+        "rizHitCount": 77,
+        "challengeTimes": [
+          {
+            "start": 207,
+            "end": 272,
+            "theme": ["#ecc9ccff", "#f84b7bff", "#4259e0ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "ShinE灵灵",
+        "theme": ["#ffedccff", "#fab142ff", "#f84b7bff"],
+        "hitCount": 583,
+        "rizHitCount": 119,
+        "challengeTimes": [
+          {
+            "start": 207,
+            "end": 272,
+            "theme": ["#ecc9ccff", "#f84b7bff", "#4259e0ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.300000190734863,
+        "charter": "道士九八",
+        "theme": ["#ffedccff", "#fab142ff", "#f84b7bff"],
+        "hitCount": 1341,
+        "rizHitCount": 283,
+        "challengeTimes": [
+          {
+            "start": 207,
+            "end": 272,
+            "theme": ["#ecc9ccff", "#f84b7bff", "#4259e0ff"]
+          }
+        ]
+      }
+    },
+    "duration": 147.869819,
+    "BPM": 155,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "sAtElLites.SIRIUS.0",
+    "chap": "Disc 2",
+    "name": "sAtElLites",
+    "composer": "SIRIUS",
+    "pst": 32.33300018310547,
+    "pet": 52.33300018310547,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "NeRsAn",
+        "theme": ["#98a0bcff", "#ffffc1ff", "#ffe1b2ff"],
+        "hitCount": 344,
+        "rizHitCount": 101,
+        "challengeTimes": [
+          {
+            "start": 323,
+            "end": 452,
+            "theme": ["#ffffdfff", "#f7cc74ff", "#98a0bcff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "nErSaN",
+        "theme": ["#98a0bcff", "#ffffc1ff", "#ffe1b2ff"],
+        "hitCount": 623,
+        "rizHitCount": 203,
+        "challengeTimes": [
+          {
+            "start": 323,
+            "end": 452,
+            "theme": ["#ffffdfff", "#f7cc74ff", "#98a0bcff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12,
+        "charter": "百9十8",
+        "theme": ["#98a0bcff", "#ffffc1ff", "#ffe1b2ff"],
+        "hitCount": 880,
+        "rizHitCount": 333,
+        "challengeTimes": [
+          {
+            "start": 323,
+            "end": 452,
+            "theme": ["#ffffdfff", "#f7cc74ff", "#98a0bcff"]
+          }
+        ]
+      }
+    },
+    "duration": 155.977959,
+    "BPM": 180,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Intruder.Riya.0",
+    "chap": "Disc 2",
+    "name": "Intruder",
+    "composer": "Riya",
+    "pst": 66.19999694824219,
+    "pet": 88.19999694824219,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 2,
+        "charter": "南門贰",
+        "theme": ["#b2bdc3ff", "#acd35bff", "#708a8bff"],
+        "hitCount": 295,
+        "rizHitCount": 62,
+        "challengeTimes": [
+          {
+            "start": 196,
+            "end": 260,
+            "theme": ["#6d7778ff", "#88ece3ff", "#acd35bff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 6.5,
+        "charter": "南門贰",
+        "theme": ["#b2bdc3ff", "#acd35bff", "#708a8bff"],
+        "hitCount": 489,
+        "rizHitCount": 137,
+        "challengeTimes": [
+          {
+            "start": 196,
+            "end": 260,
+            "theme": ["#6d7778ff", "#88ece3ff", "#acd35bff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.300000190734863,
+        "charter": "UMa-δ",
+        "theme": ["#b2bdc3ff", "#acd35bff", "#708a8bff"],
+        "hitCount": 724,
+        "rizHitCount": 174,
+        "challengeTimes": [
+          {
+            "start": 196,
+            "end": 260,
+            "theme": ["#6d7778ff", "#88ece3ff", "#acd35bff"]
+          }
+        ]
+      }
+    },
+    "duration": 116.569342,
+    "BPM": 175,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Psychometry.HyuN.0",
+    "chap": "Disc EX",
+    "name": "Psychometry",
+    "composer": "HyuN",
+    "pst": 40.66600036621094,
+    "pet": 60.66600036621094,
+    "illustrator": "© QueseraGames Co., Ltd.",
+    "chart": {
+      "EZ": {
+        "diff": 3.5,
+        "charter": "NerS",
+        "theme": ["#ffdeefff", "#38d2ffff", "#fe3f56ff"],
+        "hitCount": 277,
+        "rizHitCount": 71,
+        "challengeTimes": [
+          {
+            "start": 99,
+            "end": 164,
+            "theme": ["#ff8ca7ff", "#fe0022ff", "#17f0feff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "NerS",
+        "theme": ["#ffdeefff", "#38d2ffff", "#fe3f56ff"],
+        "hitCount": 671,
+        "rizHitCount": 135,
+        "challengeTimes": [
+          {
+            "start": 99,
+            "end": 164,
+            "theme": ["#ff8ca7ff", "#fe0022ff", "#17f0feff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.399999618530273,
+        "charter": "百九十八",
+        "theme": ["#ffdeefff", "#38d2ffff", "#fe3f56ff"],
+        "hitCount": 809,
+        "rizHitCount": 176,
+        "challengeTimes": [
+          {
+            "start": 99,
+            "end": 164,
+            "theme": ["#ff8ca7ff", "#fe0022ff", "#17f0feff"]
+          }
+        ]
+      }
+    },
+    "duration": 132.274308,
+    "BPM": 144,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "ElectricComet.Meram1n.0",
+    "chap": "Disc EX",
+    "name": "Electric Comet",
+    "composer": "Meram1n",
+    "pst": 88.14199829101562,
+    "pet": 108.14199829101562,
+    "illustrator": "© QueseraGames Co., Ltd.",
+    "chart": {
+      "EZ": {
+        "diff": 2.5,
+        "charter": "百九十八",
+        "theme": ["#c9f0f7ff", "#71a4bbff", "#194861ff"],
+        "hitCount": 348,
+        "rizHitCount": 66,
+        "challengeTimes": [
+          {
+            "start": 259,
+            "end": 324,
+            "theme": ["#47819bff", "#acebf6ff", "#68e7f6ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7.5,
+        "charter": "百九十八",
+        "theme": ["#c9f0f7ff", "#71a4bbff", "#194861ff"],
+        "hitCount": 779,
+        "rizHitCount": 138,
+        "challengeTimes": [
+          {
+            "start": 259,
+            "end": 324,
+            "theme": ["#47819bff", "#acebf6ff", "#68e7f6ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.300000190734863,
+        "charter": "1LecTrify",
+        "theme": ["#c9f0f7ff", "#71a4bbff", "#194861ff"],
+        "hitCount": 1016,
+        "rizHitCount": 211,
+        "challengeTimes": [
+          {
+            "start": 259,
+            "end": 324,
+            "theme": ["#47819bff", "#acebf6ff", "#68e7f6ff"]
+          }
+        ]
+      }
+    },
+    "duration": 157.701338,
+    "BPM": 175,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Eschatology.TatshScarlette.0",
+    "chap": "Disc EX",
+    "name": "Eschatology",
+    "composer": "Tatsh & Scarlette",
+    "pst": 74.5999984741211,
+    "pet": 94.5999984741211,
+    "illustrator": "© QueseraGames Co., Ltd.",
+    "chart": {
+      "EZ": {
+        "diff": 5,
+        "charter": "Junesnow",
+        "theme": ["#d6d5d9ff", "#a388c3ff", "#a09eaaff"],
+        "hitCount": 468,
+        "rizHitCount": 197,
+        "challengeTimes": [
+          {
+            "start": 252,
+            "end": 380,
+            "theme": ["#556c79ff", "#78e9edff", "#b6b7f4ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 10,
+        "charter": "Junesnow",
+        "theme": ["#d6d5d9ff", "#a388c3ff", "#a09eaaff"],
+        "hitCount": 795,
+        "rizHitCount": 346,
+        "challengeTimes": [
+          {
+            "start": 252,
+            "end": 380,
+            "theme": ["#556c79ff", "#78e9edff", "#b6b7f4ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.199999809265137,
+        "charter": "NИLL",
+        "theme": ["#d6d5d9ff", "#a388c3ff", "#a09eaaff"],
+        "hitCount": 1124,
+        "rizHitCount": 409,
+        "challengeTimes": [
+          {
+            "start": 252,
+            "end": 380,
+            "theme": ["#556c79ff", "#78e9edff", "#b6b7f4ff"]
+          }
+        ]
+      }
+    },
+    "duration": 151.2,
+    "BPM": 200,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "PlanetariumprodScarlette.kuripurinKyueMYULee.0",
+    "chap": "Disc EX",
+    "name": "너를 그리는 밤하늘의 이야기\n(Planetarium) prod. Scarlette",
+    "composer": "kuripurin & Kyue & MYULee",
+    "pst": 62.448001861572266,
+    "pet": 82.447998046875,
+    "illustrator": "© QueseraGames Co., Ltd.",
+    "chart": {
+      "EZ": {
+        "diff": 2,
+        "charter": "UMa-δ",
+        "theme": ["#3f5f94ff", "#69dafaff", "#26377bff"],
+        "hitCount": 274,
+        "rizHitCount": 56,
+        "challengeTimes": [
+          {
+            "start": 184,
+            "end": 252,
+            "theme": ["#79b6e4ff", "#2171e4ff", "#69dafaff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 6.5,
+        "charter": "UMa-δ",
+        "theme": ["#3f5f94ff", "#69dafaff", "#26377bff"],
+        "hitCount": 423,
+        "rizHitCount": 78,
+        "challengeTimes": [
+          {
+            "start": 184,
+            "end": 252,
+            "theme": ["#79b6e4ff", "#2171e4ff", "#69dafaff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.100000381469727,
+        "charter": "스페이드 (Spade)",
+        "theme": ["#3f5f94ff", "#69dafaff", "#26377bff"],
+        "hitCount": 897,
+        "rizHitCount": 155,
+        "challengeTimes": [
+          {
+            "start": 184,
+            "end": 252,
+            "theme": ["#79b6e4ff", "#2171e4ff", "#69dafaff"]
+          }
+        ]
+      }
+    },
+    "duration": 159.795601,
+    "BPM": 174,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "AvataarReincarnationofKalpa.ScarletteakaCrYmson.0",
+    "chap": "Disc EX",
+    "name": "Avataar ~Reincarnation of Kalpa~",
+    "composer": "Scarlette a.k.a. CrYmson",
+    "pst": 57.66600036621094,
+    "pet": 77.66600036621094,
+    "illustrator": "© QueseraGames Co., Ltd.",
+    "chart": {
+      "EZ": {
+        "diff": 4.5,
+        "charter": "NИLL ~Reconfiguration of ShinE~",
+        "theme": ["#666795ff", "#5062f7ff", "#35346eff"],
+        "hitCount": 388,
+        "rizHitCount": 242,
+        "challengeTimes": [
+          {
+            "start": 278,
+            "end": 460,
+            "theme": ["#45559bff", "#d5b387ff", "#ceccebff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 9,
+        "charter": "NИLL ~Reconfiguration of ShinE~",
+        "theme": ["#666795ff", "#5062f7ff", "#35346eff"],
+        "hitCount": 682,
+        "rizHitCount": 424,
+        "challengeTimes": [
+          {
+            "start": 278,
+            "end": 460,
+            "theme": ["#45559bff", "#d5b387ff", "#ceccebff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.300000190734863,
+        "charter": "Junesnow a.k.a. 满天星",
+        "theme": ["#666795ff", "#5062f7ff", "#35346eff"],
+        "hitCount": 1042,
+        "rizHitCount": 618,
+        "challengeTimes": [
+          {
+            "start": 278,
+            "end": 460,
+            "theme": ["#45559bff", "#d5b387ff", "#ceccebff"]
+          }
+        ]
+      }
+    },
+    "duration": 174.663447,
+    "BPM": 180,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "FrozenHeart.A39沙包P.0",
+    "chap": "Disc EX",
+    "name": "Frozen Heart",
+    "composer": "A-39 / 沙包P",
+    "pst": 41.810001373291016,
+    "pet": 61.810001373291016,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "D-31 / 闪耀D",
+        "theme": ["#e7eff7ff", "#916572ff", "#5d7b9dff"],
+        "hitCount": 533,
+        "rizHitCount": 88,
+        "challengeTimes": [
+          {
+            "start": 243,
+            "end": 308,
+            "theme": ["#94abceff", "#e5e1c1ff", "#916572ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8.5,
+        "charter": "D-31 / 闪耀D",
+        "theme": ["#e7eff7ff", "#916572ff", "#5d7b9dff"],
+        "hitCount": 949,
+        "rizHitCount": 151,
+        "challengeTimes": [
+          {
+            "start": 243,
+            "end": 308,
+            "theme": ["#94abceff", "#e5e1c1ff", "#916572ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.600000381469727,
+        "charter": "N\\erry Xmas 2024",
+        "theme": ["#e7eff7ff", "#916572ff", "#5d7b9dff"],
+        "hitCount": 1616,
+        "rizHitCount": 266,
+        "challengeTimes": [
+          {
+            "start": 243,
+            "end": 308,
+            "theme": ["#94abceff", "#e5e1c1ff", "#916572ff"]
+          }
+        ]
+      }
+    },
+    "duration": 192,
+    "BPM": 185,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "RuleTheWorld.VauBoy.0",
+    "chap": "Disc 2",
+    "name": "Rule The World",
+    "composer": "Vau Boy",
+    "pst": 44.17599868774414,
+    "pet": 64.1760025024414,
+    "illustrator": "HAKIRE",
+    "chart": {
+      "EZ": {
+        "diff": 2,
+        "charter": "南門贰",
+        "theme": ["#f8ffe1ff", "#ace2fdff", "#e5c4bfff"],
+        "hitCount": 374,
+        "rizHitCount": 70,
+        "challengeTimes": [
+          {
+            "start": 192,
+            "end": 256,
+            "theme": ["#c7e7ecff", "#ffdda4ff", "#6bb3d8ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 6.5,
+        "charter": "南門贰",
+        "theme": ["#f8ffe1ff", "#ace2fdff", "#e5c4bfff"],
+        "hitCount": 667,
+        "rizHitCount": 127,
+        "challengeTimes": [
+          {
+            "start": 192,
+            "end": 256,
+            "theme": ["#c7e7ecff", "#ffdda4ff", "#6bb3d8ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.300000190734863,
+        "charter": "百九十八",
+        "theme": ["#f8ffe1ff", "#ace2fdff", "#e5c4bfff"],
+        "hitCount": 1124,
+        "rizHitCount": 187,
+        "challengeTimes": [
+          {
+            "start": 192,
+            "end": 256,
+            "theme": ["#c7e7ecff", "#ffdda4ff", "#6bb3d8ff"]
+          }
+        ]
+      }
+    },
+    "duration": 206.144603,
+    "BPM": 170,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "amethyst.かねこちはる.0",
+    "chap": "Disc EX",
+    "name": "amethyst",
+    "composer": "かねこちはる",
+    "pst": 114.76399993896484,
+    "pet": 134.76400756835938,
+    "illustrator": "Nich",
+    "chart": {
+      "EZ": {
+        "diff": 2,
+        "charter": "猫熊",
+        "theme": ["#5a466eff", "#fab2fcff", "#b062d3ff"],
+        "hitCount": 283,
+        "rizHitCount": 47,
+        "challengeTimes": [
+          {
+            "start": 328,
+            "end": 388,
+            "theme": ["#e1bef2ff", "#9b5ee7ff", "#574395ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "猫熊",
+        "theme": ["#5a466eff", "#fab2fcff", "#b062d3ff"],
+        "hitCount": 501,
+        "rizHitCount": 86,
+        "challengeTimes": [
+          {
+            "start": 328,
+            "end": 388,
+            "theme": ["#e1bef2ff", "#9b5ee7ff", "#574395ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.800000190734863,
+        "charter": "amethystinE",
+        "theme": ["#5a466eff", "#fab2fcff", "#b062d3ff"],
+        "hitCount": 1111,
+        "rizHitCount": 185,
+        "challengeTimes": [
+          {
+            "start": 328,
+            "end": 388,
+            "theme": ["#e1bef2ff", "#9b5ee7ff", "#574395ff"]
+          }
+        ]
+      }
+    },
+    "duration": 163.374989,
+    "BPM": 170,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Alfheimsfaith.影虎.0",
+    "chap": "Disc EX",
+    "name": "Alfheim's faith",
+    "composer": "影虎。",
+    "pst": 86.5999984741211,
+    "pet": 106.5999984741211,
+    "illustrator": "霜月",
+    "chart": {
+      "EZ": {
+        "diff": 2.5,
+        "charter": "百九十八",
+        "theme": ["#daedfcff", "#99c485ff", "#aacbebff"],
+        "hitCount": 302,
+        "rizHitCount": 86,
+        "challengeTimes": [
+          {
+            "start": 291,
+            "end": 386,
+            "theme": ["#ceeccaff", "#7ab9e4ff", "#719970ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7.5,
+        "charter": "百九十八",
+        "theme": ["#daedfcff", "#99c485ff", "#aacbebff"],
+        "hitCount": 622,
+        "rizHitCount": 182,
+        "challengeTimes": [
+          {
+            "start": 291,
+            "end": 386,
+            "theme": ["#ceeccaff", "#7ab9e4ff", "#719970ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.699999809265137,
+        "charter": "Ner as 光猫。",
+        "theme": ["#daedfcff", "#99c485ff", "#aacbebff"],
+        "hitCount": 978,
+        "rizHitCount": 276,
+        "challengeTimes": [
+          {
+            "start": 291,
+            "end": 386,
+            "theme": ["#ceeccaff", "#7ab9e4ff", "#719970ff"]
+          }
+        ]
+      }
+    },
+    "duration": 141.6,
+    "BPM": 200,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "翠杜.隣の庭は青い庭師Aoi.0",
+    "chap": "Disc EX",
+    "name": "翠杜",
+    "composer": "隣の庭は青い(庭師+Aoi)",
+    "pst": 91,
+    "pet": 111,
+    "illustrator": "月裏",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "百九十八",
+        "theme": ["#f5e7d2ff", "#e6b18fff", "#bf7e6bff"],
+        "hitCount": 415,
+        "rizHitCount": 131,
+        "challengeTimes": [
+          {
+            "start": 275,
+            "end": 396,
+            "theme": ["#e6b18fff", "#c75533ff", "#6d4234ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 9.5,
+        "charter": "猫熊",
+        "theme": ["#f5e7d2ff", "#e6b18fff", "#bf7e6bff"],
+        "hitCount": 798,
+        "rizHitCount": 220,
+        "challengeTimes": [
+          {
+            "start": 275,
+            "end": 396,
+            "theme": ["#e6b18fff", "#c75533ff", "#6d4234ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.699999809265137,
+        "charter": "Junesnow",
+        "theme": ["#f5e7d2ff", "#e6b18fff", "#bf7e6bff"],
+        "hitCount": 1481,
+        "rizHitCount": 356,
+        "challengeTimes": [
+          {
+            "start": 275,
+            "end": 396,
+            "theme": ["#e6b18fff", "#c75533ff", "#6d4234ff"]
+          }
+        ]
+      }
+    },
+    "duration": 149.333333,
+    "BPM": 180,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "felysfinalremix.onoken.0",
+    "chap": "Disc 2",
+    "name": "felys -final remix-",
+    "composer": "onoken",
+    "pst": 87.66600036621094,
+    "pet": 107.66600036621094,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 2.5,
+        "charter": "猫熊",
+        "theme": ["#8e8f97ff", "#b8dae6ff", "#c6c4d2ff"],
+        "hitCount": 325,
+        "rizHitCount": 37,
+        "challengeTimes": [
+          {
+            "start": 266,
+            "end": 330,
+            "theme": ["#8eabbeff", "#dddabdff", "#b8dae6ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "猫熊",
+        "theme": ["#8e8f97ff", "#b8dae6ff", "#c6c4d2ff"],
+        "hitCount": 591,
+        "rizHitCount": 46,
+        "challengeTimes": [
+          {
+            "start": 266,
+            "end": 330,
+            "theme": ["#8eabbeff", "#dddabdff", "#b8dae6ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.5,
+        "charter": "seeds -for art-",
+        "theme": ["#8e8f97ff", "#b8dae6ff", "#c6c4d2ff"],
+        "hitCount": 1063,
+        "rizHitCount": 168,
+        "challengeTimes": [
+          {
+            "start": 266,
+            "end": 330,
+            "theme": ["#8eabbeff", "#dddabdff", "#b8dae6ff"]
+          }
+        ]
+      }
+    },
+    "duration": 169.295147,
+    "BPM": 180,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Destr0yer.Sakuzyo.0",
+    "chap": "Disc 2",
+    "name": "Destr0yer",
+    "composer": "Sakuzyo feat. Nikki Simmons",
+    "pst": 104.33300018310547,
+    "pet": 124.33300018310547,
+    "illustrator": "yoshimo & Radiosity",
+    "chart": {
+      "EZ": {
+        "diff": 4,
+        "charter": "X0llider",
+        "theme": ["#4d4c4eff", "#a8484aff", "#0c0e0dff"],
+        "hitCount": 426,
+        "rizHitCount": 99,
+        "challengeTimes": [
+          {
+            "start": 402,
+            "end": 468,
+            "theme": ["#bcbcbcff", "#f7bf77ff", "#747677ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 9,
+        "charter": "Pr0xima",
+        "theme": ["#4d4c4eff", "#a8484aff", "#0c0e0dff"],
+        "hitCount": 653,
+        "rizHitCount": 142,
+        "challengeTimes": [
+          {
+            "start": 402,
+            "end": 468,
+            "theme": ["#bcbcbcff", "#f7bf77ff", "#747677ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.399999618530273,
+        "charter": "Junesn0w",
+        "theme": ["#4d4c4eff", "#a8484aff", "#0c0e0dff"],
+        "hitCount": 1126,
+        "rizHitCount": 222,
+        "challengeTimes": [
+          {
+            "start": 402,
+            "end": 468,
+            "theme": ["#bcbcbcff", "#f7bf77ff", "#747677ff"]
+          }
+        ]
+      }
+    },
+    "duration": 181.624989,
+    "BPM": 180,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "crystallized.Camellia.0",
+    "chap": "Disc 2",
+    "name": "crystallized",
+    "composer": "Camellia",
+    "pst": 47.275001525878906,
+    "pet": 67.2750015258789,
+    "illustrator": "Ryo Asakura",
+    "chart": {
+      "EZ": {
+        "diff": 6,
+        "charter": "UMa-δ",
+        "theme": ["#556a74ff", "#9ad7e8ff", "#5081c1ff"],
+        "hitCount": 500,
+        "rizHitCount": 192,
+        "challengeTimes": [
+          {
+            "start": 364,
+            "end": 491,
+            "theme": ["#c4e4f3ff", "#4f92cdff", "#00b0beff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 10,
+        "charter": "UMa-δ",
+        "theme": ["#556a74ff", "#9ad7e8ff", "#5081c1ff"],
+        "hitCount": 1003,
+        "rizHitCount": 337,
+        "challengeTimes": [
+          {
+            "start": 364,
+            "end": 491,
+            "theme": ["#c4e4f3ff", "#4f92cdff", "#00b0beff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.5,
+        "charter": "UMa-δ",
+        "theme": ["#556a74ff", "#9ad7e8ff", "#5081c1ff"],
+        "hitCount": 1231,
+        "rizHitCount": 441,
+        "challengeTimes": [
+          {
+            "start": 364,
+            "end": 491,
+            "theme": ["#c4e4f3ff", "#4f92cdff", "#00b0beff"]
+          }
+        ]
+      }
+    },
+    "duration": 194.482132,
+    "BPM": 174,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "驟雨の狭間.Silentroom.0",
+    "chap": "Disc EX",
+    "name": "驟雨の狭間",
+    "composer": "Silentroom",
+    "pst": 110.37899780273438,
+    "pet": 130.37899780273438,
+    "illustrator": "Shun Yamaguchi",
+    "chart": {
+      "EZ": {
+        "diff": 5,
+        "charter": "NerSAN",
+        "theme": ["#3f3f3fff", "#171de7ff", "#171de7ff"],
+        "hitCount": 587,
+        "rizHitCount": 183,
+        "challengeTimes": [
+          {
+            "start": 323,
+            "end": 451,
+            "theme": ["#1118a2ff", "#bfbfbfff", "#0b1215ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 10.5,
+        "charter": "NerSAN",
+        "theme": ["#3f3f3fff", "#171de7ff", "#171de7ff"],
+        "hitCount": 1417,
+        "rizHitCount": 419,
+        "challengeTimes": [
+          {
+            "start": 323,
+            "end": 451,
+            "theme": ["#1118a2ff", "#bfbfbfff", "#0b1215ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.100000381469727,
+        "charter": "百九十八",
+        "theme": ["#3f3f3fff", "#171de7ff", "#171de7ff"],
+        "hitCount": 1849,
+        "rizHitCount": 418,
+        "challengeTimes": [
+          {
+            "start": 323,
+            "end": 451,
+            "theme": ["#1118a2ff", "#bfbfbfff", "#0b1215ff"]
+          }
+        ]
+      }
+    },
+    "duration": 227.916667,
+    "BPM": 174,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "CosmosCapsule.AsTroyBakami.0",
+    "chap": "Disc 2",
+    "name": "Cosmos Capsule",
+    "composer": "AsTroy & Bakami",
+    "pst": 135.5,
+    "pet": 155.5,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 2.5,
+        "charter": "南門贰",
+        "theme": ["#c5cdd9ff", "#a34d60ff", "#324156ff"],
+        "hitCount": 419,
+        "rizHitCount": 100,
+        "challengeTimes": [
+          {
+            "start": 364,
+            "end": 428,
+            "theme": ["#4d5c6fff", "#418ad1ff", "#a1a8b7ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8,
+        "charter": "南門贰",
+        "theme": ["#c5cdd9ff", "#a34d60ff", "#324156ff"],
+        "hitCount": 885,
+        "rizHitCount": 223,
+        "challengeTimes": [
+          {
+            "start": 364,
+            "end": 428,
+            "theme": ["#4d5c6fff", "#418ad1ff", "#a1a8b7ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.899999618530273,
+        "charter": "UMa-δ",
+        "theme": ["#c5cdd9ff", "#a34d60ff", "#324156ff"],
+        "hitCount": 1180,
+        "rizHitCount": 263,
+        "challengeTimes": [
+          {
+            "start": 364,
+            "end": 428,
+            "theme": ["#4d5c6fff", "#418ad1ff", "#a1a8b7ff"]
+          }
+        ]
+      }
+    },
+    "duration": 175.613288,
+    "BPM": 160,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "enchantedlove.linearring.0",
+    "chap": "Disc EX",
+    "name": "enchanted love",
+    "composer": "linear ring",
+    "pst": 40.683998107910156,
+    "pet": 60.683998107910156,
+    "illustrator": "Ek0ru",
+    "chart": {
+      "EZ": {
+        "diff": 2,
+        "charter": "shine",
+        "theme": ["#d3faf9ff", "#89dbc4ff", "#50b8b9ff"],
+        "hitCount": 241,
+        "rizHitCount": 137,
+        "challengeTimes": [
+          {
+            "start": 130,
+            "end": 277,
+            "theme": ["#89dbc4ff", "#f1ebadff", "#3e769bff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 5,
+        "charter": "shine",
+        "theme": ["#d3faf9ff", "#89dbc4ff", "#50b8b9ff"],
+        "hitCount": 425,
+        "rizHitCount": 234,
+        "challengeTimes": [
+          {
+            "start": 130,
+            "end": 277,
+            "theme": ["#89dbc4ff", "#f1ebadff", "#3e769bff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.600000381469727,
+        "charter": "Ner the Enchanter",
+        "theme": ["#d3faf9ff", "#89dbc4ff", "#50b8b9ff"],
+        "hitCount": 446,
+        "rizHitCount": 208,
+        "challengeTimes": [
+          {
+            "start": 130,
+            "end": 277,
+            "theme": ["#89dbc4ff", "#f1ebadff", "#3e769bff"]
+          }
+        ]
+      }
+    },
+    "duration": 131.368413,
+    "BPM": 190,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "CrazyAudiophile.Supa7onyz.0",
+    "chap": "Disc EX",
+    "name": "Crazy Audiophile",
+    "composer": "Supa7onyz",
+    "pst": 48.58599853515625,
+    "pet": 68.58599853515625,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 1.5,
+        "charter": "ShinE",
+        "theme": ["#ffffffff", "#868381ff", "#789ccfff"],
+        "hitCount": 264,
+        "rizHitCount": 63,
+        "challengeTimes": [
+          {
+            "start": 99.5,
+            "end": 163.5,
+            "theme": ["#bbc6d9ff", "#789fe7ff", "#586e94ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 5.5,
+        "charter": "南門贰",
+        "theme": ["#ffffffff", "#868381ff", "#789ccfff"],
+        "hitCount": 802,
+        "rizHitCount": 179,
+        "challengeTimes": [
+          {
+            "start": 99.5,
+            "end": 163.5,
+            "theme": ["#bbc6d9ff", "#789fe7ff", "#586e94ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.899999618530273,
+        "charter": "Pcat",
+        "theme": ["#ffffffff", "#868381ff", "#789ccfff"],
+        "hitCount": 995,
+        "rizHitCount": 201,
+        "challengeTimes": [
+          {
+            "start": 99.5,
+            "end": 163.5,
+            "theme": ["#bbc6d9ff", "#789fe7ff", "#586e94ff"]
+          }
+        ]
+      }
+    },
+    "duration": 170.082336,
+    "BPM": 121,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "419kB.ariiol.0",
+    "chap": "Disc EX",
+    "name": "419kB",
+    "composer": "ariiol",
+    "pst": 25.57900047302246,
+    "pet": 45.57899856567383,
+    "illustrator": "ariiol",
+    "chart": {
+      "EZ": {
+        "diff": 2.5,
+        "charter": "南門贰",
+        "theme": ["#d8d8d8ff", "#3838f8ff", "#f471b1ff"],
+        "hitCount": 317,
+        "rizHitCount": 74,
+        "challengeTimes": [
+          {
+            "start": 284,
+            "end": 339,
+            "theme": ["#f2b0d0ff", "#f533a3ff", "#2818f8ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 6,
+        "charter": "ShinE",
+        "theme": ["#d8d8d8ff", "#3838f8ff", "#f471b1ff"],
+        "hitCount": 612,
+        "rizHitCount": 150,
+        "challengeTimes": [
+          {
+            "start": 284,
+            "end": 339,
+            "theme": ["#f2b0d0ff", "#f533a3ff", "#2818f8ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.399999618530273,
+        "charter": "Megrez",
+        "theme": ["#d8d8d8ff", "#3838f8ff", "#f471b1ff"],
+        "hitCount": 914,
+        "rizHitCount": 207,
+        "challengeTimes": [
+          {
+            "start": 284,
+            "end": 339,
+            "theme": ["#f2b0d0ff", "#f533a3ff", "#2818f8ff"]
+          }
+        ]
+      }
+    },
+    "duration": 134.075147,
+    "BPM": 153.50999450683597,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "VICIOUS.MEMODEMO.0",
+    "chap": "Disc EX",
+    "name": "VICIOUS",
+    "composer": "MEMODEMO",
+    "pst": 49.70399856567383,
+    "pet": 69.7040023803711,
+    "illustrator": "juliegg",
+    "chart": {
+      "EZ": {
+        "diff": 3.5,
+        "charter": "NERSAN",
+        "theme": ["#b3a3edff", "#5bcfeeff", "#4637aeff"],
+        "hitCount": 324,
+        "rizHitCount": 60,
+        "challengeTimes": [
+          {
+            "start": 119,
+            "end": 184,
+            "theme": ["#594095ff", "#ff147dff", "#5bcfeeff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "NERSAN",
+        "theme": ["#b3a3edff", "#5bcfeeff", "#4637aeff"],
+        "hitCount": 659,
+        "rizHitCount": 136,
+        "challengeTimes": [
+          {
+            "start": 119,
+            "end": 184,
+            "theme": ["#594095ff", "#ff147dff", "#5bcfeeff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.100000381469727,
+        "charter": "百九十八",
+        "theme": ["#b3a3edff", "#5bcfeeff", "#4637aeff"],
+        "hitCount": 760,
+        "rizHitCount": 181,
+        "challengeTimes": [
+          {
+            "start": 119,
+            "end": 184,
+            "theme": ["#594095ff", "#ff147dff", "#5bcfeeff"]
+          }
+        ]
+      }
+    },
+    "duration": 154.053696,
+    "BPM": 142,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "CrushAlcohol.shadow_bling.0",
+    "chap": "Disc EX",
+    "name": "Crush Alcohol",
+    "composer": "shadow_bling",
+    "pst": 32.33300018310547,
+    "pet": 52.33300018310547,
+    "illustrator": "山山奇",
+    "chart": {
+      "EZ": {
+        "diff": 4,
+        "charter": "Junesnow",
+        "theme": ["#9a99a7ff", "#6f9ae9ff", "#505269ff"],
+        "hitCount": 396,
+        "rizHitCount": 60,
+        "challengeTimes": [
+          {
+            "start": 323,
+            "end": 384,
+            "theme": ["#6b6f8bff", "#cbea60ff", "#2c2747ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "Junesnow",
+        "theme": ["#9a99a7ff", "#6f9ae9ff", "#505269ff"],
+        "hitCount": 670,
+        "rizHitCount": 105,
+        "challengeTimes": [
+          {
+            "start": 323,
+            "end": 384,
+            "theme": ["#6b6f8bff", "#cbea60ff", "#2c2747ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.600000381469727,
+        "charter": "DOn'T DRIVe DrUNK",
+        "theme": ["#9a99a7ff", "#6f9ae9ff", "#505269ff"],
+        "hitCount": 1227,
+        "rizHitCount": 211,
+        "challengeTimes": [
+          {
+            "start": 323,
+            "end": 384,
+            "theme": ["#6b6f8bff", "#cbea60ff", "#2c2747ff"]
+          }
+        ]
+      }
+    },
+    "duration": 156.864376,
+    "BPM": 180,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "YellowShiningfeat成田なる.にーえぬ.0",
+    "chap": "Disc 2",
+    "name": "Yellow Shining!! feat. 成田なる",
+    "composer": "にーえぬ",
+    "pst": 43,
+    "pet": 63,
+    "illustrator": "やさか沙彩",
+    "chart": {
+      "EZ": {
+        "diff": 1.5,
+        "charter": "光猫",
+        "theme": ["#ffffffff", "#ffdbc1ff", "#fbe9bbff"],
+        "hitCount": 284,
+        "rizHitCount": 56,
+        "challengeTimes": [
+          {
+            "start": 259,
+            "end": 331,
+            "theme": ["#fff1c4ff", "#fac845ff", "#ffa269ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 6,
+        "charter": "光猫",
+        "theme": ["#ffffffff", "#ffdbc1ff", "#fbe9bbff"],
+        "hitCount": 532,
+        "rizHitCount": 102,
+        "challengeTimes": [
+          {
+            "start": 259,
+            "end": 331,
+            "theme": ["#fff1c4ff", "#fac845ff", "#ffa269ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12,
+        "charter": "Winter ShinE!! feat. 冬陽しん",
+        "theme": ["#ffffffff", "#ffdbc1ff", "#fbe9bbff"],
+        "hitCount": 816,
+        "rizHitCount": 140,
+        "challengeTimes": [
+          {
+            "start": 259,
+            "end": 331,
+            "theme": ["#fff1c4ff", "#fac845ff", "#ffa269ff"]
+          }
+        ]
+      }
+    },
+    "duration": 140.173605,
+    "BPM": 180,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Abatement.SNKSMizku.0",
+    "chap": "Disc 2",
+    "name": "Abatement",
+    "composer": "SNKS & Mizku",
+    "pst": 55,
+    "pet": 75,
+    "illustrator": "Rallxkurara",
+    "chart": {
+      "EZ": {
+        "diff": 5,
+        "charter": "Junesnow",
+        "theme": ["#bab7e2ff", "#4563eaff", "#9293d8ff"],
+        "hitCount": 542,
+        "rizHitCount": 80,
+        "challengeTimes": [
+          {
+            "start": 264,
+            "end": 296,
+            "theme": ["#548cc0ff", "#875fc2ff", "#3547c4ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 10,
+        "charter": "Junesnow",
+        "theme": ["#bab7e2ff", "#4563eaff", "#9293d8ff"],
+        "hitCount": 1127,
+        "rizHitCount": 138,
+        "challengeTimes": [
+          {
+            "start": 264,
+            "end": 296,
+            "theme": ["#548cc0ff", "#875fc2ff", "#3547c4ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.300000190734863,
+        "charter": "UMa-δ & HaraKuma",
+        "theme": ["#bab7e2ff", "#4563eaff", "#9293d8ff"],
+        "hitCount": 1340,
+        "rizHitCount": 113,
+        "challengeTimes": [
+          {
+            "start": 264,
+            "end": 296,
+            "theme": ["#548cc0ff", "#875fc2ff", "#3547c4ff"]
+          }
+        ]
+      }
+    },
+    "duration": 146.201383,
+    "BPM": 180,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "インフェルノシティ.Ponchifeatはぁち.0",
+    "chap": "Disc EX",
+    "name": "インフェルノシティ",
+    "composer": "Ponchi♪ feat.はぁち",
+    "pst": 63.46500015258789,
+    "pet": 83.46499633789062,
+    "illustrator": "LESYEF & 藍瀬 まなみ",
+    "chart": {
+      "EZ": {
+        "diff": 4.5,
+        "charter": "ネルサン",
+        "theme": ["#e2c5dbff", "#b2709eff", "#7f5c7cff"],
+        "hitCount": 438,
+        "rizHitCount": 151,
+        "challengeTimes": [
+          {
+            "start": 230.5,
+            "end": 374.5,
+            "theme": ["#86748dff", "#c5455cff", "#cea1beff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7.5,
+        "charter": "ネルサン",
+        "theme": ["#e2c5dbff", "#b2709eff", "#7f5c7cff"],
+        "hitCount": 684,
+        "rizHitCount": 281,
+        "challengeTimes": [
+          {
+            "start": 230.5,
+            "end": 374.5,
+            "theme": ["#86748dff", "#c5455cff", "#cea1beff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.100000381469727,
+        "charter": "In Hell",
+        "theme": ["#e2c5dbff", "#b2709eff", "#7f5c7cff"],
+        "hitCount": 1202,
+        "rizHitCount": 465,
+        "challengeTimes": [
+          {
+            "start": 230.5,
+            "end": 374.5,
+            "theme": ["#86748dff", "#c5455cff", "#cea1beff"]
+          }
+        ]
+      }
+    },
+    "duration": 122.843016,
+    "BPM": 215,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "NonameRequiem.打打だいず.0",
+    "chap": "Disc EX",
+    "name": "No-name Requiem",
+    "composer": "打打だいず",
+    "pst": 84.53700256347656,
+    "pet": 104.53700256347656,
+    "illustrator": "榊原またぎ",
+    "chart": {
+      "EZ": {
+        "diff": 5,
+        "charter": "南門贰",
+        "theme": ["#ead2c9ff", "#56a9bcff", "#c2958cff"],
+        "hitCount": 398,
+        "rizHitCount": 89,
+        "challengeTimes": [
+          {
+            "start": 261,
+            "end": 325,
+            "theme": ["#c8ffffff", "#b77d76ff", "#56a9bcff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 9.5,
+        "charter": "南門贰",
+        "theme": ["#ead2c9ff", "#56a9bcff", "#c2958cff"],
+        "hitCount": 848,
+        "rizHitCount": 166,
+        "challengeTimes": [
+          {
+            "start": 261,
+            "end": 325,
+            "theme": ["#c8ffffff", "#b77d76ff", "#56a9bcff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.800000190734863,
+        "charter": "满天星",
+        "theme": ["#ead2c9ff", "#56a9bcff", "#c2958cff"],
+        "hitCount": 1780,
+        "rizHitCount": 271,
+        "challengeTimes": [
+          {
+            "start": 261,
+            "end": 325,
+            "theme": ["#c8ffffff", "#b77d76ff", "#56a9bcff"]
+          }
+        ]
+      }
+    },
+    "duration": 135.737506,
+    "BPM": 183,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "ChangetheGamefeat松永依織.REDALiCEUSAO.0",
+    "chap": "Disc EX",
+    "name": "Change the Game feat. 松永依織",
+    "composer": "REDALiCE & USAO",
+    "pst": 91.4000015258789,
+    "pet": 111.4000015258789,
+    "illustrator": "HARDCORE TANO*C",
+    "chart": {
+      "EZ": {
+        "diff": 4,
+        "charter": "Junesnow",
+        "theme": ["#f2daa3ff", "#ee8a27ff", "#f6bb59ff"],
+        "hitCount": 391,
+        "rizHitCount": 64,
+        "challengeTimes": [
+          {
+            "start": 172,
+            "end": 240,
+            "theme": ["#e0a65eff", "#ba3412ff", "#fbe26eff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "Junesnow",
+        "theme": ["#f2daa3ff", "#ee8a27ff", "#f6bb59ff"],
+        "hitCount": 698,
+        "rizHitCount": 171,
+        "challengeTimes": [
+          {
+            "start": 172,
+            "end": 240,
+            "theme": ["#e0a65eff", "#ba3412ff", "#fbe26eff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.699999809265137,
+        "charter": "Ner *Squeeze the Cat*",
+        "theme": ["#f2daa3ff", "#ee8a27ff", "#f6bb59ff"],
+        "hitCount": 1140,
+        "rizHitCount": 198,
+        "challengeTimes": [
+          {
+            "start": 172,
+            "end": 240,
+            "theme": ["#e0a65eff", "#ba3412ff", "#fbe26eff"]
+          }
+        ]
+      }
+    },
+    "duration": 135.324966,
+    "BPM": 200,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "TVSSHARK.tpazolite.0",
+    "chap": "Disc EX",
+    "name": "T+ VS SHARK",
+    "composer": "t+pazolite",
+    "pst": 19.399999618530273,
+    "pet": 39.400001525878906,
+    "illustrator": "C.H.S",
+    "chart": {
+      "EZ": {
+        "diff": 5,
+        "charter": "UMa-δ",
+        "theme": ["#ccd5c2ff", "#dcb653ff", "#608069ff"],
+        "hitCount": 511,
+        "rizHitCount": 97,
+        "challengeTimes": [
+          {
+            "start": 355,
+            "end": 412,
+            "theme": ["#90a791ff", "#8c1c21ff", "#1d412bff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 9,
+        "charter": "UMa-δ",
+        "theme": ["#ccd5c2ff", "#dcb653ff", "#608069ff"],
+        "hitCount": 972,
+        "rizHitCount": 138,
+        "challengeTimes": [
+          {
+            "start": 355,
+            "end": 412,
+            "theme": ["#90a791ff", "#8c1c21ff", "#1d412bff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.399999618530273,
+        "charter": "OMG! it's a SHINE!",
+        "theme": ["#ccd5c2ff", "#dcb653ff", "#608069ff"],
+        "hitCount": 1531,
+        "rizHitCount": 205,
+        "challengeTimes": [
+          {
+            "start": 355,
+            "end": 412,
+            "theme": ["#90a791ff", "#8c1c21ff", "#1d412bff"]
+          }
+        ]
+      }
+    },
+    "duration": 158.4,
+    "BPM": 200,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "FutureDownloader.Kobaryo.0",
+    "chap": "Disc EX",
+    "name": "Future Downloader",
+    "composer": "Kobaryo",
+    "pst": 21.399999618530273,
+    "pet": 41.400001525878906,
+    "illustrator": "HARDCORE TANO*C",
+    "chart": {
+      "EZ": {
+        "diff": 6,
+        "charter": "满天星",
+        "theme": ["#c6e2f3ff", "#2359a0ff", "#6f96beff"],
+        "hitCount": 833,
+        "rizHitCount": 127,
+        "challengeTimes": [
+          {
+            "start": 435,
+            "end": 500,
+            "theme": ["#43689eff", "#7cc4edff", "#c6e2f3ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 10.5,
+        "charter": "满天星",
+        "theme": ["#c6e2f3ff", "#2359a0ff", "#6f96beff"],
+        "hitCount": 1248,
+        "rizHitCount": 200,
+        "challengeTimes": [
+          {
+            "start": 435,
+            "end": 500,
+            "theme": ["#43689eff", "#7cc4edff", "#c6e2f3ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.899999618530273,
+        "charter": "198GB",
+        "theme": ["#c6e2f3ff", "#2359a0ff", "#6f96beff"],
+        "hitCount": 1789,
+        "rizHitCount": 250,
+        "challengeTimes": [
+          {
+            "start": 39635,
+            "end": 39700,
+            "theme": ["#43689eff", "#7cc4edff", "#c6e2f3ff"]
+          }
+        ]
+      }
+    },
+    "duration": 150.4,
+    "BPM": 225,
+    "bpmShifts": [
+      { "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 },
+      { "time": 2, "value": 1, "easeType": 0, "floorPosition": 0.533333361 },
+      { "time": 175, "value": 1, "easeType": 0, "floorPosition": 46.6666679 }
+    ]
+  },
+  {
+    "id": "Rapture.RoyMikelate.0",
+    "chap": "Disc 2",
+    "name": "Rapture",
+    "composer": "Roy Mikelate",
+    "pst": 103,
+    "pet": 123,
+    "illustrator": "鲸弑",
+    "chart": {
+      "EZ": {
+        "diff": 4,
+        "charter": "百九十八",
+        "theme": ["#8a878fff", "#9e2f33ff", "#4f363aff"],
+        "hitCount": 305,
+        "rizHitCount": 96,
+        "challengeTimes": [
+          {
+            "start": 256,
+            "end": 324,
+            "theme": ["#a84d53ff", "#26aeedff", "#661514ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "百九十八",
+        "theme": ["#8a878fff", "#9e2f33ff", "#4f363aff"],
+        "hitCount": 577,
+        "rizHitCount": 165,
+        "challengeTimes": [
+          {
+            "start": 256,
+            "end": 324,
+            "theme": ["#a84d53ff", "#26aeedff", "#661514ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.100000381469727,
+        "charter": "Pat Brick Man Mr.N Lite",
+        "theme": ["#8a878fff", "#9e2f33ff", "#4f363aff"],
+        "hitCount": 1058,
+        "rizHitCount": 377,
+        "challengeTimes": [
+          {
+            "start": 256,
+            "end": 324,
+            "theme": ["#a84d53ff", "#26aeedff", "#661514ff"]
+          }
+        ]
+      }
+    },
+    "duration": 136.213333,
+    "BPM": 150,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Echooveryou.Apo11oprogram.0",
+    "chap": "Disc EX",
+    "name": "Echo over you...",
+    "composer": "Apo11o program",
+    "pst": 83.12300109863281,
+    "pet": 103.12300109863281,
+    "illustrator": "©2025 Rayark Inc. DEEMO II®",
+    "chart": {
+      "EZ": {
+        "diff": 1.5,
+        "charter": "Junesnow",
+        "theme": ["#beb3abff", "#b8d2e9ff", "#7e7773ff"],
+        "hitCount": 273,
+        "rizHitCount": 95,
+        "challengeTimes": [
+          {
+            "start": 136,
+            "end": 200,
+            "theme": ["#b3bfcbff", "#c48ea6ff", "#e4dbdeff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8,
+        "charter": "Junesnow",
+        "theme": ["#beb3abff", "#b8d2e9ff", "#7e7773ff"],
+        "hitCount": 541,
+        "rizHitCount": 184,
+        "challengeTimes": [
+          {
+            "start": 136,
+            "end": 200,
+            "theme": ["#b3bfcbff", "#c48ea6ff", "#e4dbdeff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 11.699999809265137,
+        "charter": "...you with NevER fading melodies.",
+        "theme": ["#beb3abff", "#b8d2e9ff", "#7e7773ff"],
+        "hitCount": 676,
+        "rizHitCount": 228,
+        "challengeTimes": [
+          {
+            "start": 136,
+            "end": 200,
+            "theme": ["#b3bfcbff", "#c48ea6ff", "#e4dbdeff"]
+          }
+        ]
+      }
+    },
+    "duration": 158.398844,
+    "BPM": 97,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "FairysCrown.Powerless.0",
+    "chap": "Disc EX",
+    "name": "Fairy's Crown",
+    "composer": "Powerless",
+    "pst": 16.25,
+    "pet": 36.25,
+    "illustrator": "©2025 Rayark Inc. DEEMO II®",
+    "chart": {
+      "EZ": {
+        "diff": 2,
+        "charter": "百九十八",
+        "theme": ["#e3e9e9ff", "#92a8a1ff", "#8b96a8ff"],
+        "hitCount": 386,
+        "rizHitCount": 44,
+        "challengeTimes": [
+          {
+            "start": 388,
+            "end": 439,
+            "theme": ["#656e94ff", "#ead4b8ff", "#96ddf3ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "百九十八",
+        "theme": ["#e3e9e9ff", "#92a8a1ff", "#8b96a8ff"],
+        "hitCount": 752,
+        "rizHitCount": 85,
+        "challengeTimes": [
+          {
+            "start": 388,
+            "end": 439,
+            "theme": ["#656e94ff", "#ead4b8ff", "#96ddf3ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.399999618530273,
+        "charter": "HaraKuma",
+        "theme": ["#e3e9e9ff", "#92a8a1ff", "#8b96a8ff"],
+        "hitCount": 1099,
+        "rizHitCount": 147,
+        "challengeTimes": [
+          {
+            "start": 388,
+            "end": 439,
+            "theme": ["#656e94ff", "#ead4b8ff", "#96ddf3ff"]
+          }
+        ]
+      }
+    },
+    "duration": 176.996485,
+    "BPM": 160,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "GravesAncientMemories.Juggernaut.0",
+    "chap": "Disc EX",
+    "name": "Graves -Ancient Memories-",
+    "composer": "Juggernaut.",
+    "pst": 94.21700286865234,
+    "pet": 114.21700286865234,
+    "illustrator": "©2025 Rayark Inc. DEEMO II®",
+    "chart": {
+      "EZ": {
+        "diff": 5,
+        "charter": "NerSAN",
+        "theme": ["#aeb19fff", "#a09092ff", "#4b4445ff"],
+        "hitCount": 385,
+        "rizHitCount": 163,
+        "challengeTimes": [
+          {
+            "start": 292,
+            "end": 420,
+            "theme": ["#e2d9d8ff", "#8c9974ff", "#a19292ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 9,
+        "charter": "NerSAN",
+        "theme": ["#aeb19fff", "#a09092ff", "#4b4445ff"],
+        "hitCount": 782,
+        "rizHitCount": 359,
+        "challengeTimes": [
+          {
+            "start": 292,
+            "end": 420,
+            "theme": ["#e2d9d8ff", "#8c9974ff", "#a19292ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.300000190734863,
+        "charter": "Reminiscence - Dim Megrez -",
+        "theme": ["#aeb19fff", "#a09092ff", "#4b4445ff"],
+        "hitCount": 1164,
+        "rizHitCount": 446,
+        "challengeTimes": [
+          {
+            "start": 292,
+            "end": 420,
+            "theme": ["#e2d9d8ff", "#8c9974ff", "#a19292ff"]
+          }
+        ]
+      }
+    },
+    "duration": 151.301791,
+    "BPM": 184,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Cloudsclearand.Qutabire.0",
+    "chap": "Disc EX",
+    "name": "Clouds clear and...",
+    "composer": "Qutabire",
+    "pst": 61.887001037597656,
+    "pet": 81.88700103759766,
+    "illustrator": "©2025 Rayark Inc. DEEMO II®",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "Junesnow",
+        "theme": ["#cacfd9ff", "#edddcbff", "#bfa38eff"],
+        "hitCount": 307,
+        "rizHitCount": 94,
+        "challengeTimes": [
+          {
+            "start": 387,
+            "end": 452,
+            "theme": ["#f6e7d7ff", "#b1b7c6ff", "#ada98bff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 6.5,
+        "charter": "Junesnow",
+        "theme": ["#cacfd9ff", "#edddcbff", "#bfa38eff"],
+        "hitCount": 590,
+        "rizHitCount": 156,
+        "challengeTimes": [
+          {
+            "start": 387,
+            "end": 452,
+            "theme": ["#f6e7d7ff", "#b1b7c6ff", "#ada98bff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.699999809265137,
+        "charter": "...and ShinE emerges",
+        "theme": ["#cacfd9ff", "#edddcbff", "#bfa38eff"],
+        "hitCount": 953,
+        "rizHitCount": 168,
+        "challengeTimes": [
+          {
+            "start": 387,
+            "end": 452,
+            "theme": ["#f6e7d7ff", "#b1b7c6ff", "#ada98bff"]
+          }
+        ]
+      }
+    },
+    "duration": 161.711224,
+    "BPM": 187,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "NLAMTA.Tsynphonia.0",
+    "chap": "Disc EX",
+    "name": "NLAMTA",
+    "composer": "Tsynphonia",
+    "pst": 100.81800079345703,
+    "pet": 120.81800079345703,
+    "illustrator": "©2025 Rayark Inc. DEEMO II®",
+    "chart": {
+      "EZ": {
+        "diff": 4,
+        "charter": "Junesnow",
+        "theme": ["#e4fbfbff", "#f3d77fff", "#fbb96aff"],
+        "hitCount": 546,
+        "rizHitCount": 143,
+        "challengeTimes": [
+          {
+            "start": 280,
+            "end": 344,
+            "theme": ["#f4f1ccff", "#f4b4cfff", "#a2d9efff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8,
+        "charter": "Junesnow",
+        "theme": ["#e4fbfbff", "#f3d77fff", "#fbb96aff"],
+        "hitCount": 845,
+        "rizHitCount": 119,
+        "challengeTimes": [
+          {
+            "start": 280,
+            "end": 344,
+            "theme": ["#f4f1ccff", "#f4b4cfff", "#a2d9efff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.899999618530273,
+        "charter": "百九十八",
+        "theme": ["#e4fbfbff", "#f3d77fff", "#fbb96aff"],
+        "hitCount": 1625,
+        "rizHitCount": 335,
+        "challengeTimes": [
+          {
+            "start": 280,
+            "end": 344,
+            "theme": ["#f4f1ccff", "#f4b4cfff", "#a2d9efff"]
+          }
+        ]
+      }
+    },
+    "duration": 183.742381,
+    "BPM": 165,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Antikythera.technoplanet.0",
+    "chap": "Disc EX",
+    "name": "Antikythera",
+    "composer": "technoplanet",
+    "pst": 17.545000076293945,
+    "pet": 37.54499816894531,
+    "illustrator": "©2025 Rayark Inc. DEEMO II®",
+    "chart": {
+      "EZ": {
+        "diff": 6,
+        "charter": "Junesnow",
+        "theme": ["#727181ff", "#ecccc8ff", "#9db8c6ff"],
+        "hitCount": 880,
+        "rizHitCount": 117,
+        "challengeTimes": [
+          {
+            "start": 464,
+            "end": 528,
+            "theme": ["#c0dceaff", "#748990ff", "#5ebfc3ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 10,
+        "charter": "Junesnow",
+        "theme": ["#727181ff", "#ecccc8ff", "#9db8c6ff"],
+        "hitCount": 1425,
+        "rizHitCount": 170,
+        "challengeTimes": [
+          {
+            "start": 464,
+            "end": 528,
+            "theme": ["#c0dceaff", "#748990ff", "#5ebfc3ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.699999809265137,
+        "charter": "- 神衛 -",
+        "theme": ["#727181ff", "#ecccc8ff", "#9db8c6ff"],
+        "hitCount": 2001,
+        "rizHitCount": 295,
+        "challengeTimes": [
+          {
+            "start": 464,
+            "end": 528,
+            "theme": ["#c0dceaff", "#748990ff", "#5ebfc3ff"]
+          }
+        ]
+      }
+    },
+    "duration": 170.176213,
+    "BPM": 220,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Idol.VizzenMonstDeath.0",
+    "chap": "Disc 2",
+    "name": "Idol",
+    "composer": "Vizzen & MonstDeath",
+    "pst": 22.447999954223633,
+    "pet": 42.448001861572266,
+    "illustrator": "美工刀",
+    "chart": {
+      "EZ": {
+        "diff": 2,
+        "charter": "HaraKuma",
+        "theme": ["#ffefcbff", "#ff9192ff", "#ffd181ff"],
+        "hitCount": 190,
+        "rizHitCount": 15,
+        "challengeTimes": [
+          {
+            "start": 195,
+            "end": 226,
+            "theme": ["#e5b8b1ff", "#84b5e3ff", "#fa7e87ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 5,
+        "charter": "HaraKuma",
+        "theme": ["#ffefcbff", "#ff9192ff", "#ffd181ff"],
+        "hitCount": 362,
+        "rizHitCount": 22,
+        "challengeTimes": [
+          {
+            "start": 195,
+            "end": 226,
+            "theme": ["#e5b8b1ff", "#84b5e3ff", "#fa7e87ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.100000381469727,
+        "charter": "南門贰_Official",
+        "theme": ["#ffefcbff", "#ff9192ff", "#ffd181ff"],
+        "hitCount": 799,
+        "rizHitCount": 109,
+        "challengeTimes": [
+          {
+            "start": 195,
+            "end": 226,
+            "theme": ["#e5b8b1ff", "#84b5e3ff", "#fa7e87ff"]
+          }
+        ]
+      }
+    },
+    "duration": 106.203039,
+    "BPM": 174,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "夢厭coneleganza.大前司.0",
+    "chap": "Disc EX",
+    "name": "夢厭 con eleganza",
+    "composer": "大前司",
+    "pst": 37.76900100708008,
+    "pet": 57.76900100708008,
+    "illustrator": "KeiuO as GAQLLA",
+    "chart": {
+      "EZ": {
+        "diff": 4,
+        "charter": "Megrez",
+        "theme": ["#8e91bbff", "#e81110ff", "#1704c3ff"],
+        "hitCount": 266,
+        "rizHitCount": 44,
+        "challengeTimes": [
+          {
+            "start": 283.25,
+            "end": 49262.654369,
+            "theme": ["#584acfff", "#ffe45fff", "#df5e0fff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7.5,
+        "charter": "Megrez",
+        "theme": ["#8e91bbff", "#e81110ff", "#1704c3ff"],
+        "hitCount": 597,
+        "rizHitCount": 108,
+        "challengeTimes": [
+          {
+            "start": 283.25,
+            "end": 49262.654369,
+            "theme": ["#584acfff", "#ffe45fff", "#df5e0fff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.199999809265137,
+        "charter": "Nightmare of Evil Rubbers",
+        "theme": ["#8e91bbff", "#e81110ff", "#1704c3ff"],
+        "hitCount": 1228,
+        "rizHitCount": 276,
+        "challengeTimes": [
+          {
+            "start": 283.25,
+            "end": 49262.66359225,
+            "theme": ["#584acfff", "#ffe45fff", "#df5e0fff"]
+          }
+        ]
+      }
+    },
+    "duration": 155.076916,
+    "BPM": 130,
+    "bpmShifts": [
+      { "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 },
+      {
+        "time": 284,
+        "value": 1.33333325,
+        "easeType": 0,
+        "floorPosition": 131.07692
+      }
+    ]
+  },
+  {
+    "id": "SpeedUp.DarTokki.0",
+    "chap": "Disc EX",
+    "name": "Speed Up!",
+    "composer": "DarTokki",
+    "pst": 56.930999755859375,
+    "pet": 76.93099975585938,
+    "illustrator": "TNiK",
+    "chart": {
+      "EZ": {
+        "diff": 4,
+        "charter": "Junesnow",
+        "theme": ["#5e6c77ff", "#d0745dff", "#9bb3cbff"],
+        "hitCount": 411,
+        "rizHitCount": 120,
+        "challengeTimes": [
+          {
+            "start": 140,
+            "end": 204,
+            "theme": ["#ffffffff", "#95cfd8ff", "#cbbbdfff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8,
+        "charter": "Junesnow",
+        "theme": ["#5e6c77ff", "#d0745dff", "#9bb3cbff"],
+        "hitCount": 534,
+        "rizHitCount": 148,
+        "challengeTimes": [
+          {
+            "start": 140,
+            "end": 204,
+            "theme": ["#ffffffff", "#95cfd8ff", "#cbbbdfff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.199999809265137,
+        "charter": "UMa-δ",
+        "theme": ["#5e6c77ff", "#d0745dff", "#9bb3cbff"],
+        "hitCount": 752,
+        "rizHitCount": 231,
+        "challengeTimes": [
+          {
+            "start": 140,
+            "end": 204,
+            "theme": ["#ffffffff", "#95cfd8ff", "#cbbbdfff"]
+          }
+        ]
+      }
+    },
+    "duration": 140.663741,
+    "BPM": 145,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "GREATGREAT.Zris.0",
+    "chap": "Disc EX",
+    "name": "GREAT GREAT",
+    "composer": "Zris",
+    "pst": 61.608001708984375,
+    "pet": 81.60800170898438,
+    "illustrator": "猫鼬烩饭",
+    "chart": {
+      "EZ": {
+        "diff": 4.5,
+        "charter": "NER NER",
+        "theme": ["#e9e6e7ff", "#67e6ffff", "#e57101ff"],
+        "hitCount": 414,
+        "rizHitCount": 42,
+        "challengeTimes": [
+          {
+            "start": 168,
+            "end": 200,
+            "theme": ["#6b6b6bff", "#e0a70cff", "#3aaeffff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8,
+        "charter": "NER NER",
+        "theme": ["#e9e6e7ff", "#67e6ffff", "#e57101ff"],
+        "hitCount": 613,
+        "rizHitCount": 68,
+        "challengeTimes": [
+          {
+            "start": 168,
+            "end": 200,
+            "theme": ["#6b6b6bff", "#e0a70cff", "#3aaeffff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.199999809265137,
+        "charter": "SHINE SHINE",
+        "theme": ["#e9e6e7ff", "#67e6ffff", "#e57101ff"],
+        "hitCount": 1165,
+        "rizHitCount": 116,
+        "challengeTimes": [
+          {
+            "start": 168,
+            "end": 200,
+            "theme": ["#6b6b6bff", "#e0a70cff", "#3aaeffff"]
+          }
+        ]
+      }
+    },
+    "duration": 131.169683,
+    "BPM": 161,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "天地開闢.kuro.0",
+    "chap": "Disc EX",
+    "name": "天地開闢",
+    "composer": "kuro",
+    "pst": 50.89099884033203,
+    "pet": 70.89099884033203,
+    "illustrator": "CeliA feat. M.y.H.F.",
+    "chart": {
+      "EZ": {
+        "diff": 3,
+        "charter": "南門贰",
+        "theme": ["#a3aabaff", "#ad6b77ff", "#3d424aff"],
+        "hitCount": 448,
+        "rizHitCount": 60,
+        "challengeTimes": [
+          {
+            "start": 380,
+            "end": 448,
+            "theme": ["#ffffffff", "#93acc3ff", "#963749ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7.5,
+        "charter": "南門贰",
+        "theme": ["#a3aabaff", "#ad6b77ff", "#3d424aff"],
+        "hitCount": 941,
+        "rizHitCount": 162,
+        "challengeTimes": [
+          {
+            "start": 380,
+            "end": 448,
+            "theme": ["#ffffffff", "#93acc3ff", "#963749ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.699999809265137,
+        "charter": "盘古",
+        "theme": ["#a3aabaff", "#ad6b77ff", "#3d424aff"],
+        "hitCount": 1039,
+        "rizHitCount": 159,
+        "challengeTimes": [
+          {
+            "start": 380,
+            "end": 448,
+            "theme": ["#ffffffff", "#93acc3ff", "#963749ff"]
+          }
+        ]
+      }
+    },
+    "duration": 158.270272,
+    "BPM": 185,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "水槽に沈む街.kuro.0",
+    "chap": "Disc EX",
+    "name": "水槽に沈む街",
+    "composer": "kuro",
+    "pst": 37.75,
+    "pet": 57.75,
+    "illustrator": "Ezoitachi",
+    "chart": {
+      "EZ": {
+        "diff": 2.5,
+        "charter": "Junesnow",
+        "theme": ["#457285ff", "#10ffffff", "#00d7adff"],
+        "hitCount": 397,
+        "rizHitCount": 77,
+        "challengeTimes": [
+          {
+            "start": 324,
+            "end": 388,
+            "theme": ["#abe0f5ff", "#fc779bff", "#0088feff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 8,
+        "charter": "Junesnow",
+        "theme": ["#457285ff", "#10ffffff", "#00d7adff"],
+        "hitCount": 523,
+        "rizHitCount": 127,
+        "challengeTimes": [
+          {
+            "start": 324,
+            "end": 388,
+            "theme": ["#abe0f5ff", "#fc779bff", "#0088feff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13,
+        "charter": "ShinE",
+        "theme": ["#457285ff", "#10ffffff", "#00d7adff"],
+        "hitCount": 967,
+        "rizHitCount": 217,
+        "challengeTimes": [
+          {
+            "start": 324,
+            "end": 388,
+            "theme": ["#abe0f5ff", "#fc779bff", "#0088feff"]
+          }
+        ]
+      }
+    },
+    "duration": 134.687506,
+    "BPM": 192,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "Inevitability.kuro.0",
+    "chap": "Disc EX",
+    "name": "Inevitability",
+    "composer": "kuro",
+    "pst": 109.06099700927734,
+    "pet": 129.06100463867188,
+    "illustrator": "子狼",
+    "chart": {
+      "EZ": {
+        "diff": 5,
+        "charter": "百九十八",
+        "theme": ["#f0e8e1ff", "#6fc577ff", "#f28331ff"],
+        "hitCount": 508,
+        "rizHitCount": 129,
+        "challengeTimes": [
+          {
+            "start": 287,
+            "end": 356,
+            "theme": ["#ffe59eff", "#f28331ff", "#5ce7c9ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 9.5,
+        "charter": "百九十八",
+        "theme": ["#f0e8e1ff", "#6fc577ff", "#f28331ff"],
+        "hitCount": 923,
+        "rizHitCount": 168,
+        "challengeTimes": [
+          {
+            "start": 287,
+            "end": 356,
+            "theme": ["#ffe59eff", "#f28331ff", "#5ce7c9ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.600000381469727,
+        "charter": "SPΔDE",
+        "theme": ["#f0e8e1ff", "#6fc577ff", "#f28331ff"],
+        "hitCount": 1941,
+        "rizHitCount": 346,
+        "challengeTimes": [
+          {
+            "start": 287,
+            "end": 356,
+            "theme": ["#ffe59eff", "#f28331ff", "#5ce7c9ff"]
+          }
+        ]
+      }
+    },
+    "duration": 154.394898,
+    "BPM": 157,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "FadeAway.DeBisco.0",
+    "chap": "Disc 2",
+    "name": "Fade Away",
+    "composer": "DeBisco",
+    "pst": 62.6349983215332,
+    "pet": 82.63500213623047,
+    "illustrator": "鲸弑",
+    "chart": {
+      "EZ": {
+        "diff": 1.5,
+        "charter": "Su1fuR",
+        "theme": ["#878fa2ff", "#fa35fdff", "#d8e945ff"],
+        "hitCount": 212,
+        "rizHitCount": 56,
+        "challengeTimes": [
+          {
+            "start": 139,
+            "end": 204,
+            "theme": ["#7c4789ff", "#d8e945ff", "#fa35fdff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 5,
+        "charter": "Su1fuR",
+        "theme": ["#878fa2ff", "#fa35fdff", "#d8e945ff"],
+        "hitCount": 319,
+        "rizHitCount": 134,
+        "challengeTimes": [
+          {
+            "start": 139,
+            "end": 204,
+            "theme": ["#7c4789ff", "#d8e945ff", "#fa35fdff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 10.5,
+        "charter": "百九十八",
+        "theme": ["#878fa2ff", "#fa35fdff", "#d8e945ff"],
+        "hitCount": 693,
+        "rizHitCount": 251,
+        "challengeTimes": [
+          {
+            "start": 139,
+            "end": 204,
+            "theme": ["#7c4789ff", "#d8e945ff", "#fa35fdff"]
+          }
+        ]
+      }
+    },
+    "duration": 127.272721,
+    "BPM": 132,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "8BLUE.ariiolPIKASONIC.0",
+    "chap": "Disc EX",
+    "name": "8BLUE",
+    "composer": "ariiol & PIKASONIC",
+    "pst": 81.90899658203125,
+    "pet": 101.90899658203125,
+    "illustrator": "ろんxかとろふ",
+    "chart": {
+      "EZ": {
+        "diff": 2,
+        "charter": "百九十8",
+        "theme": ["#f8f7fdff", "#aadde5ff", "#47a5ffff"],
+        "hitCount": 227,
+        "rizHitCount": 41,
+        "challengeTimes": [
+          {
+            "start": 152,
+            "end": 184,
+            "theme": ["#a3ccf6ff", "#f68e58ff", "#fdec5bff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7,
+        "charter": "百九十8",
+        "theme": ["#f8f7fdff", "#aadde5ff", "#47a5ffff"],
+        "hitCount": 545,
+        "rizHitCount": 81,
+        "challengeTimes": [
+          {
+            "start": 152,
+            "end": 184,
+            "theme": ["#a3ccf6ff", "#f68e58ff", "#fdec5bff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.199999809265137,
+        "charter": "Junesnow",
+        "theme": ["#f8f7fdff", "#aadde5ff", "#47a5ffff"],
+        "hitCount": 624,
+        "rizHitCount": 106,
+        "challengeTimes": [
+          {
+            "start": 152,
+            "end": 184,
+            "theme": ["#a3ccf6ff", "#f68e58ff", "#fdec5bff"]
+          }
+        ]
+      }
+    },
+    "duration": 137.454535,
+    "BPM": 110,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "VaelumirsCall.EmissärwûlElverhøjjFahrRaphiielSylphix.0",
+    "chap": "Disc EX",
+    "name": "Vaelumir's Call",
+    "composer": "Emissär wûl Elverhøjj (Fahr, Raphiiel, Sylphix)",
+    "pst": 52.4900016784668,
+    "pet": 72.48999786376953,
+    "illustrator": "BlUhOl",
+    "chart": {
+      "EZ": {
+        "diff": 3.5,
+        "charter": "Pcat",
+        "theme": ["#99c2e0ff", "#7e7d94ff", "#5375e4ff"],
+        "hitCount": 475,
+        "rizHitCount": 127,
+        "challengeTimes": [
+          {
+            "start": 429,
+            "end": 513,
+            "theme": ["#586eb3ff", "#deb560ff", "#60a649ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7.5,
+        "charter": "Pcat",
+        "theme": ["#99c2e0ff", "#7e7d94ff", "#5375e4ff"],
+        "hitCount": 642,
+        "rizHitCount": 161,
+        "challengeTimes": [
+          {
+            "start": 429,
+            "end": 513,
+            "theme": ["#586eb3ff", "#deb560ff", "#60a649ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 12.600000381469727,
+        "charter": "HaraKuma",
+        "theme": ["#99c2e0ff", "#7e7d94ff", "#5375e4ff"],
+        "hitCount": 953,
+        "rizHitCount": 218,
+        "challengeTimes": [
+          {
+            "start": 429,
+            "end": 513,
+            "theme": ["#586eb3ff", "#deb560ff", "#60a649ff"]
+          }
+        ]
+      }
+    },
+    "duration": 157.075465,
+    "BPM": 212,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "GreatnessEarth.Axya.0",
+    "chap": "Disc EX",
+    "name": "Greatness Earth",
+    "composer": "Axya",
+    "pst": 88.14199829101562,
+    "pet": 108.14199829101562,
+    "illustrator": "鲸弑",
+    "chart": {
+      "EZ": {
+        "diff": 4.5,
+        "charter": "NerSAN",
+        "theme": ["#d4f0cfff", "#e18224ff", "#6da364ff"],
+        "hitCount": 479,
+        "rizHitCount": 112,
+        "challengeTimes": [
+          {
+            "start": 260,
+            "end": 324,
+            "theme": ["#a7d673ff", "#f9e096ff", "#784b23ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 7.5,
+        "charter": "NerSAN",
+        "theme": ["#d4f0cfff", "#e18224ff", "#6da364ff"],
+        "hitCount": 675,
+        "rizHitCount": 149,
+        "challengeTimes": [
+          {
+            "start": 260,
+            "end": 324,
+            "theme": ["#a7d673ff", "#f9e096ff", "#784b23ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.300000190734863,
+        "charter": "百九十八",
+        "theme": ["#d4f0cfff", "#e18224ff", "#6da364ff"],
+        "hitCount": 1143,
+        "rizHitCount": 210,
+        "challengeTimes": [
+          {
+            "start": 260,
+            "end": 324,
+            "theme": ["#a7d673ff", "#f9e096ff", "#784b23ff"]
+          }
+        ]
+      }
+    },
+    "duration": 142.628571,
+    "BPM": 175,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "LAIGN.KiufeatNikkiSimons.0",
+    "chap": "Disc EX",
+    "name": "LAIGN",
+    "composer": "Kiu feat. Nikki Simmons",
+    "pst": 68,
+    "pet": 88,
+    "illustrator": "神居冰绘",
+    "chart": {
+      "EZ": {
+        "diff": 5.5,
+        "charter": "天体演算程序 <Ver. 31>",
+        "theme": ["#81639aff", "#ff6289ff", "#fba0b1ff"],
+        "hitCount": 578,
+        "rizHitCount": 115,
+        "challengeTimes": [
+          {
+            "start": 389,
+            "end": 450,
+            "theme": ["#ecc8d0ff", "#4fb4ceff", "#a35b6eff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 10,
+        "charter": "质子对撞设备 <Code: Xollider>",
+        "theme": ["#81639aff", "#ff6289ff", "#fba0b1ff"],
+        "hitCount": 835,
+        "rizHitCount": 171,
+        "challengeTimes": [
+          {
+            "start": 389,
+            "end": 450,
+            "theme": ["#ecc8d0ff", "#4fb4ceff", "#a35b6eff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.699999809265137,
+        "charter": "光速驱动装置 <Type - D>",
+        "theme": ["#81639aff", "#ff6289ff", "#fba0b1ff"],
+        "hitCount": 1303,
+        "rizHitCount": 255,
+        "challengeTimes": [
+          {
+            "start": 389,
+            "end": 450,
+            "theme": ["#ecc8d0ff", "#4fb4ceff", "#a35b6eff"]
+          }
+        ]
+      }
+    },
+    "duration": 142.8,
+    "BPM": 200,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "溶けてゆく.A39.0",
+    "chap": "Disc EX",
+    "name": "溶けてゆく",
+    "composer": "A-39",
+    "pst": 45.62799835205078,
+    "pet": 65.62799835205078,
+    "illustrator": "椒",
+    "chart": {
+      "EZ": {
+        "diff": 2,
+        "charter": "Snowy UMa",
+        "theme": ["#f0f5faff", "#fcdfbfff", "#75d5dbff"],
+        "hitCount": 208,
+        "rizHitCount": 75,
+        "challengeTimes": [
+          {
+            "start": 360,
+            "end": 452,
+            "theme": ["#cde8eaff", "#b5aadcff", "#458fadff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 6,
+        "charter": "Snowy UMa",
+        "theme": ["#f0f5faff", "#fcdfbfff", "#75d5dbff"],
+        "hitCount": 337,
+        "rizHitCount": 107,
+        "challengeTimes": [
+          {
+            "start": 360,
+            "end": 452,
+            "theme": ["#cde8eaff", "#b5aadcff", "#458fadff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13,
+        "charter": "\"Never Embrace those Runaways.\"",
+        "theme": ["#f0f5faff", "#fcdfbfff", "#75d5dbff"],
+        "hitCount": 1172,
+        "rizHitCount": 371,
+        "challengeTimes": [
+          {
+            "start": 1056,
+            "end": 1148,
+            "theme": ["#cde8eaff", "#b5aadcff", "#458fadff"]
+          }
+        ]
+      }
+    },
+    "duration": 163.203583,
+    "BPM": 175,
+    "bpmShifts": [
+      { "time": 4, "value": 1, "easeType": 0, "floorPosition": 1.37142861 }
+    ]
+  },
+  {
+    "id": "Hyperwave.LOFTIER.0",
+    "chap": "Disc 2",
+    "name": "Hyperwave",
+    "composer": "LOFTIER",
+    "pst": 84.5,
+    "pet": 104.5,
+    "illustrator": "鲸弑",
+    "chart": {
+      "EZ": {
+        "diff": 4.5,
+        "charter": "百九十八",
+        "theme": ["#5b6370ff", "#fe585cff", "#63c6d3ff"],
+        "hitCount": 298,
+        "rizHitCount": 83,
+        "challengeTimes": [
+          {
+            "start": 227,
+            "end": 292,
+            "theme": ["#995b3dff", "#fed133ff", "#fe703eff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 9,
+        "charter": "百九十八",
+        "theme": ["#5b6370ff", "#fe585cff", "#63c6d3ff"],
+        "hitCount": 505,
+        "rizHitCount": 132,
+        "challengeTimes": [
+          {
+            "start": 227,
+            "end": 292,
+            "theme": ["#995b3dff", "#fed133ff", "#fe703eff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 13.100000381469727,
+        "charter": "晨",
+        "theme": ["#5b6370ff", "#fe585cff", "#63c6d3ff"],
+        "hitCount": 804,
+        "rizHitCount": 263,
+        "challengeTimes": [
+          {
+            "start": 227,
+            "end": 292,
+            "theme": ["#995b3dff", "#fed133ff", "#fe703eff"]
+          }
+        ]
+      }
+    },
+    "duration": 120.703129,
+    "BPM": 160,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  },
+  {
+    "id": "森奥虚跡.ShiBa.0",
+    "chap": "Disc EX",
+    "name": "森奥虚跡",
+    "composer": "ShiBa",
+    "pst": 107.75,
+    "pet": 127.75,
+    "illustrator": "Rutumn",
+    "chart": {
+      "EZ": {
+        "diff": 5,
+        "charter": "≀≀深山≀老林≀≀",
+        "theme": ["#9ac1b1ff", "#50d968ff", "#28725dff"],
+        "hitCount": 481,
+        "rizHitCount": 124,
+        "challengeTimes": [
+          {
+            "start": 232,
+            "end": 296,
+            "theme": ["#d0e6abff", "#80d3cdff", "#b98f81ff"]
+          }
+        ]
+      },
+      "HD": {
+        "diff": 9.5,
+        "charter": "≀≀深山≀老林≀≀",
+        "theme": ["#9ac1b1ff", "#50d968ff", "#28725dff"],
+        "hitCount": 822,
+        "rizHitCount": 187,
+        "challengeTimes": [
+          {
+            "start": 232,
+            "end": 296,
+            "theme": ["#d0e6abff", "#80d3cdff", "#b98f81ff"]
+          }
+        ]
+      },
+      "IN": {
+        "diff": 14.199999809265137,
+        "charter": "≀≀百九≀十八≀≀",
+        "theme": ["#9ac1b1ff", "#50d968ff", "#28725dff"],
+        "hitCount": 1109,
+        "rizHitCount": 314,
+        "challengeTimes": [
+          {
+            "start": 232,
+            "end": 296,
+            "theme": ["#d0e6abff", "#80d3cdff", "#b98f81ff"]
+          }
+        ]
+      }
+    },
+    "duration": 165,
+    "BPM": 128,
+    "bpmShifts": [{ "time": 0, "value": 1, "easeType": 0, "floorPosition": 0 }]
+  }
+]

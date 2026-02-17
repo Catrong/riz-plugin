@@ -1,0 +1,193 @@
+
+import YAML from 'yaml'
+import chokidar from 'chokidar'
+import fs from 'node:fs'
+import YamlReader from './YamlReader.js'
+
+const Path = process.cwd()
+const Plugin_Name = 'riz-plugin'
+const Plugin_Path = `${Path}/plugins/${Plugin_Name}`
+class Config {
+    constructor() {
+        this.config = {}
+
+        /** 监听文件 */
+        this.watcher = { config: {}, defSet: {} }
+
+        this.initCfg()
+    }
+
+    /** 初始化配置 */
+    initCfg() {
+        let path = `${Plugin_Path}/config/config/`
+        let pathDef = `${Plugin_Path}/config/default_config/`
+        const files = fs.readdirSync(pathDef).filter(file => file.endsWith('.yaml'))
+        for (let file of files) {
+            if (!fs.existsSync(`${path}${file}`)) {
+                fs.copyFileSync(`${pathDef}${file}`, `${path}${file}`)
+            }
+            this.watch(`${path}${file}`, file.replace('.yaml', ''), 'config')
+        }
+    }
+
+    /** 群配置 */
+    getGroup(groupId = '') {
+        let config = this.getConfig('whole')
+        let group = this.getConfig('group')
+        let defCfg = this.getdefSet('whole')
+
+        if (group[groupId]) {
+            return { ...defCfg, ...config, ...group[groupId] }
+        }
+        return { ...defCfg, ...config }
+    }
+
+    /**
+     * @overload
+     * @param {'config'} name 文件名
+     * @param {configName} style key值
+     * @returns {any} 配置值
+     */
+    /**
+     * @overload
+     * @param {'nickconfig'} name 文件名
+     * @param {string} mic 别名
+     * @returns {idString[]} 原曲id
+     */
+    /**
+     * @overload
+     * @param {'nickconfig'} name 文件名
+     * @returns {Record<string, idString[]>} <别名: 原曲id[]>
+     */
+    /**
+     * @overload
+     * @param {'otherinfo'} name 文件名
+     * @returns {any} 其他信息
+     */
+    /** 
+     * @param {'config'|'nickconfig'|'otherinfo'} name 文件名
+     * @param {any} [style] key值
+     * @description 默认配置和用户配置
+    */
+    getUserCfg(name, style = undefined) {
+        let def = this.getdefSet(name)
+        let config = this.getConfig(name)
+        if (name == 'otherinfo' && config) {
+            for (let i in config) {
+                config[i].sp_vis = true;
+            }
+        }
+        if (style) {
+            if (typeof config[style] != 'undefined') {
+                return config[style]
+            } else {
+                /**对设置进行补全 */
+                if (name == 'config') {
+                    this.modify(name, style, def[style])
+                }
+                return def[style]
+            }
+        }
+        else
+            return (config ? config : def)
+    }
+
+    /** 默认配置 */
+    getdefSet(name) {
+        return this.getYaml('default_config', name)
+    }
+
+    /** 用户配置 */
+    getConfig(name) {
+        return this.getYaml('config', name)
+    }
+
+    /**
+     * 获取配置yaml
+     * @param type 默认配置-defSet，用户配置-config
+     * @param name 名称
+     */
+    getYaml(type, name) {
+        let file = `${Plugin_Path}/config/${type}/${name}.yaml`
+        let key = `${type}.${name}`
+
+        if (this.config[key]) return this.config[key]
+
+        this.config[key] = YAML.parse(
+            fs.readFileSync(file, 'utf8')
+        )
+
+        this.watch(file, name, type)
+
+        return this.config[key]
+    }
+
+    /** 监听配置文件 */
+    watch(file, name, type = 'default_config') {
+        let key = `${type}.${name}`
+
+        if (this.watcher[key]) return
+
+        const watcher = chokidar.watch(file)
+        watcher.on('change', path => {
+            delete this.config[key]
+            if (typeof Bot == 'undefined') return
+            logger.mark(`[riz修改配置文件][${type}][${name}]`)
+            if (this[`change_${name}`]) {
+                this[`change_${name}`]()
+            }
+        })
+
+        this.watcher[key] = watcher
+    }
+
+    /**
+     * @overload
+     * @param {'config'} name 文件名
+     * @param {configName} key 修改的key值
+     * @param {String|Number|boolean} value 修改的value值
+     * @param {'config'|'default_config'} [type] 配置文件或默认，默认为配置
+     * @returns {void}
+     */
+    /**
+     * @overload
+     * @param {'nickconfig'} name 文件名
+     * @param {any} key 别名
+     * @param {String|Number|any[]} value 修改的value值
+     * @param {'config'|'default_config'} [type] 配置文件或默认，默认为配置
+     * @returns {void}
+     */
+    /**
+     * @description: 修改设置
+     * @param {'config'|'nickconfig'} name 文件名
+     * @param {any} key 修改的key值
+     * @param {String|Number|boolean|any[]} value 修改的value值
+     * @param {'config'|'default_config'} [type] 配置文件或默认
+     */
+    modify(name, key, value, type = 'config') {
+        let path = `${Plugin_Path}/config/${type}/${name}.yaml`
+        new YamlReader(path).set(key, value)
+        delete this.config[`${type}.${name}`]
+    }
+
+    /**
+     * @description: 修改配置数组
+     * @param {'config'|'nickconfig'} name 文件名
+     * @param {String|Number} key key值
+     * @param {String|Number} value value
+     * @param {'add'|'del'} category 类别 add or del
+     * @param {'config'|'default_config'} type 配置文件或默认
+     */
+    modifyarr(name, key, value, category = 'add', type = 'config') {
+        let path = `${Plugin_Path}/config/${type}/${name}.yaml`
+        let yaml = new YamlReader(path)
+        if (category == 'add') {
+            yaml.addIn(key, value)
+        } else {
+            let index = yaml.jsonData[key].indexOf(value)
+            yaml.delete(`${key}.${index}`)
+        }
+    }
+}
+
+export default new Config()

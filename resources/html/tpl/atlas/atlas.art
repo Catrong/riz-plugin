@@ -1,0 +1,143 @@
+{{extend defaultLayout}}
+
+{{block 'css'}}
+<link rel="stylesheet" href="{{_res_path}}html/tpl/atlas/atlas.css">
+{{/block}}
+
+{{block 'main'}}
+  <div class="main-box">
+    <div class="ill-box">
+      <div class="ill">
+        <img
+          src="{{illustration}}"
+          alt="ill"
+        />
+      </div>
+    </div>
+    <div class="song-info">
+      <div class="name">
+        <p name="pvis">{{name}}</p>
+      </div>
+      <div class="row">
+        <p>{{composer}}</p>
+      </div>
+      <div class="row">
+        <div class="chap">
+          <p>{{chap}}</p>
+        </div>
+        <p>BPM: {{BPM}}</p>
+        <p>{{durationStr}}</p>
+      </div>
+      <div class="row">
+        <p name="pvis">画师: {{illustrator}}</p>
+      </div>
+    </div>
+    <div class="chart-info">
+      {{each chart item}}
+      <div
+        class="dif-box dif-{{item.level}}"
+        style="
+          --theme-bg-color: {{item.theme[0]}};
+          --theme-note-color: {{item.theme[1]}};
+          --theme-health-color: {{item.theme[2]}};
+        "
+      >
+        <div class="difficulty">
+          <p>{{item.level}}</p>
+          <p>{{item.diff.toFixed(1)}}</p>
+        </div>
+        <div class="charter">
+          <p>charter: {{item.charter}}</p>
+        </div>
+        <div class="rows">
+          <div class="hit-row">
+            <div class="hit-box">
+              <div class="hit text-stroke-div">
+                <p>Hit</p>
+                <p>Hit</p>
+              </div>
+              <div class="hit-num">
+                <p>{{item.hitCount}}</p>
+              </div>
+            </div>
+            <div class="hit-box">
+              <div class="hit text-stroke-div">
+                <p>Combo</p>
+                <p>Combo</p>
+              </div>
+              <div class="hit-num">
+                <p>{{item.combo}}</p>
+              </div>
+            </div>
+            <div class="score-box">
+              <div class="score text-stroke-div">
+                <p>Score</p>
+                <p>Score</p>
+              </div>
+              <div class="score-num">
+                <p>{{item.score}}</p>
+                <p>{{item.score}}</p>
+              </div>
+            </div>
+          </div>
+          <div class="perfect-row">
+            <div class="hit-box">
+              <div class="hit text-stroke-div">
+                <p>Perfect Hit</p>
+                <p>Perfect Hit</p>
+              </div>
+              <div class="hit-num">
+                <p>{{item.rizHitCount}}</p>
+              </div>
+            </div>
+            <div class="score-box">
+              <div class="score text-stroke-div">
+                <p>Max RKS</p>
+                <p>Max RKS</p>
+              </div>
+              <div class="score-num">
+                <p>{{item.maxRKS.toFixed(2)}}</p>
+                <p>{{item.maxRKS.toFixed(2)}}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="rizTime-box">
+          <div class="timeBar-box">
+            <div class="timeBar baseBar">
+              <div class="timeBar-outer"></div>
+              <div class="timeBar-inner"></div>
+              <div class="timeBar-front"></div>
+            </div>
+            {{each item.challengeTimes times}}
+            <div
+              class="timeBar"
+              style="
+                --theme-bg-color: {{times.theme[0]}};
+                --theme-note-color: {{times.theme[1]}};
+                --theme-health-color: {{times.theme[2]}};
+                left: {{times.start}}%;
+                width: {{times.length}}%;
+              "
+            >
+              <div class="timeBar-outer"></div>
+              <div class="timeBar-inner"></div>
+              <div class="timeBar-front"></div>
+            </div>
+            {{/each}}
+          </div>
+        </div>
+      </div>
+      {{/each}}
+    </div>
+  </div>
+  <div class="createdbox">
+    <div class="riz-plugin">
+      <p>{{_plugin}}</p>
+    </div>
+    <div class="ver">
+      <p>{{Version.ver}}</p>
+    </div>
+  </div>
+
+{{/block}}

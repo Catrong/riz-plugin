@@ -1,0 +1,36 @@
+#  ************ 【渲染设置】 *************
+#  渲染精细度，可选值50~200，建议100。设置高精度会提高图片的精细度，但因图片较大可能会影响渲染与发送速度
+renderScale: 100
+
+#  渲染质量 可选值50~100
+randerQuality: 100
+
+#  渲染超时时间 ms
+timeout: 20000
+
+#  等待渲染超时时间 ms
+waitingTimeout: 10000
+
+#  并行渲染数量
+renderNum: 1
+
+#  ************ 【系统设置】 *************
+
+#  在线曲绘地址
+onLinerizIllUrl: "https://gh-proxy.com/https://raw.githubusercontent.com/Catrong/riz-plugin-ill/main"
+
+#  下载曲绘地址
+downIllUrl: "https://gh-proxy.com/https://github.com/Catrong/riz-plugin-ill.git"
+
+#  是否在更新插件时自动拉取最新曲绘
+autoPullrizIll: false
+
+#  命令头
+cmdhead: "r"
+
+#  多个曲目回复序号等待时长(s)
+mutiNickWaitTimeOut: 10
+
+#  ************ 【娱乐设置】 *************
+#  是否启用额外曲库 0:原本 1:原本+额外 2:仅额外
+otherinfo: 0

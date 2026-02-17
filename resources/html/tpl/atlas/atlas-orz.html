@@ -1,0 +1,197 @@
+<head>
+  <link rel="stylesheet" href="./atlas.css" />
+</head>
+
+<body>
+  <div class="main-box">
+    <div class="ill-box">
+      <div class="ill">
+        <img
+          src="../../../original_ill/illustration/illustration.PastelLines.RekuMochizuki.0.png"
+          alt="ill"
+        />
+      </div>
+    </div>
+    <div class="song-info">
+      <div class="name">
+        <p>Pastel Lines</p>
+      </div>
+      <div class="row">
+        <p>Reku Mochizuki</p>
+      </div>
+      <div class="row">
+        <div class="chap">
+          <p>Disc 1</p>
+        </div>
+        <p>BPM: 150</p>
+        <p>1:50</p>
+      </div>
+      <div class="row">
+        <p>画师: 山山奇</p>
+      </div>
+    </div>
+    <div class="chart-info">
+      <div class="dif-box dif-EZ">
+        <div class="difficulty">
+          <p>EZ</p>
+          <p>0.0</p>
+        </div>
+        <div class="charter">
+          <p>charter: NerSAN</p>
+        </div>
+      </div>
+      <div class="dif-box dif-HD">
+        <div class="difficulty">
+          <p>HD</p>
+          <p>00.0</p>
+        </div>
+        <div class="charter">
+          <p>charter: Barbarianerman</p>
+        </div>
+      </div>
+      <div
+        class="dif-box dif-IN"
+        style="
+          --theme-bg-color: #ffffffff;
+          --theme-note-color: #b9e5ffff;
+          --theme-health-color: #73a2e1ff;
+        "
+      >
+        <div class="difficulty">
+          <p>IN</p>
+          <p>11.4</p>
+        </div>
+        <div class="charter">
+          <p>charter: 百九十八</p>
+        </div>
+        <div class="rows">
+          <div class="hit-row">
+            <div class="hit-box">
+              <div class="hit text-stroke-div">
+                <p>Hit</p>
+                <p>Hit</p>
+              </div>
+              <div class="hit-num">
+                <p>537</p>
+              </div>
+            </div>
+            <div class="hit-box">
+              <div class="hit text-stroke-div">
+                <p>Combo</p>
+                <p>Combo</p>
+              </div>
+              <div class="hit-num">
+                <p>2124</p>
+              </div>
+            </div>
+            <div class="score-box">
+              <div class="score text-stroke-div">
+                <p>Score</p>
+                <p>Score</p>
+              </div>
+              <div class="score-num">
+                <p>1016300</p>
+                <p>1016300</p>
+              </div>
+            </div>
+          </div>
+          <div class="perfect-row">
+            <div class="hit-box">
+              <div class="hit text-stroke-div">
+                <p>Perfect Hit</p>
+                <p>Perfect Hit</p>
+              </div>
+              <div class="hit-num">
+                <p>163</p>
+              </div>
+            </div>
+            <div class="score-box">
+              <div class="score text-stroke-div">
+                <p>Max RKS</p>
+                <p>Max RKS</p>
+              </div>
+              <div class="score-num">
+                <p>000.00</p>
+                <p>000.00</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="rizTime-box">
+          <div class="timeBar-box">
+            <div class="timeBar baseBar">
+              <div class="timeBar-outer"></div>
+              <div class="timeBar-inner"></div>
+              <div class="timeBar-front"></div>
+            </div>
+            <div
+              class="timeBar"
+              style="
+                --theme-bg-color: #d4edfeff;
+                --theme-note-color: #73a2e1ff;
+                --theme-health-color: #8e88cbff;
+                left: 47.47%;
+                width: 23.19%;
+              "
+            >
+              <div class="timeBar-outer"></div>
+              <div class="timeBar-inner"></div>
+              <div class="timeBar-front"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="createdbox">
+    <div class="riz-plugin">
+      <p>{{_plugin}}</p>
+    </div>
+    <div class="ver">
+      <p>{{Version.ver}}</p>
+    </div>
+  </div>
+
+  <!-- 曲目名称自适应name-box的宽度 -->
+  <script>
+    function adjustFontSize() {
+      //获取p元素
+      var a = document.getElementsByName("pvis")
+      for (var i = 0; i < a.length; ++i) {
+        const songName = a[i]
+
+        if (!songName) continue
+
+        /*调整曲目名称字体大小*/
+        var parentElement = songName.parentElement
+
+        // var maxFontSize = 100 //设置最大字体大小
+
+        // //如果字体宽度小于父元素宽度，则增大字体大小
+        // while (songName.scrollWidth < parentElement.offsetWidth && songName.scrollHeight < parentElement.offsetHeight) {
+        //     var style = window.getComputedStyle(songName, null).getPropertyValue('font-size')
+        //     var fontSize = parseFloat(style)
+
+        //     //检查是否已经达到最大字体大小
+        //     if (fontSize >= maxFontSize) {
+        //         break
+        //     }
+
+        //     songName.style.fontSize = (fontSize + 1) + "px"
+        // }
+
+        // 如果字体宽度大于父元素宽度，则减小字体大小
+        while (
+          songName.scrollWidth > parentElement.offsetWidth ||
+          songName.scrollHeight > parentElement.offsetHeight
+        ) {
+          var style = window.getComputedStyle(songName, null).getPropertyValue("font-size")
+          var fontSize = parseFloat(style)
+          songName.style.fontSize = fontSize - 1 + "px"
+        }
+      }
+    }
+    window.onload = adjustFontSize
+    window.onresize = adjustFontSize
+  </script>
+</body>
