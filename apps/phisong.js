@@ -92,8 +92,8 @@ async function songInfo(id, e) {
         const totTick = infoData.duration / 60 * infoData.BPM
         item.challengeTimes.forEach(time => {
             challengeTimes.push({
-                start: time.start / totTick * 100,
-                length: (time.end - time.start) / totTick * 100,
+                start: time.start / infoData.duration * 100,
+                length: (time.end - time.start) / infoData.duration * 100,
                 theme: time.theme
             })
         })

@@ -12,6 +12,7 @@
 
 /**
  * 渲染设置
+ * @typedef {'onLinerizIllUrl'} onLinerizIllUrl 在线曲绘来源
  * @typedef {'downIllUrl'} downIllUrl 下载曲绘来源
  * @typedef {'renderScale'} renderScale 渲染精度
  * @typedef {'randerQuality'} randerQuality 渲染质量
@@ -24,7 +25,8 @@
  * @typedef {'cmdhead'} cmdhead 命令头
  * @typedef {'mutiNickWaitTimeOut'} mutiNickWaitTimeOut 多个曲目回复序号等待时长
  * 
- * @typedef {downIllUrl |
+ * @typedef { 'onLinerizIllUrl' |
+ * downIllUrl |
  * renderScale |
  * randerQuality |
  * timeout |

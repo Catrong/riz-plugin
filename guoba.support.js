@@ -98,8 +98,28 @@ export function supportGuoba() {
                     component: 'Divider'
                 },
                 {
-                    label: '',
-                    component: 'Divider'
+                    field: 'onLinePhiIllUrl',
+                    label: '在线曲绘来源',
+                    bottomHelpMessage: '仅在未下载曲绘时有效，不影响下载曲绘指令。在线曲绘将重复下载曲绘资源，建议使用 /下载曲绘 将曲绘缓存到本地',
+                    component: "RadioGroup",
+                    componentProps: {
+                        buttonStyle: "solid",
+                        optionType: "button",
+                        options: [
+                            {
+                                label: 'github',
+                                value: "https://github.com/Catrong/riz-plugin-ill/blob/main"
+                            },
+                            {
+                                label: 'github代理(gh-proxy)',
+                                value: "https://gh-proxy.org/https://raw.githubusercontent.com/Catrong/riz-plugin-ill/refs/heads/main"
+                            },
+                            {
+                                label: 'github代理(gitproxy.click)',
+                                value: "https://gitproxy.click/https://raw.githubusercontent.com/Catrong/riz-plugin-ill/refs/heads/main"
+                            }
+                        ]
+                    }
                 },
                 {
                     field: 'downIllUrl',

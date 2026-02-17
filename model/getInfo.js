@@ -249,7 +249,6 @@ export default new class getInfo {
          */
         let result = []
 
-        const usernick = Config.getUserCfg('nickconfig')
         const allinfo = this.ori_info
 
         for (let std in this.songnick) {
@@ -271,18 +270,6 @@ export default new class getInfo {
             dis = fCompute.jaroWinklerDistance(mic, allinfo[std].name)
             if (dis >= Distance) {
                 result.push({ id: allinfo[std].id, dis: dis })
-            }
-        }
-
-
-
-        for (let std in usernick) {
-            let dis = fCompute.jaroWinklerDistance(mic, std)
-            if (dis >= Distance) {
-                usernick[std].forEach((id, i) => {
-                    if (this.info(id) == undefined) return; //过滤无效id
-                    result.push({ id: usernick[std][i], dis: dis })
-                })
             }
         }
 
