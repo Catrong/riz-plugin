@@ -7,7 +7,7 @@
 
 ![version](https://img.shields.io/badge/插件版本-0.1.0-9cf?style=flat-square)
 ![version](https://img.shields.io/badge/Rizline-2.1.1-9cf?style=flat-square)
-![version](https://img.shields.io/badge/PhigrosVer-115-9cf?style=flat-square)
+![version](https://img.shields.io/badge/RizlineVer-115-9cf?style=flat-square)
 </div>
 
 ### 介绍
