@@ -89,7 +89,7 @@ export default new class getInfo {
 
         /**
          * 按dif分的info
-         * @type {Record<string, ChartInfoObject[]>}
+         * @type {Record<string, (ChartInfoObject & {id:idString, level:levelKind})[]>}
          */
         this.info_by_difficulty = {}
 
@@ -202,14 +202,16 @@ export default new class getInfo {
                 let info = this.ori_info[songId]
                 if (!info?.chart?.[level]?.diff) continue;
                 const difStr = info.chart[level].diff.toFixed(1);
+                /**@type {ChartInfoObject & {id:idString, level:levelKind}} */
+                const tempData = {
+                    id: songId,
+                    level: level,
+                    ...info.chart[level],
+                }
                 if (this.info_by_difficulty[difStr]) {
-                    this.info_by_difficulty[difStr].push({
-                        ...info.chart[level],
-                    })
+                    this.info_by_difficulty[difStr].push(tempData)
                 } else {
-                    this.info_by_difficulty[difStr] = [{
-                        ...info.chart[level],
-                    }]
+                    this.info_by_difficulty[difStr] = [tempData]
                 }
             }
         }

@@ -1,0 +1,132 @@
+<head>
+  <link rel="stylesheet" href="./table.css" />
+</head>
+
+<body>
+  <div class="page">
+    <div class="bg-particles" data-min="28" data-max="48" aria-hidden="true"></div>
+    <div class="title">
+      <div class="title-text text-stroke-div">
+        <p>Rizline<br />Constant Table</p>
+        <p>Rizline<br />Constant Table</p>
+      </div>
+    </div>
+    <div class="riz-ver text-stroke-div">
+      <p>Ver<br />2.1.1</p>
+      <p>Ver<br />2.1.1</p>
+    </div>
+    <div class="main-box">
+      <div class="dif-box">
+        <div class="dif text-stroke-div">
+          <p>11.0</p>
+        </div>
+        <div class="song-box">
+          <div class="song AT-song">
+            <div class="ill-box">
+              <img
+                src="../../../original_ill/illustration/illustration.PastelLines.RekuMochizuki.0.png"
+                alt="song"
+              />
+            </div>
+            <div class="level-point"></div>
+          </div>
+          <div class="song IN-song">
+            <div class="ill-box">
+              <img
+                src="../../../original_ill/illustration/illustration.PastelLines.RekuMochizuki.0.png"
+                alt="song"
+              />
+            </div>
+            <div class="level-point"></div>
+          </div>
+          <div class="song HD-song">
+            <div class="ill-box">
+              <img
+                src="../../../original_ill/illustration/illustration.PastelLines.RekuMochizuki.0.png"
+                alt="song"
+              />
+            </div>
+            <div class="level-point"></div>
+          </div>
+          <div class="song EZ-song">
+            <div class="ill-box">
+              <img
+                src="../../../original_ill/illustration/illustration.PastelLines.RekuMochizuki.0.png"
+                alt="song"
+              />
+            </div>
+            <div class="level-point"></div>
+          </div>
+        </div>
+      </div>
+      <div class="dif-box">
+        <div class="dif text-stroke-div">
+          <p>00.0</p>
+        </div>
+        <div class="song-box">
+          <div class="song AT-song">
+            <div class="ill-box">
+              <img
+                src="../../../original_ill/illustration/illustration.PastelLines.RekuMochizuki.0.png"
+                alt="song"
+              />
+            </div>
+            <div class="level-point"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="createdbox">
+      <div class="riz-plugin text-stroke-div">
+        <p>{{_plugin}}</p>
+        <p>{{_plugin}}</p>
+      </div>
+      <div class="ver text-stroke-div">
+        <p>{{Version.ver}}</p>
+        <p>{{Version.ver}}</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    ;(function () {
+      const container = document.querySelector(".bg-particles")
+      if (!container) return
+
+      const min = Number(container.dataset.min ?? 24)
+      const max = Number(container.dataset.max ?? 44)
+      const count = Math.max(0, Math.floor(min + Math.random() * (max - min + 1)))
+
+      const sizeMin = 10
+      const sizeMax = 90
+      const opacityMin = 0.05
+      const opacityMax = 0.22
+
+      const rand = (a, b) => a + Math.random() * (b - a)
+      const randInt = (a, b) => Math.floor(rand(a, b + 1))
+
+      const frag = document.createDocumentFragment()
+      for (let i = 0; i < count; i++) {
+        const el = document.createElement("div")
+        el.className = "bg-particle"
+
+        const size = randInt(sizeMin, sizeMax)
+        const opacity = rand(opacityMin, opacityMax)
+
+        // 稍微溢出边界，让分布更自然
+        const left = rand(-10, 110)
+        const top = rand(-10, 110)
+
+        el.style.width = size + "px"
+        el.style.height = size + "px"
+        el.style.opacity = String(opacity)
+        el.style.left = left + "%"
+        el.style.top = top + "%"
+
+        frag.appendChild(el)
+      }
+
+      container.appendChild(frag)
+    })()
+  </script>
+</body>

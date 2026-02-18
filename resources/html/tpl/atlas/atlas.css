@@ -19,10 +19,10 @@ body {
   height: 700px;
   margin-top: 50px;
   border: solid 5px #ffffff44;
+  background-color: #ffffffdd;
   border-radius: var(--border-radius-size);
   overflow: visible;
   position: relative;
-  background-color: #ffffffdd;
   background-clip: padding-box;
 }
 
@@ -78,6 +78,9 @@ body {
   width: 100%;
   height: 60px;
   position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .name p {
@@ -234,6 +237,7 @@ body {
   align-items: center;
   --stroke-color: var(--theme-health-color);
   --stroke-width: 2px;
+  --stroke-text-color: white;
 }
 
 .hit-box {
@@ -280,6 +284,8 @@ body {
 
 .score {
   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .score p {
@@ -316,6 +322,7 @@ body {
   align-items: center;
   --stroke-color: var(--theme-health-color);
   --stroke-width: 2px;
+  --stroke-text-color: white;
   --theme-bg-color: #ffffffff;
   --theme-note-color: #ffd40b;
   --theme-health-color: #b19d3c;
@@ -386,10 +393,10 @@ body {
   position: absolute;
 }
 
-.riz-plugin p {
-  font-size: 40px;
+.riz-plugin {
+  --font-size: 40px;
 }
 
-.ver p {
-  font-size: 20px;
+.ver {
+  --font-size: 30px;
 }

@@ -17,3 +17,10 @@ export const redisPath = "rizPlugin"
 
 /**最大难度 */
 export const MAX_DIFFICULTY = 15.1
+
+export const levelColors = {
+    EZ: "#57e4c4",
+    HD: "#feba61",
+    IN: "#fe8661",
+    AT: "#4b364c",
+}

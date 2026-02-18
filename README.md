@@ -6,6 +6,8 @@
 [![Stars](https://img.shields.io/github/stars/Catrong/riz-plugin?style=flat-square&color=yellow&label=Star)](../../stargazers)
 
 ![version](https://img.shields.io/badge/插件版本-0.1.0-9cf?style=flat-square)
+![version](https://img.shields.io/badge/Rizline-2.1.1-9cf?style=flat-square)
+![version](https://img.shields.io/badge/PhigrosVer-115-9cf?style=flat-square)
 </div>
 
 ### 介绍
@@ -62,7 +64,6 @@ pnpm install -P
 
 * [ ] 别名
 * [ ] 帮助菜单
-* [ ] 定数表
 * [ ] 查分
 
 ---
@@ -76,6 +77,7 @@ pnpm install -P
 | **功能名称** | **功能说明**
 | :- | :-
 | `#riz (song\|曲) xxx` | 查询 rizline 中某一曲目的图鉴
+| `#riz (table\|定数表) <定数>\+?` | 查询 rizline 定数表，14 = (14.0, 14.5)，14+ = (14.6, 14.9)
 
 #### **以下为管理功能**
 
