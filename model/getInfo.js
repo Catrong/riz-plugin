@@ -9,13 +9,8 @@ import fCompute from './fCompute.js'
 import logger from '../components/Logger.js'
 
 /**
- * @typedef {Object} themeColorObject
- * @property {string} r red
- * @property {string} g green
- * @property {string} b blue
- * @property {string} a alpha
  * 
- * @typedef {[bg:themeColorObject, note:themeColorObject, health: themeColorObject]} themeColorArray
+ * @typedef {[bg:string, note:string, health: string]} themeColorArray
  * 
  * @typedef {Object} challengeTimesObject
  * @property {number} checkPoint 检查点，作用尚不明确。

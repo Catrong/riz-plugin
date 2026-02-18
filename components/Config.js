@@ -22,6 +22,9 @@ class Config {
         let path = `${Plugin_Path}/config/config/`
         let pathDef = `${Plugin_Path}/config/default_config/`
         const files = fs.readdirSync(pathDef).filter(file => file.endsWith('.yaml'))
+        if (!fs.existsSync(path)) {
+            fs.mkdirSync(path, { recursive: true })
+        }
         for (let file of files) {
             if (!fs.existsSync(`${path}${file}`)) {
                 fs.copyFileSync(`${pathDef}${file}`, `${path}${file}`)
