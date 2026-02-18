@@ -86,6 +86,11 @@ export class rizsong extends rizPluginBase {
 
         difficulty = Math.round(difficulty) + (plus ? 0.6 : 0);
 
+        if (difficulty > MAX_DIFFICULTY) {
+            send.send_with_At(e, `定数不能大于${MAX_DIFFICULTY}哦！`)
+            return true
+        }
+
         const MaxDif = Math.floor(MAX_DIFFICULTY);
 
         const data = {
