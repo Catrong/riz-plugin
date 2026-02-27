@@ -1,0 +1,379 @@
+@import "../../common/common.css";
+
+body {
+  width: 1800px;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+  /* overflow: hidden; */
+  --theme-color: var(--clear-color);
+}
+
+.background-list {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  /* overflow: hidden; */
+  pointer-events: none;
+  --hex-gap: 20px;
+  transform: rotate3d(-1, 0.5, 0, 35deg);
+  filter: blur(5px);
+}
+
+.bg-ill {
+  --size: 200px;
+  height: var(--size);
+  width: var(--size);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid var(--clear-color);
+  border-radius: 50%;
+  background: #fff;
+  box-sizing: border-box;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.bg-ill img {
+  height: calc(var(--size) * 0.95);
+  width: calc(var(--size) * 0.95);
+  border-radius: 50%;
+}
+
+.bg-list-cover {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background: #ffffffaa;
+  z-index: 1;
+}
+
+.title {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin: 50px 0;
+  position: relative;
+  z-index: 1;
+}
+
+.player-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  --border-size: 4px;
+  border: 2px var(--topic-color) solid;
+  border-radius: calc(50px + var(--border-size));
+}
+
+.avatar {
+  height: 100%;
+  width: auto;
+  border: var(--border-size) solid #fff;
+  border-radius: 50%;
+  overflow: hidden;
+  position: relative;
+  z-index: 3;
+  box-sizing: border-box;
+}
+
+.avatar img {
+  height: 100%;
+  width: auto;
+}
+
+.info-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  width: 375px;
+  margin-left: -50px;
+  border: var(--border-size) white solid;
+  border-radius: 0px 50px 50px 0px;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.player-id {
+  height: 65%;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+
+.player-bg {
+  width: 100%;
+  position: absolute;
+}
+
+.player-bg img {
+  width: 100%;
+}
+
+.player-bg-cover {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgb(0 0 0), rgba(0, 0, 0, 0.5));
+  position: absolute;
+}
+
+.player-name {
+  z-index: 2;
+  position: absolute;
+  left: 55px;
+  right: 42px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.player-name p {
+  color: white;
+  font-size: 35px;
+}
+
+.player-rks {
+  height: 35%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  position: relative;
+  justify-content: center;
+  --bgColor1: #e69d56ff;
+  --bgColor2: #e69d56ff;
+  --fgColor: #ffffffff;
+  overflow: hidden;
+}
+
+.player-rks-cover {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(180deg, var(--bgColor1), var(--bgColor2));
+  position: absolute;
+}
+
+.player-rks p {
+  color: var(--fgColor);
+}
+
+.player-rks-text {
+  position: absolute;
+  opacity: 50%;
+  font-weight: 1000;
+  right: 17px;
+  top: -5px;
+}
+
+.player-bio-text {
+  position: absolute;
+  left: 55px;
+  right: 105px;
+  display: flex;
+  gap: 0px;
+  height: 100%;
+  align-items: center;
+}
+
+.player-bio-text p {
+  color: white;
+  font-size: 20px;
+}
+
+.player-rks-text p {
+  font-size: 23px;
+}
+
+.player-rks-num-box {
+  position: absolute;
+  right: 35px;
+  bottom: 1px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  font-weight: 700;
+}
+
+.player-rks-int p {
+  font-size: 20px;
+  margin-bottom: -1px;
+}
+
+.player-rks-float p {
+  font-size: 15px;
+}
+
+.main-box {
+  display: flex;
+  width: 1600px;
+  justify-content: flex-start;
+  margin-bottom: 100px;
+  flex-wrap: wrap;
+  position: relative;
+  z-index: 1;
+}
+
+.song {
+  position: relative;
+  height: var(--height);
+  width: 300px;
+  display: flex;
+  --height: 100px;
+  margin: 10px;
+}
+
+.EZ-BOX {
+  --level-color: var(--EZ);
+}
+
+.HD-BOX {
+  --level-color: var(--HD);
+}
+
+.IN-BOX {
+  --level-color: var(--IN);
+}
+
+.AT-BOX {
+  --level-color: var(--AT);
+}
+
+.P-BOX {
+  .info-down {
+    border-color: var(--phi-color);
+  }
+
+  .song-rks-real {
+    --stroke-color: var(--phi-color);
+    --stroke-text-color: var(--level-color);
+  }
+}
+
+.ill {
+  height: var(--height);
+  width: var(--height);
+  border: 2px solid;
+  border-color: var(--level-color);
+  background: #fff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  z-index: 1;
+}
+
+.ill img {
+  height: 95%;
+  width: auto;
+  border-radius: 50%;
+}
+
+.info-box {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  width: 200px;
+}
+
+.info-up {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 50%;
+  position: relative;
+  padding-left: 10px;
+}
+
+.level {
+  height: 20px;
+  padding: 0 10px;
+  border-radius: 10px;
+  width: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 2;
+  flex-direction: row;
+  background: var(--level-color);
+}
+
+.level p {
+  font-size: 18px;
+  font-weight: 1000;
+  color: #fff;
+  margin-bottom: -2px;
+  text-shadow:
+    0 0 1px #000,
+    0 0 1px #000;
+}
+
+.song-name {
+  width: 100%;
+  height: 60%;
+  display: flex;
+  align-items: center;
+  --stroke-color: var(--level-color);
+  --stroke-width: 2px;
+  --stroke-text-color: white;
+}
+
+.song-name p {
+  font-size: 25px;
+}
+
+.info-down {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 50%;
+  background: #fff;
+  margin-left: -70px;
+  padding-left: 70px;
+  padding-right: 15px;
+  border-radius: 25px;
+  border: 2px solid var(--clear-color);
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.song-rks-box {
+  position: absolute;
+  display: flex;
+  align-items: flex-end;
+}
+
+.song-rks-real {
+  --stroke-color: var(--level-color);
+  --stroke-width: 3px;
+  --stroke-text-color: white;
+}
+
+.song-rks-real p {
+  font-size: 30px;
+  margin-bottom: -4px;
+  font-weight: 1000;
+}
+
+.song-rks-max p {
+  font-size: 15px;
+  color: black;
+}
+
+.riz-plugin {
+  --font-size: 40px;
+}
+
+.ver {
+  --font-size: 30px;
+}

@@ -18,21 +18,6 @@ body {
   align-items: center;
 }
 
-.bg-particles {
-  position: absolute;
-  inset: 0;
-  overflow: hidden;
-  pointer-events: none;
-  z-index: 0;
-}
-
-.bg-particle {
-  position: absolute;
-  border-radius: 50%;
-  background: var(--theme-color);
-  transform: translate(-50%, -50%);
-}
-
 .title {
   position: absolute;
   width: 800px;

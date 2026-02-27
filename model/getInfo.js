@@ -104,6 +104,16 @@ export default new class getInfo {
                 this.init()
             });
         }
+
+        /**
+         * @type {Record<string, Record<'name' | 'title1' | 'title2' | 'desc', string>>}
+         */
+        this.achievements = {}
+
+        /**
+         * @type {Record<string, Record<'title1' | 'title2', string>>}
+         */
+        this.bios = {}
     }
 
     static initIng = false
@@ -125,6 +135,9 @@ export default new class getInfo {
         this.idssong = {}
         this.info_by_difficulty = {}
         this.idList = []
+
+        this.achievements = readFile.FileReader(path.join(infoPath, 'achievements.json'))
+        this.bios = readFile.FileReader(path.join(infoPath, 'bios.json'))
 
         /**最高定数 */
         this.MAX_DIFFICULTY = 0
@@ -306,6 +319,48 @@ export default new class getInfo {
             ans = `${Config.getUserCfg('config', 'onLinerizIllUrl')}/illustration/illustration.${id}.png`;
         }
         return ans
+    }
+
+    /**
+     * 获取曲绘（不校验曲目是否存在）。
+     * 适用于 rizcard 的 avatar/background 等资源：它们是 illustrationId，不一定在 ori_info 里。
+     * @param {string} id 曲绘/曲目 id（不带 illustration. 前缀）
+     * @return {string}
+     */
+    getillAny(id) {
+        const sid = String(id || '').trim().replace(/^track/, 'illustration')
+        if (!sid) return ''
+        let ans = path.join(originalIllPath, "illustration", `${sid}.png`)
+        if (!fs.existsSync(ans)) {
+            ans = `${Config.getUserCfg('config', 'onLinerizIllUrl')}/illustration/${sid}.png`;
+        }
+        return ans
+    }
+
+    /**
+     * 获取称号文本（bioId 可能是 bio.xxx 或 xxx）。
+     * @param {string} bioId
+     * @returns {string | null}
+     */
+    getBioTitle(bioId) {
+        const raw = String(bioId || '').trim()
+        if (!raw) return null
+        let [kind, key, key2] = raw.split('.')
+        key = key.match(/\[(.*)\]/)?.[1] || '' // 提取方括号内的内容
+        if (!kind || !key || !key2) {
+            logger.error(`[riz-plugin] 无效的 bioId 格式: ${bioId}`)
+            return null;
+        }
+
+        switch (kind) {
+            case 'bio':
+                return this.bios?.[key]?.[/**@type {'title1' | 'title2'} */(key2)] || null;
+            case 'ach':
+                return this.achievements?.[key]?.[/**@type {'name' | 'title1' | 'title2' | 'desc'} */(key2)] || null;
+            default:
+                logger.error(`[riz-plugin] 未知的 bioId 类型: ${kind} (来自 bioId: ${bioId})`)
+                return null;
+        }
     }
 
     /**

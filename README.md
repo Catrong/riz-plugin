@@ -78,6 +78,11 @@ pnpm install -P
 | :- | :-
 | `#riz (song\|曲) xxx` | 查询 rizline 中某一曲目的图鉴
 | `#riz (table\|定数表) <定数>\+?` | 查询 rizline 定数表，14 = (14.0, 14.5)，14+ = (14.6, 14.9)
+| `#riz (bind\|绑定) otk_xxx [备注]` | 绑定平台账号（通过一次性密钥兑换 sessionToken，供后续平台功能使用）
+| `#riz (unbind\|解绑平台)` | 解绑平台账号
+| `#riz (bindinfo\|绑定平台)` | 查看当前平台绑定状态
+| `#update` | 拉取并缓存 Rizline 存档（需要先绑定平台 sessionToken）
+| `#b40` | 根据已缓存的存档 `levelsRks` 生成并渲染 b40 图（需要先执行 `#update`）
 
 #### **以下为管理功能**
 

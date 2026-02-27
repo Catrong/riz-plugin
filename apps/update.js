@@ -67,14 +67,11 @@ export class rizupdate extends rizPluginBase {
             this.e.reply("riz-plugin更新失败QAQ!" + err)
             console.error(err)
         }
-
-        if (Config.getUserCfg('config', 'autoPullrizIll')) {
-            try {
-                await this.ill_update()
-            } catch (err) {
-                this.e.reply("曲绘文件更新失败QAQ!" + err)
-                console.error(err)
-            }
+        try {
+            await this.ill_update()
+        } catch (err) {
+            this.e.reply("曲绘文件更新失败QAQ!" + err)
+            console.error(err)
         }
 
 
@@ -187,12 +184,8 @@ export class rizupdate extends rizPluginBase {
         if (line <= 0) return false;
         log.unshift(`riz-plugin更新日志，共${line}条`);
 
-        if (!Config.getUserCfg('config', 'isGuild')) {
-            log.push("更多详细信息，请前往github查看\nhttps://github.com/Catrong/riz-plugin");
-            await this.reply(await common.makeForwardMsg(this.e, log, `riz-plugin更新日志，共${line}条`))
-        } else {
-            await this.reply(log.join("\n"))
-        }
+        log.push("更多详细信息，请前往github查看\nhttps://github.com/Catrong/riz-plugin");
+        await this.reply(await common.makeForwardMsg(this.e, log, `riz-plugin更新日志，共${line}条`))
 
         return ifrestart;
     }
@@ -388,9 +381,6 @@ export class rizupdate extends rizPluginBase {
             if (str[0] == this.oldCommitId) break;
             if (str[1].includes("Merge branch")) continue;
             log.push(str[1]);
-        }
-        if (!Config.getUserCfg('config', 'isGuild')) {
-            log.push("更多详细信息，请前往github查看\nhttps://github.com/Catrong/riz-plugin-ill");
         }
 
         let line = log.length;

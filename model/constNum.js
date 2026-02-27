@@ -24,3 +24,5 @@ export const levelColors = {
     IN: "#fe8661",
     AT: "#4b364c",
 }
+
+export const ApiBaseUrl = "https://phib19.top:8090"

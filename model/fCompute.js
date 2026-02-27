@@ -681,4 +681,20 @@ export default class fCompute {
         return hexColor;
     }
 
+    static getCmdHead() {
+        return Config.getUserCfg('config', 'cmdhead')
+    }
+
+
+    /**
+     * @param {string} txt
+     */
+    static safeJsonParse(txt) {
+        try {
+            return JSON.parse(txt)
+        } catch {
+            return null
+        }
+    }
+
 }

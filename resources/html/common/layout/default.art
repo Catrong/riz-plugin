@@ -19,8 +19,8 @@
     <div class="background">
         {{if background}}
         <img src="{{background}}" alt="曲绘-模糊">
-        {{else}}
-        <img src="{{_res_path}}html/otherimg/phigros.png" alt="曲绘-模糊">
+        <div class="background-cover"></div>
+        
         {{/if}}
     </div>
 
@@ -71,8 +71,8 @@
             }
 
         }
-        window.onload = adjustFontSize
-        window.onresize = adjustFontSize
+        window.addEventListener('load', adjustFontSize)
+        window.addEventListener('resize', adjustFontSize)
     </script>
 </body>
 
