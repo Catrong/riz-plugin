@@ -102,7 +102,7 @@ export class rizupdate extends rizPluginBase {
             let repoPath = "./plugins/riz-plugin/";
             command = [
                 `git -C ${repoPath} fetch --all --prune`,
-                `git -C ${repoPath} reset --hard origin/main`,
+                `git -C ${repoPath} reset --hard origin/master`,
                 `git -C ${repoPath} clean -fd`
             ].join(" && ");
             this.e.reply("开始执行强制更新操作，请稍等");
@@ -318,7 +318,7 @@ export class rizupdate extends rizPluginBase {
         let repoPath = "./plugins/riz-plugin/resources/original_ill/";
         let command = [
             `git -C ${repoPath} fetch --all --prune`,
-            `git -C ${repoPath} reset --hard origin/main`,
+            `git -C ${repoPath} reset --hard origin/master`,
             `git -C ${repoPath} clean -fd`
         ].join(" && ");
         this.e.reply("开始更新曲绘文件，请稍等");
