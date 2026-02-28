@@ -28,7 +28,12 @@
             <p name="pvis">{{playerInfo.name}}</p>
           </div>
         </div>
-        <div class="player-rks">
+        <div
+          class="player-rks"
+          style="--bgColor1: {{playerInfo.rksColor.bgColor1}};
+            --bgColor2: {{playerInfo.rksColor.bgColor2}};
+            --fgColor: {{playerInfo.rksColor.fgColor}}"
+        >
           <div class="player-rks-cover"></div>
           <div class="player-bio-text">
             <p name="pvis">{{playerInfo.bio1}} {{playerInfo.bio2}}</p>

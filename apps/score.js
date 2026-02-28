@@ -40,7 +40,7 @@ export class rizscore extends rizPluginBase {
 			await send.send_with_At(e, '这里被管理员禁止使用 b40 功能了呐QAQ！')
 			return true
 		}
-		
+
 		const record = await send.get_record(e);
 		if (!record) {
 			return true;
@@ -83,6 +83,11 @@ export class rizscore extends rizPluginBase {
 			rks: {
 				int: rksInt || '0',
 				float: `.${rksFrac || '00'}`
+			},
+			rksColor: getInfo.layoutColors[record?.rizcard?.layoutId] || {
+				"bgColor1": "#e69d56ff",
+				"bgColor2": "#e69d56ff",
+				"fgColor": "#ffffffff"
 			}
 		}
 

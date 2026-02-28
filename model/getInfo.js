@@ -99,12 +99,6 @@ export default new class getInfo {
          */
         this.idList = []
 
-        if (Config.getUserCfg('config', 'watchInfoPath')) {
-            chokidar.watch(infoPath).on('change', () => {
-                this.init()
-            });
-        }
-
         /**
          * @type {Record<string, Record<'name' | 'title1' | 'title2' | 'desc', string>>}
          */
@@ -114,6 +108,17 @@ export default new class getInfo {
          * @type {Record<string, Record<'title1' | 'title2', string>>}
          */
         this.bios = {}
+
+        /**
+         * @type {Record<string, Record<'bgColor1' | 'bgColor2' | 'fgColor', string>>}
+         */
+        this.layoutColors = {}
+
+        if (Config.getUserCfg('config', 'watchInfoPath')) {
+            chokidar.watch(infoPath).on('change', () => {
+                this.init()
+            });
+        }
     }
 
     static initIng = false
@@ -138,6 +143,16 @@ export default new class getInfo {
 
         this.achievements = readFile.FileReader(path.join(infoPath, 'achievements.json'))
         this.bios = readFile.FileReader(path.join(infoPath, 'bios.json'))
+        const layoutColorsJson = readFile.FileReader(path.join(infoPath, 'layoutColors.json'))
+
+        this.layoutColors = {}
+        layoutColorsJson.forEach((/**@type {any} */ item) => {
+            this.layoutColors[item.id] = {
+                bgColor1: item.bgColor1,
+                bgColor2: item.bgColor2,
+                fgColor: item.fgColor
+            }
+        })
 
         /**最高定数 */
         this.MAX_DIFFICULTY = 0
