@@ -173,7 +173,7 @@ body {
 .player-rks-cover {
   width: 100%;
   height: 100%;
-  background: linear-gradient(180deg, var(--bgColor1), var(--bgColor2));
+  background: linear-gradient(90deg, var(--bgColor1), var(--bgColor2));
   position: absolute;
 }
 
@@ -200,7 +200,6 @@ body {
 }
 
 .player-bio-text p {
-  color: white;
   font-size: 20px;
 }
 
@@ -307,6 +306,7 @@ body {
   height: 50%;
   position: relative;
   padding-left: 10px;
+  align-items: flex-start;
 }
 
 .level {
@@ -333,10 +333,11 @@ body {
 }
 
 .song-name {
-  width: 100%;
+  width: 90%;
   height: 60%;
   display: flex;
   align-items: center;
+  position: relative;
   --stroke-color: var(--level-color);
   --stroke-width: 2px;
   --stroke-text-color: white;

@@ -30,9 +30,7 @@
         </div>
         <div
           class="player-rks"
-          style="--bgColor1: {{playerInfo.rksColor.bgColor1}};
-            --bgColor2: {{playerInfo.rksColor.bgColor2}};
-            --fgColor: {{playerInfo.rksColor.fgColor}}"
+          style="--bgColor1: {{playerInfo.rksColor.bgColor1}}; --bgColor2: {{playerInfo.rksColor.bgColor2}}; --fgColor: {{playerInfo.rksColor.fgColor}}"
         >
           <div class="player-rks-cover"></div>
           <div class="player-bio-text">
