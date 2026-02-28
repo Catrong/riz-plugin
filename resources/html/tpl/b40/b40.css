@@ -109,7 +109,7 @@ body {
   justify-content: center;
   height: 100%;
   width: 375px;
-  margin-left: -50px;
+  margin-left: calc(var(--ava-size) / -2);
   border: var(--border-size) white solid;
   border-radius: 0px calc(var(--ava-size) / 2 + var(--border-size))
     calc(var(--ava-size) / 2 + var(--border-size)) 0px;

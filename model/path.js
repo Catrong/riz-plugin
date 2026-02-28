@@ -46,7 +46,7 @@ export const configPath = path.join(pluginRoot, 'config', 'config')
 export const defaultPath = path.join(pluginRoot, 'config', 'default_config')
 
 /**默认图片路径 */
-export const imgPath = path.join(pluginResources, 'html', 'otherimg')
+export const otherimgPath = path.join(pluginResources, 'html', 'otherimg')
 
 /**用户图片路径 */
 export const ortherIllPath = path.join(pluginResources, 'otherill')

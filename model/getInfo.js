@@ -1,5 +1,5 @@
 import readFile from './getFile.js'
-import { DlcInfoPath, configPath, imgPath, infoPath, originalIllPath, ortherIllPath, oldInfoPath } from './path.js'
+import { otherimgPath, infoPath, originalIllPath } from './path.js'
 import path from 'path'
 import Config from '../components/Config.js'
 import fs from 'fs'
@@ -392,7 +392,16 @@ export default new class getInfo {
      * @param {songString} song 原曲曲名
      * @returns {idString | undefined} 曲目id
      */
-    SongGetId(song) {
+    songGetId(song) {
         return this.idssong?.[song]
+    }
+
+    /**
+     * 
+     * @param {string} fileName 
+     * @returns 
+     */
+    getOtherimg(fileName) {
+        return path.join(otherimgPath, fileName)
     }
 }()

@@ -1,7 +1,7 @@
 import common from '../../../lib/common/common.js'
 import puppeteer from './puppeteer.js'
 import { Data, Version, Plugin_Name, Display_Plugin_Name, Config } from '../components/index.js'
-import { _path, pluginResources, imgPath, tempPath } from './path.js'
+import { _path, pluginResources, otherimgPath, tempPath } from './path.js'
 import fCompute from './fCompute.js'
 import fs from 'node:fs'
 import logger from '../components/Logger.js'
@@ -118,7 +118,7 @@ export default await new class picmodle {
                         tplFile: `./plugins/${Plugin_Name}/resources/html/tpl/${app}/${tpl}.art`,
                         pluResPath: resPath,
                         _res_path: resPath,
-                        _imgPath: imgPath + '/',
+                        _imgPath: otherimgPath + '/',
                         _layout_path: layoutPath,
                         defaultLayout: layoutPath + 'default.art',
                         elemLayout: layoutPath + 'elem.art',

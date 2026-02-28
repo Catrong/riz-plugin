@@ -74,7 +74,7 @@ export class rizscore extends rizPluginBase {
 		const [rksInt, rksFrac] = totalRksStr.split('.')
 
 		const playerInfo = {
-			avatar: getInfo.getillAny(record?.rizcard?.avatarId),
+			avatar: getInfo.getillAny(record?.rizcard?.avatarId) || getInfo.getOtherimg('default_avatar.png'),
 			avaPoz: record.rizcard.avatarPos || { x: 0, y: 0, z: 1 },
 			bg: getInfo.getillAny(record?.rizcard?.backgroundId),
 			name: String(record?.username || record?.userId || e.user_id),
