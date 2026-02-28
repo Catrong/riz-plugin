@@ -68,26 +68,39 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100px;
+  /* height: 100px; */
   --border-size: 4px;
+  --ava-scale: 0.1;
+  --ava-size: calc(1080px * var(--ava-scale));
   border: 2px var(--topic-color) solid;
-  border-radius: calc(50px + var(--border-size));
+  border-radius: calc(var(--ava-size) / 2 + var(--border-size));
 }
 
 .avatar {
-  height: 100%;
-  width: auto;
+  height: var(--ava-size);
+  width: var(--ava-size);
   border: var(--border-size) solid #fff;
   border-radius: 50%;
   overflow: hidden;
   position: relative;
   z-index: 3;
-  box-sizing: border-box;
+  --x: 0;
+  --y: 0;
+  --z: 1;
 }
 
 .avatar img {
-  height: 100%;
-  width: auto;
+  --img-size: calc(var(--ava-scale) * 1080px);
+  height: var(--img-size);
+  width: var(--img-size);
+  position: absolute;
+  --x-poz: calc((var(--x) * 720px) * var(--ava-scale) * -1);
+  --y-poz: calc((var(--y) * 720px) * var(--ava-scale) * -1);
+  transform-origin: calc((1080px - (var(--x) * 720px)) * var(--ava-scale))
+    calc((var(--y) * 720px) * var(--ava-scale));
+  right: var(--x-poz);
+  top: var(--y-poz);
+  transform: scale(var(--z));
 }
 
 .info-right {
@@ -98,7 +111,8 @@ body {
   width: 375px;
   margin-left: -50px;
   border: var(--border-size) white solid;
-  border-radius: 0px 50px 50px 0px;
+  border-radius: 0px calc(var(--ava-size) / 2 + var(--border-size))
+    calc(var(--ava-size) / 2 + var(--border-size)) 0px;
   overflow: hidden;
   box-sizing: border-box;
 }

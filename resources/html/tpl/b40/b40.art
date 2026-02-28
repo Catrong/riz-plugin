@@ -9,7 +9,7 @@
 
   <div class="title">
     <div class="player-info">
-      <div class="avatar">
+      <div class="avatar" style="--x: {{playerInfo.avaPoz.x}}; --y: {{playerInfo.avaPoz.y}}; --z: {{playerInfo.avaPoz.z}}">
         <img
           src="{{playerInfo.avatar}}"
           alt="avatar"
