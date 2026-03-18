@@ -113,7 +113,7 @@ export class rizsong extends rizPluginBase {
             data.color = interpolateHSV(levelColors.IN, levelColors.AT, (difficulty - INP) / (ATP - INP));
         }
 
-        for (let i = 0; i < (plus ? 5 : 6); i++) {
+        for (let i = 0; i < (plus ? 4 : 6); i++) {
             const diff = (difficulty + i * 0.1).toFixed(1);
             const songsInfo = getInfo.info_by_difficulty[diff];
             /**

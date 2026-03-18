@@ -5,8 +5,6 @@ import getInfo from '../model/getInfo.js'
 import fCompute from '../model/fCompute.js'
 import picmodle from '../model/picmodle.js'
 import send from '../model/send.js'
-import { getPlatformBind } from '../model/platformBindStore.js'
-import { getRecordCache } from '../model/platformRecordStore.js'
 
 /** @import { botEvent } from '../components/baseClass.js' */
 
