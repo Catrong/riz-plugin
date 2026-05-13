@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/Catrong/riz-plugin?style=flat-square&color=yellow&label=Star)](../../stargazers)
 
 ![version](https://img.shields.io/badge/插件版本-0.1.0-9cf?style=flat-square)
-![version](https://img.shields.io/badge/Rizline-2.1.1-9cf?style=flat-square)
+![version](https://img.shields.io/badge/Rizline-2.5.0-9cf?style=flat-square)
 ![version](https://img.shields.io/badge/RizlineVer-119-9cf?style=flat-square)
 </div>
 
