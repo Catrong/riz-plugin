@@ -22,6 +22,69 @@ function getApiConfig() {
 }
 
 /**
+ * 发起临时绑定挑战（给 BOT 绑定用）
+ * @param {string | number} botUserKey
+ * @param {number | undefined} expiresInSeconds
+ * @param {string | undefined} platformNote
+ */
+export async function createBindingChallenge(botUserKey, expiresInSeconds, platformNote) {
+  const { baseUrl, timeout } = getApiConfig()
+  if (!baseUrl) {
+    throw new Error('ApiBaseUrl 未配置')
+  }
+
+  try {
+    const res = await axios.post(
+      `${baseUrl}/auth/challenges`,
+      {
+        botUserKey: String(botUserKey),
+        expiresInSeconds,
+        platformNote
+      },
+      {
+        timeout,
+        headers: {
+          'Content-Type': 'application/json'
+        }
+      }
+    )
+    return res.data
+  } catch (/**@type {any} */ err) {
+    const message = err?.response?.data?.message || err?.message || String(err)
+    logger.error(`[riz-plugin] platformApi.createBindingChallenge: ${message}`)
+    throw err
+  }
+}
+
+/**
+ * 轮询临时绑定挑战状态
+ * @param {string} pollToken
+ */
+export async function pollBindingChallenge(pollToken) {
+  const { baseUrl, timeout } = getApiConfig()
+  if (!baseUrl) {
+    throw new Error('ApiBaseUrl 未配置')
+  }
+
+  try {
+    const res = await axios.get(`${baseUrl}/auth/challenges/poll`, {
+      timeout,
+      params: {
+        pollToken
+      },
+      headers: {
+        'Content-Type': 'application/json'
+      }
+    })
+    return res.data
+  } catch (/**@type {any} */ err) {
+    const message = err?.response?.data?.message || err?.message || String(err)
+    logger.error(`[riz-plugin] platformApi.pollBindingChallenge: ${message}`)
+    throw err
+  }
+}
+
+/**
  * 通过一次性密钥兑换 sessionToken（给 BOT 绑定用）
  * @param {string} oneTimeKey
  * @param {string | undefined} platformNote
